@@ -54,14 +54,14 @@ def list_gameboy_games():
     if not os.path.exists(gameboy_folder):
         print('The "gameboy games" folder does not exist.')
         return False
-    zip_files = [f for f in os.listdir(gameboy_folder) if f.endswith('.zip')]
+    gb_files = [f for f in os.listdir(gameboy_folder) if f.endswith('.gb')]
 
-    if not zip_files:
-        print('No .zip files present in the "gameboy games" folder.')
+    if not gb_files:
+        print('No .gb files present in the "gameboy games" folder.')
         time.sleep(5)
         return False
 
-    return zip_files
+    return gb_files
 
 def remove_version_region_info(filename):
     new_filename = re.sub(r'[\(\[].*?[\)\]]', '', filename)
@@ -146,17 +146,17 @@ def special_names():
     except Exception as e:
         print(f"Error in special_names: {e}")
 
-def transfer_matching_cover_art(zip_files, art_files):
+def transfer_matching_cover_art(gb_files, art_files):
     renamed_folder = os.path.join(os.getcwd(), "renamed cover art")
     if not os.path.exists(renamed_folder):
         os.makedirs(renamed_folder)
 
-    for zip_file in zip_files:
-        zip_file_base = os.path.splitext(zip_file)[0]
+    for gb_file in gb_files:
+        gb_file_base = os.path.splitext(gb_file)[0]
         for art_file in art_files:
             art_file_base = os.path.splitext(os.path.basename(art_file))[0]
-            if art_file_base.lower() == zip_file_base.lower():
-                new_art_name = f"{zip_file_base}.zip.png"
+            if art_file_base.lower() == gb_file_base.lower():
+                new_art_name = f"{gb_file_base}.gb.png"
                 new_art_path = os.path.join(renamed_folder, new_art_name)
                 
                 if os.path.exists(new_art_path):
@@ -173,31 +173,31 @@ def main():
     answer = input("Would you like to see your listed GameBoy games? (yes/no): ").strip().lower()
 
     if answer == 'yes':
-        zip_files = list_gameboy_games()
-        if zip_files:
+        gb_files = list_gameboy_games()
+        if gb_files:
             print("Here are your GameBoy games:")
-            for file in zip_files:
+            for file in gb_files:
                 print(file)
             print("\n\n\nThese are the games I picked up!")
         else:
-            print("No .zip files present in the 'gameboy games' folder.")
+            print("No .gb files present in the 'gameboy games' folder.")
             time.sleep(5)
             return
     else:
         print("Too Bad, So Sad...")
         time.sleep(3)
-        zip_files = list_gameboy_games()
-        if zip_files:
+        gb_files = list_gameboy_games()
+        if gb_files:
             print("Here are your GameBoy games:")
-            for file in zip_files:
+            for file in gb_files:
                 print(file)
             print("\n\n\nThese are the games I picked up!")
         else:
-            print("No .zip files present in the 'gameboy games' folder.")
+            print("No .gb files present in the 'gameboy games' folder.")
             time.sleep(5)
             return
 
-    if zip_files:
+    if gb_files:
         print("\n\n")
         
         answer = input("Would you like to check for duplicate titles? (yes/no): ").strip().lower()
@@ -234,11 +234,11 @@ def main():
                 print("No duplicate titles found.")
             input("Press Enter to continue...")
 
-        answer = input("Would you like to remove the version and region information from the title names?\nExample: 'Pokemon Blue (USA).zip' would be changed to 'Pokemon Blue.zip'\nYes or no? ").strip().lower()
+        answer = input("Would you like to remove the version and region information from the title names?\nExample: 'Pokemon Blue (USA).gb' would be changed to 'Pokemon Blue.gb'\nYes or no? ").strip().lower()
 
         if answer == 'yes':
             gameboy_folder = os.path.join(os.getcwd(), "gameboy games")
-            for file in zip_files:
+            for file in gb_files:
                 base_name, ext = os.path.splitext(file)
                 new_base_name = remove_version_region_info(base_name)
                 new_file = new_base_name + ext
@@ -276,15 +276,15 @@ def main():
                     already_matched = set()
                     while True:
                         changes_made = False
-                        zip_files = list_gameboy_games()
-                        for game_file in zip_files:
+                        gb_files = list_gameboy_games()
+                        for game_file in gb_files:
                             if game_file in already_matched:
                                 continue
                             game_name, _ = os.path.splitext(game_file)
                             best_match = find_best_match(game_name, txt_files)
                             if best_match:
                                 matches.append((game_file, best_match))
-                                new_file_name = os.path.splitext(best_match)[0] + ".zip"
+                                new_file_name = os.path.splitext(best_match)[0] + ".gb"
                                 if os.path.exists(os.path.join(gameboy_folder, new_file_name)):
                                     print(f"File '{new_file_name}' already exists. Skipping rename for '{game_file}'.")
                                 else:
@@ -335,7 +335,7 @@ def main():
 
                             if answer == 'yes':
                                 art_matches = []
-                                zip_file_titles = [os.path.splitext(f)[0] for f in zip_files]
+                                gb_file_titles = [os.path.splitext(f)[0] for f in gb_files]
                                 already_matched_art = set()
                                 while True:
                                     changes_made = False
@@ -343,9 +343,9 @@ def main():
                                         if art_file in already_matched_art:
                                             continue
                                         art_file_title = os.path.splitext(os.path.basename(art_file))[0]
-                                        best_match = find_best_match(art_file_title, zip_file_titles)
+                                        best_match = find_best_match(art_file_title, gb_file_titles)
                                         if best_match:
-                                            art_matches.append((best_match + ".zip", art_file))
+                                            art_matches.append((best_match + ".gb", art_file))
                                             changes_made = True
                                             already_matched_art.add(art_file)
                                             print(f"Matched '{art_file}' to '{best_match}'")
@@ -355,7 +355,7 @@ def main():
                                 if art_matches:
                                     for game_file, art_file in art_matches:
                                         game_base, _ = os.path.splitext(game_file)
-                                        new_art_name = game_base + ".zip.png"
+                                        new_art_name = game_base + ".gb.png"
                                         new_art_path = os.path.join(os.getcwd(), "renamed cover art", new_art_name)
                                         
                                         if os.path.exists(new_art_path):
@@ -369,7 +369,7 @@ def main():
                                 else:
                                     print("No matching cover art files found.")
 
-                                transfer_matching_cover_art(zip_files, art_files)
+                                transfer_matching_cover_art(gb_files, art_files)
                             else:
                                 print("\n\n\nWhy would you get this far and say no! :'(")
                                 time.sleep(3)
@@ -398,8 +398,8 @@ def main():
         if not os.path.exists(unmatched_games_folder):
             os.makedirs(unmatched_games_folder)
 
-        gameboy_games = [f for f in os.listdir(gameboy_games_folder) if f.endswith('.zip')]
-        renamed_cover_art = [f for f in os.listdir(renamed_cover_art_folder) if f.endswith('.zip.png')]
+        gameboy_games = [f for f in os.listdir(gameboy_games_folder) if f.endswith('.gb')]
+        renamed_cover_art = [f for f in os.listdir(renamed_cover_art_folder) if f.endswith('.gb.png')]
 
         for game in gameboy_games:
             expected_cover_art_name = game + ".png"
