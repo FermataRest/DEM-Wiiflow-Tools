@@ -2,6 +2,8 @@
 
 
 
+*This is a Modified Version of DEM Wiiflow Tools that looks for specific ROM file extensions, rather than .ZIP files.*
+
 Below Average Gaming Scripts Collection:
 
 Welcome to the Below Average Gaming repository for Wiiflow! This collection of scripts is designed to help retro gaming enthusiasts organize, rename, and manage their game files and cover art across various platforms, including SNES, GBC, Sega Genesis, Commodore 64, and more. (24 systems as of now) 
