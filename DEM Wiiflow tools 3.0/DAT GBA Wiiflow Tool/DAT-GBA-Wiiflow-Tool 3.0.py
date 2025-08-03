@@ -54,14 +54,14 @@ def list_gameboy_games():
     if not os.path.exists(gameboy_folder):
         print('The "gba games" folder does not exist.')
         return False
-    zip_files = [f for f in os.listdir(gameboy_folder) if f.endswith('.zip')]
+    gba_files = [f for f in os.listdir(gameboy_folder) if f.endswith('.gba')]
 
-    if not zip_files:
-        print('No .zip files present in the "gba games" folder.')
+    if not gba_files:
+        print('No .gba files present in the "gba games" folder.')
         time.sleep(5)
         return False
 
-    return zip_files
+    return gba_files
 
 def remove_version_region_info(filename):
     # This regex will remove anything in parentheses or brackets, including (U), (USA), (M4), [!], etc.
@@ -131,114 +131,114 @@ def special_names():
         gameboy_folder = os.path.join(os.getcwd(), "gba games")
         
         specific_renames = {
-            "2-in-1 - Cartoon Network - Block Party & Cartoon Network - Speedway.zip": "2 Games in 1 - Cartoon Network Block Party + Cartoon Network Speedway.zip",
-            "2-in-1 - Castlevania Double Pack - Harmony of Dissonance & Aria of Sorrow.zip": "Castlevania Double Pack.zip",
-            "2-in-1 - Golden Nugget Casino & Texas Hold'em Poker.zip": "2 Games in 1 - Golden Nugget Casino + Texas Hold 'em Poker.zip",
-            "2-in-1 - Hot Wheels - Velocity X & Hot Wheels - World Race.zip": "2 Games in 1 - Hot Wheels - Velocity X + Hot Wheels - World Race.zip",
-            "2-in-1 - Matchbox Missions.zip": "2 Game Pack! - Matchbox Missions - Emergency Response + Air, Land and Sea Rescue.zip",
-            "2-in-1 - Paperboy & Rampage.zip": "2 Games in One! - Paperboy + Rampage.zip",
-            "2-in-1 - Quad Desert Fury & Monster Trucks.zip": "2 Games in 1 - Quad Desert Fury + Monster Trucks.zip",
-            "2-in-1 - Shark Tale & Shrek 2.zip": "2 in 1 Game Pack - Shrek 2 + Shark Tale.zip",
-            "2-in-1 - Sonic Gamepack - Sonic Pinball Party & Sonic Advance.zip": "Combo Pack - Sonic Advance + Sonic Pinball Party.zip",
-            "2-in-1 - Spider-Man & Spider-Man 2.zip": "2 in 1 Game Pack - Spider-Man + Spider-Man 2.zip",
-            "2-in-1 - Spy Hunter & Super Sprint.zip": "2 Games in One! - Spy Hunter + Super Sprint.zip",
-            "2-in-1 - Tony Hawk's Underground & Kelly Slater's Pro Surfer.zip": "2 in 1 Game Pack - Tony Hawk's Underground + Kelly Slater's Pro Surfer.zip",
-            "2-in-1 - Uno & Skin Bo.zip": "2 Game Pack! - Uno + Skip-Bo.zip",
-            "2-in-1 - Yu-Gi-Oh! Gamepack - The Sacred Cards & Reshef of Destruction.zip": "Yu-Gi-Oh! Double Pack.zip",
-            "3-in-1 - Candy Land, Chutes and Ladders, Memory.zip": "3 Game Pack! - Candy Land + Chutes and Ladders + Original Memory Game.zip",
-            "3-in-1 - Life, Yahtzee, Payday.zip": "3 Game Pack! - The Game of Life + Payday + Yahtzee.zip",
-            "3-in-1 - Majesco Sports Pack - Paintball Splat! & Dodgeball & Big Alley Bowling.zip": "Majesco's Sports Pack.zip",
-            "3-in-1 - Mousetrap, Simon, Operation.zip": "3 Game Pack! - Mouse Trap + Simon + Operation.zip",
-            "3-in-1 - Sorry & Aggravation & Scrabble Junior.zip": "Three-in-One Pack - Sorry! + Aggravation + Scrabble Junior.zip",
-            "3-in-1 - Super Breakout & Lunar Lander & Millipede.zip": "3 Games in One! - Super Breakout + Millipede + Lunar Lander.zip",
-            "3-in-1 Pong, Asteroids, Yar's Revenge.zip": "3 Games in One! - Yars' Revenge + Asteroids + Pong.zip",
-            "All-Star Baseball 2004.zip": "All-Star Baseball 2004 Featuring Derek Jeter.zip",
-            "Archer Maclean's Super Dropzone.zip": "Super Dropzone - Intergalactic Rescue Mission.zip",
-            "Barbie Horse Adventures.zip": "Barbie Horse Adventures - Blue Ribbon Race.zip",
-            "Barbie Secret Agent.zip": "Secret Agent Barbie - Royal Jewels Mission.zip",
-            "Bomberman Max 2 - Blue.zip": "Bomberman Max 2 - Blue Advance.zip",
-            "Bomberman Max 2 - Red.zip": "Bomberman Max 2 - Red Advance.zip",
-            "Breakout, Centipede, Warlords.zip": "3 Games in One! - Breakout + Centipede + Warlords.zip",
-            "Buffy - The Vampire Slayer.zip": "Buffy the Vampire Slayer - Wrath of the Darkhul King.zip",
-            "Caesar's Palace Advance.zip": "Caesars Palace Advance - Millennium Gold Edition.zip",
-            "Chronicles of Narnia, The.zip": "Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe.zip",
-            "Connect Four, Perfection, Trouble.zip": "Three-in-One Pack - Connect Four + Perfection + Trouble.zip",
-            "Corvette 50th Anniversary.zip": "Corvette.zip",
-            "Crazy Taxi.zip": "Crazy Taxi - Catch a Ride.zip",
-            "Disney Sports - American Football.zip": "Disney Sports - Football.zip",
-            "Disney's Aladdin.zip": "Aladdin.zip",
-            "Disney's Brother Bear.zip": "Brother Bear.zip",
-            "Disney's Finding Nemo.zip": "Finding Nemo.zip",
-            "Disney's Herbie - Fully Loaded.zip": "Herbie - Fully Loaded.zip",
-            "Disney's Home on the Range.zip": "Home on the Range.zip",
-            "Disney's Kim Possible 3 - Team Possible.zip": "Kim Possible 3 - Team Possible.zip",
-            "Disney's Lilo & Stitch.zip": "Lilo & Stitch.zip",
-            "Disney's Little Einstein.zip": "Little Einsteins.zip",
-            "Disney's Magical Quest 2.zip": "Magical Quest 2 Starring Mickey & Minnie.zip",
-            "Disney's Magical Quest.zip": "Magical Quest Starring Mickey & Minnie.zip",
-            "Disney's That's SO Raven.zip": "That's So Raven.zip",
-            "Disney's The Jungle Book.zip": "Jungle Book, The.zip",
-            "Disney's Treasure Planet.zip": "Treasure Planet.zip",
-            "Dora's World Adventure.zip": "Dora the Explorer - Dora's World Adventure!.zip",
-            "Dr. Mario & Puzzle League.zip": "2 Games in One! - Dr. Mario + Puzzle League.zip",
-            "FIFA 06.zip": "FIFA Soccer 06.zip",
-            "FIFA 2007.zip": "FIFA Soccer 07.zip",
-            "FIFA Football 2004.zip": "FIFA Soccer 2004.zip",
-            "FIFA Football 2005.zip": "FIFA Soccer 2005.zip",
-            "FIFA World Cup 2006.zip": "2006 FIFA World Cup - Germany 2006.zip",
-            "Fire Pro Wrestling A.zip": "Fire Pro Wrestling.zip",
-            "Gauntlet & Rampart.zip": "2 Games in One! - Gauntlet + Rampart.zip",
-            "Grand Theft Auto Advance.zip": "Grand Theft Auto.zip",
-            "GT Championship Racing.zip": "GT Advance - Championship Racing.zip",
-            "Hobbit, The.zip": "Hobbit, The - The Prelude to the Lord of the Rings.zip",
-            "Hugo - The Evil Mirror Advance.zip": "Hugo - The Evil Mirror.zip",
-            "James Bond 007 - Nightfire.zip": "007 - NightFire.zip",
-            "KerPlunk!, Toss Across, and TipIt.zip": "3 Game Pack! - Ker Plunk! + Toss Across + Tip It.zip",
-            "Kirby - Nightmare in Dreamland.zip": "Kirby - Nightmare in Dream Land.zip",
-            "Krazy Racers.zip": "Konami Krazy Racers.zip",
-            "LEGO Bionicle - The Game.zip": "Bionicle.zip",
-            "LEGO Drome Racers.zip": "Drome Racers.zip",
-            "LEGO Football Mania.zip": "LEGO Soccer Mania.zip",
-            "LEGO Island 2.zip": "LEGO Island 2 - The Brickster's Revenge.zip",
-            "Marble Madness & Klax.zip": "2 Games in One! - Marble Madness + Klax.zip",
-            "Megaman & Bass.zip": "Mega Man & Bass.zip",
-            "Megaman Battle Network.zip": "Mega Man Battle Network.zip",
-            "Megaman Zero 2.zip": "Mega Man Zero 2.zip",
-            "Megaman Zero 3.zip": "Mega Man Zero 3.zip",
-            "Megaman Zero 4.zip": "Mega Man Zero 4.zip",
-            "Megaman Zero.zip": "Mega Man Zero.zip",
-            "Moto GP.zip": "MotoGP.zip",
-            "MX 2K2 Ricky Carmichael.zip": "MX 2002 Featuring Ricky Carmichael.zip",
-            "Phalanx - The Enforce Fighter A-144.zip": "Phalanx.zip",
-            "Pirates of the Caribbean.zip": "Pirates of the Caribbean - The Curse of the Black Pearl.zip",
-            "Pokemon - Fire Red Version.zip": "Pokémon - FireRed Version.zip",
-            "Pokemon - Leaf Green Version.zip": "Pokemon - LeafGreen Version.zip",
-            "Princess Natasha.zip": "Princess Natasha - Student, Secret Agent, Princess.zip",
-            "R-Type III.zip": "R-Type III - The Third Lightning.zip",
-            "Rainbow Six - Rogue Spear.zip": "Tom Clancy's Rainbow Six - Rogue Spear.zip",
-            "Rayman 10th Anniversary - Rayman Advance & Rayman 3.zip": "Rayman - 10th Anniversary.zip",
-            "Rayman 3 - Hoodlum Havoc.zip": "Rayman 3.zip",
-            "Ripping Friends, The.zip": "Ripping Friends, The - The World's Most Manly Men!.zip",
-            "Risk, Battleship, Clue.zip": "Three-in-One Pack - Risk + Battleship + Clue.zip",
-            "Rock 'em Sock 'em Robots.zip": "Rock'em Sock'em Robots.zip",
-            "Shonen Jump's - One Piece.zip": "One Piece.zip",
-            "Shonen Jump's - Shaman King - Master of Spirits 2.zip": "Shaman King - Master of Spirits 2.zip",
-            "Shonen Jump's - Shaman King - Master of Spirits.zip": "Shaman King - Master of Spirits.zip",
-            "Sim City 2000.zip": "SimCity 2000.zip",
-            "Snood 2 - Snoods on Vacation.zip": "Snood 2 - On Vacation.zip",
-            "Spider-Man - The Movie.zip": "Spider-Man.zip",
-            "Spirit - Stallion of The Cimarron.zip": "Spirit - Stallion of the Cimarron - Search for Homeland.zip",
-            "Sudoku Fever.zip": "Global Star - Sudoku Fever.zip",
-            "Summon Night.zip": "Summon Night - Swordcraft Story.zip",
-            "Super Dodgeball Advance.zip": "Super Dodge Ball Advance.zip",
-            "Teen Titans 2 - The Brotherhood's Revenge.zip": "Teen Titans 2.zip",
-            "Ultimate Muscle - The Path of the Superhero.zip": "Ultimate Muscle - The Kinnikuman Legacy - The Path of the Superhero.zip",
-            "WarioWare Inc..zip": "WarioWare, Inc. - Mega Microgame$!.zip",
-            "Yu Yu Hakusho - Spirit Detective.zip": "Yu Yu Hakusho - Ghostfiles - Spirit Detective.zip",
-            "Yu Yu Hakusho Tournament Tactics.zip": "Yu Yu Hakusho - Ghostfiles - Tournament Tactics.zip",
-            "Yu-Gi-Oh! - Ultimate Masters 2006.zip": "Yu-Gi-Oh! - Ultimate Masters - World Championship Tournament 2006.zip",
-            "Yu-Gi-Oh! - Worldwide Edition.zip": "Yu-Gi-Oh! - Worldwide Edition - Stairway to the Destined Duel.zip",
-            "Zapper.zip": "Zapper - One Wicked Cricket!.zip"
+            "2-in-1 - Cartoon Network - Block Party & Cartoon Network - Speedway.gba": "2 Games in 1 - Cartoon Network Block Party + Cartoon Network Speedway.gba",
+            "2-in-1 - Castlevania Double Pack - Harmony of Dissonance & Aria of Sorrow.gba": "Castlevania Double Pack.gba",
+            "2-in-1 - Golden Nugget Casino & Texas Hold'em Poker.gba": "2 Games in 1 - Golden Nugget Casino + Texas Hold 'em Poker.gba",
+            "2-in-1 - Hot Wheels - Velocity X & Hot Wheels - World Race.gba": "2 Games in 1 - Hot Wheels - Velocity X + Hot Wheels - World Race.gba",
+            "2-in-1 - Matchbox Missions.gba": "2 Game Pack! - Matchbox Missions - Emergency Response + Air, Land and Sea Rescue.gba",
+            "2-in-1 - Paperboy & Rampage.gba": "2 Games in One! - Paperboy + Rampage.gba",
+            "2-in-1 - Quad Desert Fury & Monster Trucks.gba": "2 Games in 1 - Quad Desert Fury + Monster Trucks.gba",
+            "2-in-1 - Shark Tale & Shrek 2.gba": "2 in 1 Game Pack - Shrek 2 + Shark Tale.gba",
+            "2-in-1 - Sonic Gamepack - Sonic Pinball Party & Sonic Advance.gba": "Combo Pack - Sonic Advance + Sonic Pinball Party.gba",
+            "2-in-1 - Spider-Man & Spider-Man 2.gba": "2 in 1 Game Pack - Spider-Man + Spider-Man 2.gba",
+            "2-in-1 - Spy Hunter & Super Sprint.gba": "2 Games in One! - Spy Hunter + Super Sprint.gba",
+            "2-in-1 - Tony Hawk's Underground & Kelly Slater's Pro Surfer.gba": "2 in 1 Game Pack - Tony Hawk's Underground + Kelly Slater's Pro Surfer.gba",
+            "2-in-1 - Uno & Skin Bo.gba": "2 Game Pack! - Uno + Skip-Bo.gba",
+            "2-in-1 - Yu-Gi-Oh! Gamepack - The Sacred Cards & Reshef of Destruction.gba": "Yu-Gi-Oh! Double Pack.gba",
+            "3-in-1 - Candy Land, Chutes and Ladders, Memory.gba": "3 Game Pack! - Candy Land + Chutes and Ladders + Original Memory Game.gba",
+            "3-in-1 - Life, Yahtzee, Payday.gba": "3 Game Pack! - The Game of Life + Payday + Yahtzee.gba",
+            "3-in-1 - Majesco Sports Pack - Paintball Splat! & Dodgeball & Big Alley Bowling.gba": "Majesco's Sports Pack.gba",
+            "3-in-1 - Mousetrap, Simon, Operation.gba": "3 Game Pack! - Mouse Trap + Simon + Operation.gba",
+            "3-in-1 - Sorry & Aggravation & Scrabble Junior.gba": "Three-in-One Pack - Sorry! + Aggravation + Scrabble Junior.gba",
+            "3-in-1 - Super Breakout & Lunar Lander & Millipede.gba": "3 Games in One! - Super Breakout + Millipede + Lunar Lander.gba",
+            "3-in-1 Pong, Asteroids, Yar's Revenge.gba": "3 Games in One! - Yars' Revenge + Asteroids + Pong.gba",
+            "All-Star Baseball 2004.gba": "All-Star Baseball 2004 Featuring Derek Jeter.gba",
+            "Archer Maclean's Super Dropzone.gba": "Super Dropzone - Intergalactic Rescue Mission.gba",
+            "Barbie Horse Adventures.gba": "Barbie Horse Adventures - Blue Ribbon Race.gba",
+            "Barbie Secret Agent.gba": "Secret Agent Barbie - Royal Jewels Mission.gba",
+            "Bomberman Max 2 - Blue.gba": "Bomberman Max 2 - Blue Advance.gba",
+            "Bomberman Max 2 - Red.gba": "Bomberman Max 2 - Red Advance.gba",
+            "Breakout, Centipede, Warlords.gba": "3 Games in One! - Breakout + Centipede + Warlords.gba",
+            "Buffy - The Vampire Slayer.gba": "Buffy the Vampire Slayer - Wrath of the Darkhul King.gba",
+            "Caesar's Palace Advance.gba": "Caesars Palace Advance - Millennium Gold Edition.gba",
+            "Chronicles of Narnia, The.gba": "Chronicles of Narnia, The - The Lion, the Witch and the Wardrobe.gba",
+            "Connect Four, Perfection, Trouble.gba": "Three-in-One Pack - Connect Four + Perfection + Trouble.gba",
+            "Corvette 50th Anniversary.gba": "Corvette.gba",
+            "Crazy Taxi.gba": "Crazy Taxi - Catch a Ride.gba",
+            "Disney Sports - American Football.gba": "Disney Sports - Football.gba",
+            "Disney's Aladdin.gba": "Aladdin.gba",
+            "Disney's Brother Bear.gba": "Brother Bear.gba",
+            "Disney's Finding Nemo.gba": "Finding Nemo.gba",
+            "Disney's Herbie - Fully Loaded.gba": "Herbie - Fully Loaded.gba",
+            "Disney's Home on the Range.gba": "Home on the Range.gba",
+            "Disney's Kim Possible 3 - Team Possible.gba": "Kim Possible 3 - Team Possible.gba",
+            "Disney's Lilo & Stitch.gba": "Lilo & Stitch.gba",
+            "Disney's Little Einstein.gba": "Little Einsteins.gba",
+            "Disney's Magical Quest 2.gba": "Magical Quest 2 Starring Mickey & Minnie.gba",
+            "Disney's Magical Quest.gba": "Magical Quest Starring Mickey & Minnie.gba",
+            "Disney's That's SO Raven.gba": "That's So Raven.gba",
+            "Disney's The Jungle Book.gba": "Jungle Book, The.gba",
+            "Disney's Treasure Planet.gba": "Treasure Planet.gba",
+            "Dora's World Adventure.gba": "Dora the Explorer - Dora's World Adventure!.gba",
+            "Dr. Mario & Puzzle League.gba": "2 Games in One! - Dr. Mario + Puzzle League.gba",
+            "FIFA 06.gba": "FIFA Soccer 06.gba",
+            "FIFA 2007.gba": "FIFA Soccer 07.gba",
+            "FIFA Football 2004.gba": "FIFA Soccer 2004.gba",
+            "FIFA Football 2005.gba": "FIFA Soccer 2005.gba",
+            "FIFA World Cup 2006.gba": "2006 FIFA World Cup - Germany 2006.gba",
+            "Fire Pro Wrestling A.gba": "Fire Pro Wrestling.gba",
+            "Gauntlet & Rampart.gba": "2 Games in One! - Gauntlet + Rampart.gba",
+            "Grand Theft Auto Advance.gba": "Grand Theft Auto.gba",
+            "GT Championship Racing.gba": "GT Advance - Championship Racing.gba",
+            "Hobbit, The.gba": "Hobbit, The - The Prelude to the Lord of the Rings.gba",
+            "Hugo - The Evil Mirror Advance.gba": "Hugo - The Evil Mirror.gba",
+            "James Bond 007 - Nightfire.gba": "007 - NightFire.gba",
+            "KerPlunk!, Toss Across, and TipIt.gba": "3 Game Pack! - Ker Plunk! + Toss Across + Tip It.gba",
+            "Kirby - Nightmare in Dreamland.gba": "Kirby - Nightmare in Dream Land.gba",
+            "Krazy Racers.gba": "Konami Krazy Racers.gba",
+            "LEGO Bionicle - The Game.gba": "Bionicle.gba",
+            "LEGO Drome Racers.gba": "Drome Racers.gba",
+            "LEGO Football Mania.gba": "LEGO Soccer Mania.gba",
+            "LEGO Island 2.gba": "LEGO Island 2 - The Brickster's Revenge.gba",
+            "Marble Madness & Klax.gba": "2 Games in One! - Marble Madness + Klax.gba",
+            "Megaman & Bass.gba": "Mega Man & Bass.gba",
+            "Megaman Battle Network.gba": "Mega Man Battle Network.gba",
+            "Megaman Zero 2.gba": "Mega Man Zero 2.gba",
+            "Megaman Zero 3.gba": "Mega Man Zero 3.gba",
+            "Megaman Zero 4.gba": "Mega Man Zero 4.gba",
+            "Megaman Zero.gba": "Mega Man Zero.gba",
+            "Moto GP.gba": "MotoGP.gba",
+            "MX 2K2 Ricky Carmichael.gba": "MX 2002 Featuring Ricky Carmichael.gba",
+            "Phalanx - The Enforce Fighter A-144.gba": "Phalanx.gba",
+            "Pirates of the Caribbean.gba": "Pirates of the Caribbean - The Curse of the Black Pearl.gba",
+            "Pokemon - Fire Red Version.gba": "Pokémon - FireRed Version.gba",
+            "Pokemon - Leaf Green Version.gba": "Pokemon - LeafGreen Version.gba",
+            "Princess Natasha.gba": "Princess Natasha - Student, Secret Agent, Princess.gba",
+            "R-Type III.gba": "R-Type III - The Third Lightning.gba",
+            "Rainbow Six - Rogue Spear.gba": "Tom Clancy's Rainbow Six - Rogue Spear.gba",
+            "Rayman 10th Anniversary - Rayman Advance & Rayman 3.gba": "Rayman - 10th Anniversary.gba",
+            "Rayman 3 - Hoodlum Havoc.gba": "Rayman 3.gba",
+            "Ripping Friends, The.gba": "Ripping Friends, The - The World's Most Manly Men!.gba",
+            "Risk, Battleship, Clue.gba": "Three-in-One Pack - Risk + Battleship + Clue.gba",
+            "Rock 'em Sock 'em Robots.gba": "Rock'em Sock'em Robots.gba",
+            "Shonen Jump's - One Piece.gba": "One Piece.gba",
+            "Shonen Jump's - Shaman King - Master of Spirits 2.gba": "Shaman King - Master of Spirits 2.gba",
+            "Shonen Jump's - Shaman King - Master of Spirits.gba": "Shaman King - Master of Spirits.gba",
+            "Sim City 2000.gba": "SimCity 2000.gba",
+            "Snood 2 - Snoods on Vacation.gba": "Snood 2 - On Vacation.gba",
+            "Spider-Man - The Movie.gba": "Spider-Man.gba",
+            "Spirit - Stallion of The Cimarron.gba": "Spirit - Stallion of the Cimarron - Search for Homeland.gba",
+            "Sudoku Fever.gba": "Global Star - Sudoku Fever.gba",
+            "Summon Night.gba": "Summon Night - Swordcraft Story.gba",
+            "Super Dodgeball Advance.gba": "Super Dodge Ball Advance.gba",
+            "Teen Titans 2 - The Brotherhood's Revenge.gba": "Teen Titans 2.gba",
+            "Ultimate Muscle - The Path of the Superhero.gba": "Ultimate Muscle - The Kinnikuman Legacy - The Path of the Superhero.gba",
+            "WarioWare Inc..gba": "WarioWare, Inc. - Mega Microgame$!.gba",
+            "Yu Yu Hakusho - Spirit Detective.gba": "Yu Yu Hakusho - Ghostfiles - Spirit Detective.gba",
+            "Yu Yu Hakusho Tournament Tactics.gba": "Yu Yu Hakusho - Ghostfiles - Tournament Tactics.gba",
+            "Yu-Gi-Oh! - Ultimate Masters 2006.gba": "Yu-Gi-Oh! - Ultimate Masters - World Championship Tournament 2006.gba",
+            "Yu-Gi-Oh! - Worldwide Edition.gba": "Yu-Gi-Oh! - Worldwide Edition - Stairway to the Destined Duel.gba",
+            "Zapper.gba": "Zapper - One Wicked Cricket!.gba"
         }
         
         for file in os.listdir(gameboy_folder):
@@ -255,17 +255,17 @@ def special_names():
     except Exception as e:
         print(f"Error in special_names: {e}")
 
-def transfer_matching_cover_art(zip_files, art_files):
+def transfer_matching_cover_art(gba_files, art_files):
     renamed_folder = os.path.join(os.getcwd(), "renamed cover art")
     if not os.path.exists(renamed_folder):
         os.makedirs(renamed_folder)
 
-    for zip_file in zip_files:
-        zip_file_base = os.path.splitext(zip_file)[0]
+    for gba_file in gba_files:
+        gba_file_base = os.path.splitext(gba_file)[0]
         for art_file in art_files:
             art_file_base = os.path.splitext(os.path.basename(art_file))[0]
-            if art_file_base.lower() == zip_file_base.lower():
-                new_art_name = f"{zip_file_base}.zip.png"
+            if art_file_base.lower() == gba_file_base.lower():
+                new_art_name = f"{gba_file_base}.gba.png"
                 new_art_path = os.path.join(renamed_folder, new_art_name)
                 
                 if os.path.exists(new_art_path):
@@ -282,31 +282,31 @@ def main():
     answer = input("Would you like to see your listed GBA games? (yes/no): ").strip().lower()
 
     if answer == 'yes':
-        zip_files = list_gameboy_games()
-        if zip_files:
+        gba_files = list_gameboy_games()
+        if gba_files:
             print("Here are your GBA games:")
-            for file in zip_files:
+            for file in gba_files:
                 print(file)
             print("\n\n\nThese are the games I picked up!")
         else:
-            print("No .zip files present in the 'gba games' folder.")
+            print("No .gba files present in the 'gba games' folder.")
             time.sleep(5)
             return
     else:
         print("Too Bad, So Sad...")
         time.sleep(3)
-        zip_files = list_gameboy_games()
-        if zip_files:
+        gba_files = list_gameboy_games()
+        if gba_files:
             print("Here are your GBA games:")
-            for file in zip_files:
+            for file in gba_files:
                 print(file)
             print("\n\n\nThese are the games I picked up!")
         else:
-            print("No .zip files present in the 'gba games' folder.")
+            print("No .gba files present in the 'gba games' folder.")
             time.sleep(5)
             return
 
-    if zip_files:
+    if gba_files:
         print("\n\n")
         
         answer = input("Would you like to check for duplicate titles? (yes/no): ").strip().lower()
@@ -343,11 +343,11 @@ def main():
                 print("No duplicate titles found.")
             input("Press Enter to continue...")
 
-        answer = input("Would you like to remove the version and region information from the title names?\nExample: 'Pokemon Emerald (USA).zip' would be changed to 'Pokemon Emerald.zip'\nYes or no? ").strip().lower()
+        answer = input("Would you like to remove the version and region information from the title names?\nExample: 'Pokemon Emerald (USA).gba' would be changed to 'Pokemon Emerald.gba'\nYes or no? ").strip().lower()
 
         if answer == 'yes':
             gameboy_folder = os.path.join(os.getcwd(), "gba games")
-            for file in zip_files:
+            for file in gba_files:
                 base_name, ext = os.path.splitext(file)
                 new_base_name = remove_version_region_info(base_name)
                 new_file = new_base_name + ext
@@ -385,15 +385,15 @@ def main():
                     already_matched = set()
                     while True:
                         changes_made = False
-                        zip_files = list_gameboy_games()
-                        for game_file in zip_files:
+                        gba_files = list_gameboy_games()
+                        for game_file in gba_files:
                             if game_file in already_matched:
                                 continue
                             game_name, _ = os.path.splitext(game_file)
                             best_match = find_best_match(game_name, txt_files)
                             if best_match:
                                 matches.append((game_file, best_match))
-                                new_file_name = os.path.splitext(best_match)[0] + ".zip"
+                                new_file_name = os.path.splitext(best_match)[0] + ".gba"
                                 if os.path.exists(os.path.join(gameboy_folder, new_file_name)):
                                     print(f"File '{new_file_name}' already exists. Skipping rename for '{game_file}'.")
                                 else:
@@ -444,7 +444,7 @@ def main():
 
                             if answer == 'yes':
                                 art_matches = []
-                                zip_file_titles = [os.path.splitext(f)[0] for f in zip_files]
+                                gba_file_titles = [os.path.splitext(f)[0] for f in gba_files]
                                 already_matched_art = set()
                                 while True:
                                     changes_made = False
@@ -452,9 +452,9 @@ def main():
                                         if art_file in already_matched_art:
                                             continue
                                         art_file_title = os.path.splitext(os.path.basename(art_file))[0]
-                                        best_match = find_best_match(art_file_title, zip_file_titles)
+                                        best_match = find_best_match(art_file_title, gba_file_titles)
                                         if best_match:
-                                            art_matches.append((best_match + ".zip", art_file))
+                                            art_matches.append((best_match + ".gba", art_file))
                                             changes_made = True
                                             already_matched_art.add(art_file)
                                             print(f"Matched '{art_file}' to '{best_match}'")
@@ -464,7 +464,7 @@ def main():
                                 if art_matches:
                                     for game_file, art_file in art_matches:
                                         game_base, _ = os.path.splitext(game_file)
-                                        new_art_name = game_base + ".zip.png"
+                                        new_art_name = game_base + ".gba.png"
                                         new_art_path = os.path.join(os.getcwd(), "renamed cover art", new_art_name)
                                         
                                         if os.path.exists(new_art_path):
@@ -478,7 +478,7 @@ def main():
                                 else:
                                     print("No matching cover art files found.")
 
-                                transfer_matching_cover_art(zip_files, art_files)
+                                transfer_matching_cover_art(gba_files, art_files)
                             else:
                                 print("\n\n\nWhy would you get this far and say no! :'(")
                                 time.sleep(3)
@@ -507,8 +507,8 @@ def main():
         if not os.path.exists(unmatched_games_folder):
             os.makedirs(unmatched_games_folder)
 
-        gameboy_games = [f for f in os.listdir(gameboy_games_folder) if f.endswith('.zip')]
-        renamed_cover_art = [f for f in os.listdir(renamed_cover_art_folder) if f.endswith('.zip.png')]
+        gameboy_games = [f for f in os.listdir(gameboy_games_folder) if f.endswith('.gba')]
+        renamed_cover_art = [f for f in os.listdir(renamed_cover_art_folder) if f.endswith('.gba.png')]
 
         for game in gameboy_games:
             expected_cover_art_name = game + ".png"

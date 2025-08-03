@@ -55,14 +55,14 @@ def list_nes_games():
         if not os.path.exists(nes_folder):
             print('The "nes games" folder does not exist.')
             return False
-        zip_files = [f for f in os.listdir(nes_folder) if f.endswith('.zip')]
+        nes_files = [f for f in os.listdir(nes_folder) if f.endswith('.nes')]
 
-        if not zip_files:
-            print('No .zip files present in the "nes games" folder.')
+        if not nes_files:
+            print('No .nes files present in the "nes games" folder.')
             time.sleep(5)
             return False
 
-        return zip_files
+        return nes_files
     except Exception as e:
         print(f"Error in list_nes_games: {e}")
         return False
@@ -152,82 +152,82 @@ def special_names():
             return False
         
         specific_renames = {
-            "720.zip": "720 Degrees.zip",
-            "Hudson's Adventure Island.zip": "Adventure Island.zip",
-            "Hudson's Adventure Island II.zip": "Adventure Island II.zip",
-            "Hudson's Adventure Island III.zip": "Adventure Island 3.zip",
-            "Hudson's Adventure Island V.zip": "Adventure Island 4.zip",
-            "Penguin & Seal, The.zip": "Arctic Adventure - Penguin & Seal.zip",
-            "Bases Loaded II.zip": "Bases Loaded 2 - Second Season.zip",
-            "Battletoads & Double Dragon - The Ultimate Team.zip": "Battletoads-Double Dragon.zip",
-            "Bugs Bunny Crazy Castle, The.zip": "Bugs Bunny Crazy Castle, The.zip",
-            "Gold Medal Challenge '92.zip": "Capcom's Gold Medal Challenge '92.zip",
-            "Chip 'n Dale Rescue Rangers.zip": "Chip 'n Dale - Rescue Rangers.zip",
-            "Conan - The Mysteries of Time.zip": "Conan.zip",
-            "Base Wars.zip": "Cyber Stadium Series - Base Wars.zip",
-            "Demon Sword.zip": "Demon Sword - Release the Power.zip",
-            "Dirty Harry - The War Against Drugs.zip": "Dirty Harry.zip",
-            "Dizzy The Adventurer.zip": "Wonderland Dizzy.zip",
-            "Double Strike.zip": "Double Strike - Aerial Attack Force.zip",
-            "Duck.zip": "Duck Hunt.zip",
-            "Exodus.zip": "Exodus - Journey to the Promised Land.zip",
-            "Fire Emblem.zip": "Fire Emblem - Shadow Dragon & the Blade of Light.zip",
-            "Firehouse Rescue.zip": "Fisher-Price - Firehouse Rescue.zip",
-            "I Can Remember.zip": "Fisher-Price - I Can Remember.zip",
-            "Perfect Fit.zip": "Fisher-Price - Perfect Fit.zip",
-            "Peter Pan & The Pirates.zip": "Fox's Peter Pan & the Pirates - The Revenge of Captain Hook.zip",
-            "G.I. Joe.zip": "G.I. Joe - A Real American Hero.zip",
-            "Gargoyle's Quest II - The Demon Darkness.zip": "Gargoyle's Quest II.zip",
-            "Ghosts 'N Goblins.zip": "Ghosts'n Goblins.zip",
-            "Thunder Warrior.zip": "gluk the thunder warrior.zip",
-            "Iron Tank.zip": "Iron Tank - The Invasion of Normandy.zip",
-            "Joe & Mac - Caveman Ninja.zip": "Joe & Mac.zip",
-            "Joshua.zip": "Joshua & the Battle of Jericho.zip",
-            "Joypad Test Cartridge.zip": "Joystick Test Cartridge.zip",
-            "Kid Klown.zip": "Kid Klown in Night Mayor World.zip",
-            "King of Kings, The.zip": "King of Kings - The Early Years.zip",
-            "Kings of the Beach.zip": "Kings of the Beach - Professional Beach Volleyball.zip",
-            "Legend of the Ghost Lion.zip": "Ghost Lion.zip",
-            "Legends of the Diamond.zip": "Legends of the Diamond - The Baseball Championship Game.zip",
-            "M.U.S.C.L.E..zip": "M.U.S.C.L.E. - Tag Team Match.zip",
-            "Magic Mathematic.zip": "Magical Mathematics.zip",
-            "Mermaids of Atlantis The Riddle of the Magic Bubble.zip": "Mermaids of Atlantis.zip",
-            "Michael Andretti's World Grand Prix.zip": "Michael Andretti's World GP.zip",
-            "Might and Magic.zip": "Might & Magic - Secret of the Inner Sanctum.zip",
-            "NFL Football.zip": "NFL.zip",
-            "Orb 3D.zip": "Orb-3D.zip",
-            "Pesterminator - The Western Exterminator.zip": "Pesterminator.zip",
-            "Pictionary.zip": "Pictionary - The Game of Video Quick Draw.zip",
-            "Power Rangers III.zip": "Power Rangers 3.zip",
-            "Power Rangers IV.zip": "Power Rangers 4.zip",
-            "Rainbow Islands - The Story of Bubble Bobble 2.zip": "Parasol Stars - Rainbow Islands 2.zip",
-            "Snow Bros..zip": "Snow Brothers.zip",
-            "Somari.zip": "Somari the Adventurer.zip",
-            "Spot.zip": "Spot - The Video Game.zip",
-            "Sunday Funday.zip": "Sunday Funday - The Ride.zip",
-            "3-D Battles of World Runner, The.zip": "3-D WorldRunner.zip",
-            "Bard's Tale, The - Tales of the Unknown.zip": "Bard's Tale, The.zip",
-            "Black Bass USA, The.zip": "Black Bass, The.zip",
-            "Mafat Conspiracy - Golgo 13.zip": "Mafat Conspiracy, The.zip",
-            "Mutant Virus, The.zip": "Mutant Virus, The - Crisis in a Computer World.zip",
-            "Ren & Stimpy Show, The.zip": "Ren & Stimpy Show, The - Buckeroo$.zip",
-            "Three Stooges.zip": "Three Stooges, The.zip",
-            "Tom & Jerry.zip": "Tom & Jerry - The Ultimate Game of Cat and Mouse!.zip",
-            "Touch Down Fever.zip": "Touchdown Fever.zip",
-            "T&C 2 - Thrilla's Surfari.zip": "Town & Country Surf Designs - Thrilla's Surfari.zip",
-            "T&C Surf Design.zip": "Town & Country Surf Designs - Wood & Water Rage.zip",
-            "Whomp'Em.zip": "Whomp 'Em.zip",
-            "Wizardry - The Knight of Diamonds.zip": "Wizardry - Knight of Diamonds - The Second Scenario.zip",
-            "Wizards & Warriors III - Kuros - Visions of Power.zip": "Wizards & Warriors III - Kuros...Visions of Power.zip",
-            "World Champ.zip": "World Champ - Super Boxing Great Fight.zip",
-            "Xevious.zip": "Xevious - The Avenger.zip",
-            "Advanced Dungeons & Dragons  Dragon Strike.zip": "Advanced Dungeons & Dragons - DragonStrike.zip",
-            "Chip 'n Dale  Rescue Rangers.zip": "Chip 'n Dale - Rescue Rangers.zip",
-            "Dig Dug.zip": "Dig Dug (World) (Namcot Collection, Namco Museum Archives Vol 1).zip",
-            "Dig Dug II.zip": "Dig Dug II  Trouble in Paradise.zip",
-            "Big Bird's Hide & Speak.zip": "Sesame Street - Big Bird's Hide & Speak.zip",
-            "Ren & Stimpy Show, The - Buckeroo$.zip": "Ren & Stimpy Show, The - Buckeroo$!.zip",
-            "Twin Eagle - Revenge Joe's Brother.zip": "Twin Eagle.zip"
+            "720.nes": "720 Degrees.nes",
+            "Hudson's Adventure Island.nes": "Adventure Island.nes",
+            "Hudson's Adventure Island II.nes": "Adventure Island II.nes",
+            "Hudson's Adventure Island III.nes": "Adventure Island 3.nes",
+            "Hudson's Adventure Island V.nes": "Adventure Island 4.nes",
+            "Penguin & Seal, The.nes": "Arctic Adventure - Penguin & Seal.nes",
+            "Bases Loaded II.nes": "Bases Loaded 2 - Second Season.nes",
+            "Battletoads & Double Dragon - The Ultimate Team.nes": "Battletoads-Double Dragon.nes",
+            "Bugs Bunny Crazy Castle, The.nes": "Bugs Bunny Crazy Castle, The.nes",
+            "Gold Medal Challenge '92.nes": "Capcom's Gold Medal Challenge '92.nes",
+            "Chip 'n Dale Rescue Rangers.nes": "Chip 'n Dale - Rescue Rangers.nes",
+            "Conan - The Mysteries of Time.nes": "Conan.nes",
+            "Base Wars.nes": "Cyber Stadium Series - Base Wars.nes",
+            "Demon Sword.nes": "Demon Sword - Release the Power.nes",
+            "Dirty Harry - The War Against Drugs.nes": "Dirty Harry.nes",
+            "Dizzy The Adventurer.nes": "Wonderland Dizzy.nes",
+            "Double Strike.nes": "Double Strike - Aerial Attack Force.nes",
+            "Duck.nes": "Duck Hunt.nes",
+            "Exodus.nes": "Exodus - Journey to the Promised Land.nes",
+            "Fire Emblem.nes": "Fire Emblem - Shadow Dragon & the Blade of Light.nes",
+            "Firehouse Rescue.nes": "Fisher-Price - Firehouse Rescue.nes",
+            "I Can Remember.nes": "Fisher-Price - I Can Remember.nes",
+            "Perfect Fit.nes": "Fisher-Price - Perfect Fit.nes",
+            "Peter Pan & The Pirates.nes": "Fox's Peter Pan & the Pirates - The Revenge of Captain Hook.nes",
+            "G.I. Joe.nes": "G.I. Joe - A Real American Hero.nes",
+            "Gargoyle's Quest II - The Demon Darkness.nes": "Gargoyle's Quest II.nes",
+            "Ghosts 'N Goblins.nes": "Ghosts'n Goblins.nes",
+            "Thunder Warrior.nes": "gluk the thunder warrior.nes",
+            "Iron Tank.nes": "Iron Tank - The Invasion of Normandy.nes",
+            "Joe & Mac - Caveman Ninja.nes": "Joe & Mac.nes",
+            "Joshua.nes": "Joshua & the Battle of Jericho.nes",
+            "Joypad Test Cartridge.nes": "Joystick Test Cartridge.nes",
+            "Kid Klown.nes": "Kid Klown in Night Mayor World.nes",
+            "King of Kings, The.nes": "King of Kings - The Early Years.nes",
+            "Kings of the Beach.nes": "Kings of the Beach - Professional Beach Volleyball.nes",
+            "Legend of the Ghost Lion.nes": "Ghost Lion.nes",
+            "Legends of the Diamond.nes": "Legends of the Diamond - The Baseball Championship Game.nes",
+            "M.U.S.C.L.E..nes": "M.U.S.C.L.E. - Tag Team Match.nes",
+            "Magic Mathematic.nes": "Magical Mathematics.nes",
+            "Mermaids of Atlantis The Riddle of the Magic Bubble.nes": "Mermaids of Atlantis.nes",
+            "Michael Andretti's World Grand Prix.nes": "Michael Andretti's World GP.nes",
+            "Might and Magic.nes": "Might & Magic - Secret of the Inner Sanctum.nes",
+            "NFL Football.nes": "NFL.nes",
+            "Orb 3D.nes": "Orb-3D.nes",
+            "Pesterminator - The Western Exterminator.nes": "Pesterminator.nes",
+            "Pictionary.nes": "Pictionary - The Game of Video Quick Draw.nes",
+            "Power Rangers III.nes": "Power Rangers 3.nes",
+            "Power Rangers IV.nes": "Power Rangers 4.nes",
+            "Rainbow Islands - The Story of Bubble Bobble 2.nes": "Parasol Stars - Rainbow Islands 2.nes",
+            "Snow Bros..nes": "Snow Brothers.nes",
+            "Somari.nes": "Somari the Adventurer.nes",
+            "Spot.nes": "Spot - The Video Game.nes",
+            "Sunday Funday.nes": "Sunday Funday - The Ride.nes",
+            "3-D Battles of World Runner, The.nes": "3-D WorldRunner.nes",
+            "Bard's Tale, The - Tales of the Unknown.nes": "Bard's Tale, The.nes",
+            "Black Bass USA, The.nes": "Black Bass, The.nes",
+            "Mafat Conspiracy - Golgo 13.nes": "Mafat Conspiracy, The.nes",
+            "Mutant Virus, The.nes": "Mutant Virus, The - Crisis in a Computer World.nes",
+            "Ren & Stimpy Show, The.nes": "Ren & Stimpy Show, The - Buckeroo$.nes",
+            "Three Stooges.nes": "Three Stooges, The.nes",
+            "Tom & Jerry.nes": "Tom & Jerry - The Ultimate Game of Cat and Mouse!.nes",
+            "Touch Down Fever.nes": "Touchdown Fever.nes",
+            "T&C 2 - Thrilla's Surfari.nes": "Town & Country Surf Designs - Thrilla's Surfari.nes",
+            "T&C Surf Design.nes": "Town & Country Surf Designs - Wood & Water Rage.nes",
+            "Whomp'Em.nes": "Whomp 'Em.nes",
+            "Wizardry - The Knight of Diamonds.nes": "Wizardry - Knight of Diamonds - The Second Scenario.nes",
+            "Wizards & Warriors III - Kuros - Visions of Power.nes": "Wizards & Warriors III - Kuros...Visions of Power.nes",
+            "World Champ.nes": "World Champ - Super Boxing Great Fight.nes",
+            "Xevious.nes": "Xevious - The Avenger.nes",
+            "Advanced Dungeons & Dragons  Dragon Strike.nes": "Advanced Dungeons & Dragons - DragonStrike.nes",
+            "Chip 'n Dale  Rescue Rangers.nes": "Chip 'n Dale - Rescue Rangers.nes",
+            "Dig Dug.nes": "Dig Dug (World) (Namcot Collection, Namco Museum Archives Vol 1).nes",
+            "Dig Dug II.nes": "Dig Dug II  Trouble in Paradise.nes",
+            "Big Bird's Hide & Speak.nes": "Sesame Street - Big Bird's Hide & Speak.nes",
+            "Ren & Stimpy Show, The - Buckeroo$.nes": "Ren & Stimpy Show, The - Buckeroo$!.nes",
+            "Twin Eagle - Revenge Joe's Brother.nes": "Twin Eagle.nes"
         }
         
         for file in os.listdir(nes_folder):
@@ -242,9 +242,9 @@ def special_names():
                     except Exception as e:
                         print(f"Failed to rename '{file}' to '{new_file_name}': {e}")
         
-        # Force rename for "Mermaids of Atlantis The Riddle of the Magic Bubble.zip"
-        file_to_force_rename = "Mermaids of Atlantis The Riddle of the Magic Bubble.zip"
-        forced_new_name = "Mermaids of Atlantis.zip"
+        # Force rename for "Mermaids of Atlantis The Riddle of the Magic Bubble.nes"
+        file_to_force_rename = "Mermaids of Atlantis The Riddle of the Magic Bubble.nes"
+        forced_new_name = "Mermaids of Atlantis.nes"
         if os.path.exists(os.path.join(nes_folder, file_to_force_rename)):
             try:
                 os.rename(os.path.join(nes_folder, file_to_force_rename), os.path.join(nes_folder, forced_new_name))
@@ -271,8 +271,8 @@ def rename_megaman_games():
             "Megaman VI": "Mega Man 6"
         }
         
-        zip_files = [f for f in os.listdir(nes_folder) if f.endswith('.zip')]
-        for file in zip_files:
+        nes_files = [f for f in os.listdir(nes_folder) if f.endswith('.nes')]
+        for file in nes_files:
             base_name, ext = os.path.splitext(file)
             if base_name in megaman_mapping:
                 new_base_name = megaman_mapping[base_name]
@@ -288,17 +288,17 @@ def rename_megaman_games():
     except Exception as e:
         print(f"Error in rename_megaman_games: {e}")
 
-def transfer_matching_cover_art(zip_files, art_files):
+def transfer_matching_cover_art(nes_files, art_files):
     renamed_folder = os.path.join(os.getcwd(), "renamed cover art")
     if not os.path.exists(renamed_folder):
         os.makedirs(renamed_folder)
 
-    for zip_file in zip_files:
-        zip_file_base = os.path.splitext(zip_file)[0]
+    for nes_file in nes_files:
+        nes_file_base = os.path.splitext(nes_file)[0]
         for art_file in art_files:
             art_file_base = os.path.splitext(os.path.basename(art_file))[0]
-            if art_file_base.lower() == zip_file_base.lower():
-                new_art_name = f"{zip_file_base}.zip.png"
+            if art_file_base.lower() == nes_file_base.lower():
+                new_art_name = f"{nes_file_base}.nes.png"
                 new_art_path = os.path.join(renamed_folder, new_art_name)
                 
                 if os.path.exists(new_art_path):
@@ -315,31 +315,31 @@ def main():
     answer = input("Would you like to see your listed NES games? (yes/no): ").strip().lower()
 
     if answer == 'yes':
-        zip_files = list_nes_games()
-        if zip_files:
+        nes_files = list_nes_games()
+        if nes_files:
             print("Here are your NES games:")
-            for file in zip_files:
+            for file in nes_files:
                 print(file)
             print("\n\n\nThese are the games I picked up!")
         else:
-            print("No .zip files present in the 'nes games' folder.")
+            print("No .nes files present in the 'nes games' folder.")
             time.sleep(5)
             return
     else:
         print("Too Bad, So Sad...")
         time.sleep(3)
-        zip_files = list_nes_games()
-        if zip_files:
+        nes_files = list_nes_games()
+        if nes_files:
             print("Here are your NES games:")
-            for file in zip_files:
+            for file in nes_files:
                 print(file)
             print("\n\n\nThese are the games I picked up!")
         else:
-            print("No .zip files present in the 'nes games' folder.")
+            print("No .nes files present in the 'nes games' folder.")
             time.sleep(5)
             return
 
-    if zip_files:
+    if nes_files:
         print("\n\n")
         
         answer = input("Would you like to check for duplicate titles? (yes/no): ").strip().lower()
@@ -376,11 +376,11 @@ def main():
                 print("No duplicate titles found.")
             input("Press Enter to continue...")
 
-        answer = input("Would you like to remove the version and region information from the title names?\nExample: 'Dr.Mario (USA).zip' would be changed to 'Dr.Mario.zip'\nYes or no? ").strip().lower()
+        answer = input("Would you like to remove the version and region information from the title names?\nExample: 'Dr.Mario (USA).nes' would be changed to 'Dr.Mario.nes'\nYes or no? ").strip().lower()
 
         if answer == 'yes':
             nes_folder = os.path.join(os.getcwd(), "nes games")
-            for file in zip_files:
+            for file in nes_files:
                 base_name, ext = os.path.splitext(file)
                 new_base_name = remove_version_region_info(base_name)
                 new_file = new_base_name + ext
@@ -419,15 +419,15 @@ def main():
                     already_matched = set()
                     while True:
                         changes_made = False
-                        zip_files = list_nes_games()
-                        for game_file in zip_files:
+                        nes_files = list_nes_games()
+                        for game_file in nes_files:
                             if game_file in already_matched:
                                 continue
                             game_name, _ = os.path.splitext(game_file)
                             best_match = find_best_match(game_name, txt_files)
                             if best_match:
                                 matches.append((game_file, best_match))
-                                new_file_name = os.path.splitext(best_match)[0] + ".zip"
+                                new_file_name = os.path.splitext(best_match)[0] + ".nes"
                                 if os.path.exists(os.path.join(nes_folder, new_file_name)):
                                     print(f"File '{new_file_name}' already exists. Skipping rename for '{game_file}'.")
                                 else:
@@ -478,7 +478,7 @@ def main():
 
                             if answer == 'yes':
                                 art_matches = []
-                                zip_file_titles = [os.path.splitext(f)[0] for f in zip_files]
+                                nes_file_titles = [os.path.splitext(f)[0] for f in nes_files]
                                 already_matched_art = set()
                                 while True:
                                     changes_made = False
@@ -486,9 +486,9 @@ def main():
                                         if art_file in already_matched_art:
                                             continue
                                         art_file_title = os.path.splitext(os.path.basename(art_file))[0]
-                                        best_match = find_best_match(art_file_title, zip_file_titles)
+                                        best_match = find_best_match(art_file_title, nes_file_titles)
                                         if best_match:
-                                            art_matches.append((best_match + ".zip", art_file))
+                                            art_matches.append((best_match + ".nes", art_file))
                                             changes_made = True
                                             already_matched_art.add(art_file)
                                             print(f"Matched '{art_file}' to '{best_match}'")
@@ -498,7 +498,7 @@ def main():
                                 if art_matches:
                                     for game_file, art_file in art_matches:
                                         game_base, _ = os.path.splitext(game_file)
-                                        new_art_name = game_base + ".zip.png"
+                                        new_art_name = game_base + ".nes.png"
                                         new_art_path = os.path.join(os.getcwd(), "renamed cover art", new_art_name)
                                         
                                         if os.path.exists(new_art_path):
@@ -512,7 +512,7 @@ def main():
                                 else:
                                     print("No matching cover art files found.")
 
-                                transfer_matching_cover_art(zip_files, art_files)
+                                transfer_matching_cover_art(nes_files, art_files)
                             else:
                                 print("\n\n\nWhy would you get this far and say no! :'(")
                                 time.sleep(3)
@@ -541,8 +541,8 @@ def main():
         if not os.path.exists(unmatched_games_folder):
             os.makedirs(unmatched_games_folder)
 
-        nes_games = [f for f in os.listdir(nes_games_folder) if f.endswith('.zip')]
-        renamed_cover_art = [f for f in os.listdir(renamed_cover_art_folder) if f.endswith('.zip.png')]
+        nes_games = [f for f in os.listdir(nes_games_folder) if f.endswith('.nes')]
+        renamed_cover_art = [f for f in os.listdir(renamed_cover_art_folder) if f.endswith('.nes.png')]
 
         for game in nes_games:
             expected_cover_art_name = game + ".png"

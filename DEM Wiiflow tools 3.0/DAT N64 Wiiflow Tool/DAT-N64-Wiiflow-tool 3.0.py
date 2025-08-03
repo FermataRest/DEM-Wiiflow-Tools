@@ -55,14 +55,14 @@ def list_n64_games():
         if not os.path.exists(n64_folder):
             print('The "n64 games" folder does not exist.')
             return False
-        zip_files = [f for f in os.listdir(n64_folder) if f.endswith('.zip')]
+        z64_files = [f for f in os.listdir(n64_folder) if f.endswith('.z64')]
 
-        if not zip_files:
-            print('No .zip files present in the "n64 games" folder.')
+        if not z64_files:
+            print('No .z64 files present in the "n64 games" folder.')
             time.sleep(5)
             return False
 
-        return zip_files
+        return z64_files
     except Exception as e:
         print(f"Error in list_n64_games: {e}")
         return False
@@ -149,15 +149,15 @@ def special_names():
         n64_folder = os.path.join(os.getcwd(), "n64 games")
         
         specific_renames = {
-            "1080 TenEighty Snowboarding.zip": "1080 Snowboarding.zip",
-            "Army Men Sarge's Heroes 2.zip": "Army Men - Sarge's Heroes 2.zip",
-            "Mystical Ninja Starring Goemon.zip": "Mystical Ninja Starring Goemon.zip",
-            "Mystical Ninja 2 Starring Goemon.zip": "Mystical Ninja 2 Starring Goemon.zip",
-            "NFL QB Club 2001.zip": "NFL Quarterback Club 2001.zip",
-            "Olympic Hockey 98.zip": "Olympic Hockey Nagano '98.zip",
-            "WinBack Covert Operations.zip": "Operation WinBack.zip",
-            "Toy Story 2 Buzz Lightyear to the Rescue!.zip": "Toy Story 2.zip",
-            "Roadsters.zip": "Roadsters Trophy.zip"
+            "1080 TenEighty Snowboarding.z64": "1080 Snowboarding.z64",
+            "Army Men Sarge's Heroes 2.z64": "Army Men - Sarge's Heroes 2.z64",
+            "Mystical Ninja Starring Goemon.z64": "Mystical Ninja Starring Goemon.z64",
+            "Mystical Ninja 2 Starring Goemon.z64": "Mystical Ninja 2 Starring Goemon.z64",
+            "NFL QB Club 2001.z64": "NFL Quarterback Club 2001.z64",
+            "Olympic Hockey 98.z64": "Olympic Hockey Nagano '98.z64",
+            "WinBack Covert Operations.z64": "Operation WinBack.z64",
+            "Toy Story 2 Buzz Lightyear to the Rescue!.z64": "Toy Story 2.z64",
+            "Roadsters.z64": "Roadsters Trophy.z64"
         }
         
         renamed_files = []
@@ -179,17 +179,17 @@ def special_names():
         print(f"Error in special_names: {e}")
         return []
 
-def transfer_matching_cover_art(zip_files, art_files):
+def transfer_matching_cover_art(z64_files, art_files):
     renamed_folder = os.path.join(os.getcwd(), "renamed cover art")
     if not os.path.exists(renamed_folder):
         os.makedirs(renamed_folder)
 
-    for zip_file in zip_files:
-        zip_file_base = os.path.splitext(zip_file)[0]
+    for z64_file in z64_files:
+        z64_file_base = os.path.splitext(z64_file)[0]
         for art_file in art_files:
             art_file_base = os.path.splitext(os.path.basename(art_file))[0]
-            if art_file_base.lower() == zip_file_base.lower():
-                new_art_name = f"{zip_file_base}.zip.png"
+            if art_file_base.lower() == z64_file_base.lower():
+                new_art_name = f"{z64_file_base}.z64.png"
                 new_art_path = os.path.join(renamed_folder, new_art_name)
                 
                 if os.path.exists(new_art_path):
@@ -206,31 +206,31 @@ def main():
     answer = input("Would you like to see your listed N64 games? (yes/no): ").strip().lower()
 
     if answer == 'yes':
-        zip_files = list_n64_games()
-        if zip_files:
+        z64_files = list_n64_games()
+        if z64_files:
             print("Here are your N64 games:")
-            for file in zip_files:
+            for file in z64_files:
                 print(file)
             print("\n\n\nThese are the games I picked up!")
         else:
-            print("No .zip files present in the 'n64 games' folder.")
+            print("No .z64 files present in the 'n64 games' folder.")
             time.sleep(5)
             return
     else:
         print("Too Bad, So Sad...")
         time.sleep(3)
-        zip_files = list_n64_games()
-        if zip_files:
+        z64_files = list_n64_games()
+        if z64_files:
             print("Here are your N64 games:")
-            for file in zip_files:
+            for file in z64_files:
                 print(file)
             print("\n\n\nThese are the games I picked up!")
         else:
-            print("No .zip files present in the 'n64 games' folder.")
+            print("No .z64 files present in the 'n64 games' folder.")
             time.sleep(5)
             return
 
-    if zip_files:
+    if z64_files:
         print("\n\n")
         
         answer = input("Would you like to check for duplicate titles? (yes/no): ").strip().lower()
@@ -267,11 +267,11 @@ def main():
                 print("No duplicate titles found.")
             input("Press Enter to continue...")
 
-        answer = input("Would you like to remove the version and region information from the title names?\nExample: 'SuperMario64(USA).zip' would be changed to 'SuperMario64.zip'\nYes or no? ").strip().lower()
+        answer = input("Would you like to remove the version and region information from the title names?\nExample: 'SuperMario64(USA).z64' would be changed to 'SuperMario64.z64'\nYes or no? ").strip().lower()
 
         if answer == 'yes':
             n64_folder = os.path.join(os.getcwd(), "n64 games")
-            for file in zip_files:
+            for file in z64_files:
                 base_name, ext = os.path.splitext(file)
                 new_base_name = remove_version_region_info(base_name)
                 new_file = new_base_name + ext
@@ -309,15 +309,15 @@ def main():
                     already_matched = set()
                     while True:
                         changes_made = False
-                        zip_files = list_n64_games()
-                        for game_file in zip_files:
+                        z64_files = list_n64_games()
+                        for game_file in z64_files:
                             if game_file in already_matched:
                                 continue
                             game_name, _ = os.path.splitext(game_file)
                             best_match = find_best_match(game_name, txt_files)
                             if best_match:
                                 matches.append((game_file, best_match))
-                                new_file_name = os.path.splitext(best_match)[0] + ".zip"
+                                new_file_name = os.path.splitext(best_match)[0] + ".z64"
                                 if os.path.exists(os.path.join(n64_folder, new_file_name)):
                                     print(f"File '{new_file_name}' already exists. Skipping rename for '{game_file}'.")
                                 else:
@@ -368,7 +368,7 @@ def main():
 
                             if answer == 'yes':
                                 art_matches = []
-                                zip_file_titles = [os.path.splitext(f)[0] for f in zip_files]
+                                z64_file_titles = [os.path.splitext(f)[0] for f in z64_files]
                                 already_matched_art = set()
                                 while True:
                                     changes_made = False
@@ -376,9 +376,9 @@ def main():
                                         if art_file in already_matched_art:
                                             continue
                                         art_file_title = os.path.splitext(os.path.basename(art_file))[0]
-                                        best_match = find_best_match(art_file_title, zip_file_titles)
+                                        best_match = find_best_match(art_file_title, z64_file_titles)
                                         if best_match:
-                                            art_matches.append((best_match + ".zip", art_file))
+                                            art_matches.append((best_match + ".z64", art_file))
                                             changes_made = True
                                             already_matched_art.add(art_file)
                                             print(f"Matched '{art_file}' to '{best_match}'")
@@ -388,7 +388,7 @@ def main():
                                 if art_matches:
                                     for game_file, art_file in art_matches:
                                         game_base, _ = os.path.splitext(game_file)
-                                        new_art_name = game_base + ".zip.png"
+                                        new_art_name = game_base + ".z64.png"
                                         new_art_path = os.path.join(os.getcwd(), "renamed cover art", new_art_name)
                                         
                                         if os.path.exists(new_art_path):
@@ -402,7 +402,7 @@ def main():
                                 else:
                                     print("No matching cover art files found.")
 
-                                transfer_matching_cover_art(zip_files, art_files)
+                                transfer_matching_cover_art(z64_files, art_files)
                             else:
                                 print("\n\n\nWhy would you get this far and say no! :'(")
                                 time.sleep(3)
@@ -431,8 +431,8 @@ def main():
         if not os.path.exists(unmatched_games_folder):
             os.makedirs(unmatched_games_folder)
 
-        n64_games = [f for f in os.listdir(n64_games_folder) if f.endswith('.zip')]
-        renamed_cover_art = [f for f in os.listdir(renamed_cover_art_folder) if f.endswith('.zip.png')]
+        n64_games = [f for f in os.listdir(n64_games_folder) if f.endswith('.z64')]
+        renamed_cover_art = [f for f in os.listdir(renamed_cover_art_folder) if f.endswith('.z64.png')]
 
         for game in n64_games:
             expected_cover_art_name = game + ".png"
