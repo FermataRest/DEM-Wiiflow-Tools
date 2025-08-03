@@ -1,0 +1,63 @@
+***Basic info***
+
+You will need Python installed on your PC to run the script.
+
+This tool will only read UNZIPPED games for this system. For the Atari lynx the game extension will have to be in ".lnx" format
+
+Boxart cover size is 1090x458
+
+in order for Wiiflow to see your boxart, all title names from both the "games" and "boxart" need to match 100% 
+Example:[game title].lnx and [game title].lnx.png.   (cover art file extension must end in ".lnx.png" or wiiflow will not read it).
+
+
+****Atari Lynx requires bios!****** "lynxboot.img"  <-------
+
+
+
+
+***Using the tool***
+
+Before using the tool you need to setup the folders inside.
+
+Place your Atari lynx games in the "atari lynx games" folder making sure they are unzipped and in the .lnx format.
+
+after that if you have your boxart, also make sure that it's unzipped and placed in the "atari lynx cover art" folder.
+
+(if you have folders called "ALT" or "demo" inside the box art file you downloaded) i usually just delete them. I just use the default ones for my region (USA).
+alt files can cause duplicate titles after the conversion process to appear and make covers not work.
+
+
+assuming you have both of those things done, then you're good to go to run the script. (Provided you have python installed).
+
+
+all you have to do from here is just open "DAT-Atari-Lynx-Wiiflow-Tool.py" and follow the prompts. 
+
+
+Your renamed boxart for use in Wiiflow will now be located in "renamed cover art" with the file extensions fixed for you! (.lnx.png)
+
+
+
+*****FILE LOCATIONS*****
+
+
+after thats done, assuming you followed my guide "https://www.youtube.com/watch?v=z-aV3whflOQ&t=513s"
+
+then you can place the atari lynx games you own when done into the "roms--->atari--->lynx" folder on your Wii SD card
+
+and place the box art into the "Wiiflow--->boxcovers---->atari---->lynx" folder
+
+
+
+******OR*******
+
+When the script is complete you can auto transfer your files to the SD/USB by running the "Transfer to SD-USB (Atari Lynx).py" script and following the prompts.
+
+lastly for the bios. Place the "lynxboot.img" into the root of the "wiimednafen" folder
+
+and thats it! Enjoy. -Below Average Gaming
+
+
+
+
+
+

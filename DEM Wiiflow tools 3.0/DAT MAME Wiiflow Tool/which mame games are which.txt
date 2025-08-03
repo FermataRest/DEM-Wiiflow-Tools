@@ -1,0 +1,2053 @@
++---------------------------------+----------+---------------------------------+
+| 005                             | 005      |                                 |
+| 10 Yard Fight                   | yard     |                                 |
+| 10 Yard Fight (Vs. version 11/05| vsyard   | 10 Yard Fight                   |
+| 10 Yard Fight (Vs. version, set | vsyard2  | 10 Yard Fight                   |
+| 1941 - Counter Attack (Japan)   | 1941j    | 1941 - Counter Attack (World)   |
+| 1941 - Counter Attack (World)   | 1941     |                                 |
+| 1942 (set 1)                    | 1942     |                                 |
+| 1942 (set 2)                    | 1942a    | 1942 (set 1)                    |
+| 1942 (set 3)                    | 1942b    | 1942 (set 1)                    |
+| 1943 - The Battle of Midway (Jap| 1943j    | 1943 - The Battle of Midway (US)|
+| 1943 - The Battle of Midway (US)| 1943     |                                 |
+| 1943 Kai                        | 1943kai  |                                 |
+| 2020 Super Baseball (set 1)     | 2020bb   |                                 |
+| 2020 Super Baseball (set 2)     | 2020bbh  | 2020 Super Baseball (set 1)     |
+| 3 Count Bout / Fire Suplex      | 3countb  |                                 |
+| 4 Player Bowling                | bowler   |                                 |
+| 4-D Warriors                    | 4dwarrio |                                 |
+| 600                             | 600      | Turtles                         |
+| 64th. Street - A Detective Story| 64streej | 64th. Street - A Detective Story|
+| 64th. Street - A Detective Story| 64street |                                 |
+| 720 Degrees (set 1)             | 720      |                                 |
+| 720 Degrees (set 2)             | 720b     | 720 Degrees (set 1)             |
+| '88 Games                       | 88games  |                                 |
+| '99 The Last War                | 99lstwar | Son of Phoenix                  |
+| '99 The Last War (alternate)    | 99lstwra | Son of Phoenix                  |
+| Act-Fancer Cybernetick Hyper Wea| actfancj | Act-Fancer Cybernetick Hyper Wea|
+| Act-Fancer Cybernetick Hyper Wea| actfanc1 | Act-Fancer Cybernetick Hyper Wea|
+| Act-Fancer Cybernetick Hyper Wea| actfancr |                                 |
+| Adventure Quiz 2 Hatena Hatena n| hatena   |                                 |
+| Aero Fighters                   | aerofgt  |                                 |
+| Aero Fighters (Turbo Force hardw| aerofgtb | Aero Fighters                   |
+| Aero Fighters (Turbo Force hardw| aerofgtc | Aero Fighters                   |
+| Aero Fighters 2 / Sonic Wings 2 | sonicwi2 |                                 |
+| Aero Fighters 3 / Sonic Wings 3 | sonicwi3 |                                 |
+| Aeroboto                        | aeroboto*| Formation Z                     |
+| Aggressors of Dark Kombat / Tsuu| aodk     |                                 |
+| Air Buster (Japan)              | airbustr |                                 |
+| Air Wolf                        | airwolf  |                                 |
+| Ajax                            | ajax     |                                 |
+| Ajax (Japan)                    | ajaxj    | Ajax                            |
+| Akuma-Jou Dracula (Japan)       | hcastlej | Haunted Castle (set 1)          |
+| Alcon                           | alcon*   | Slap Fight                      |
+| Ales no Tsubasa (Japan)         | lwingsjp | Legendary Wings (US set 1)      |
+| Alex Kidd (set 1)               | alexkidd*|                                 |
+| Alex Kidd (set 2)               | alexkida | Alex Kidd (set 1)               |
+| Ali Baba and 40 Thieves         | alibaba  |                                 |
+| Alien Invasion Part II          | alieninv | Space Invaders                  |
+| Alien Storm                     | astorm*  |                                 |
+| Alien Storm (2 Player)          | astorm2p*| Alien Storm                     |
+| Alien Storm (bootleg)           | astormbl | Alien Storm                     |
+| Alien Syndrome (Japan)          | aliensyj*| Alien Syndrome (set 1)          |
+| Alien Syndrome (set 1)          | aliensyn |                                 |
+| Alien Syndrome (set 2)          | aliensya*| Alien Syndrome (set 1)          |
+| Alien Syndrome (set 3)          | aliensyb*| Alien Syndrome (set 1)          |
+| Aliens (Japan)                  | aliensj  | Aliens (World set 1)            |
+| Aliens (US)                     | aliensu  | Aliens (World set 1)            |
+| Aliens (World set 1)            | aliens   |                                 |
+| Aliens (World set 2)            | aliens2  | Aliens (World set 1)            |
+| Alpha Mission II / ASO II - Last| alpham2  |                                 |
+| Alpine Ski (set 1)              | alpine   |                                 |
+| Alpine Ski (set 2)              | alpinea  | Alpine Ski (set 1)              |
+| Altered Beast (Version 1)       | altbeast |                                 |
+| Altered Beast (Version 2)       | altbeas2 | Altered Beast (Version 1)       |
+| Amazing Maze                    | maze     |                                 |
+| Ambush                          | ambush   |                                 |
+| American Horseshoes (US)        | horshoes*|                                 |
+| Amidar                          | amidar   |                                 |
+| Amidar (Olympia)                | amidaro  | Amidar                          |
+| Amidar (Scramble hardware)      | amidars  | Amidar                          |
+| Amidar (Stern)                  | amidaru  | Amidar                          |
+| Amigo                           | amigo    | Amidar                          |
+| Andro Dunos                     | androdun |                                 |
+| Anteater                        | anteater |                                 |
+| APB - All Points Bulletin (set 1| apb      |                                 |
+| APB - All Points Bulletin (set 2| apb2     | APB - All Points Bulletin (set 1|
+| Appoooh                         | appoooh  |                                 |
+| Arabian                         | arabian  |                                 |
+| Arabian (Atari)                 | arabiana | Arabian                         |
+| Arcade Classics (prototype)     | arcadecl |                                 |
+| Arch Rivals (rev 2.0)           | archriv2 | Arch Rivals (rev 4.0)           |
+| Arch Rivals (rev 4.0)           | archrivl |                                 |
+| Area 88 (Japan)                 | area88   | U.N. Squadron (US)              |
+| Argus no Senshi (Japan)         | rygarj   | Rygar (US set 1)                |
+| Ark Area                        | arkarea  |                                 |
+| Arkanoid - Revenge of DOH (Japan| ark2jp   | Arkanoid - Revenge of DOH (World|
+| Arkanoid - Revenge of DOH (US)  | ark2us   | Arkanoid - Revenge of DOH (World|
+| Arkanoid - Revenge of DOH (World| arkanoi2 |                                 |
+| Arkanoid (Game Corporation bootl| arkangc  | Arkanoid (World)                |
+| Arkanoid (Japan)                | arknoidj | Arkanoid (World)                |
+| Arkanoid (Japanese bootleg Set 2| arkbl2*  | Arkanoid (World)                |
+| Arkanoid (Tayto bootleg, Japanes| arkatayt | Arkanoid (World)                |
+| Arkanoid (US)                   | arknoidu | Arkanoid (World)                |
+| Arkanoid (World)                | arkanoid |                                 |
+| Arm Wrestling                   | armwrest |                                 |
+| Armed Formation                 | armedf   |                                 |
+| Armor Attack                    | armora   |                                 |
+| Armored Car (set 1)             | armorcar |                                 |
+| Armored Car (set 2)             | armorca2 | Armored Car (set 1)             |
+| Art of Fighting / Ryuuko no Ken | aof      |                                 |
+| Art of Fighting 2 / Ryuuko no Ke| aof2     |                                 |
+| Art of Fighting 3 - The Path of | aof3     |                                 |
+| ASO - Armored Scrum Object      | aso      |                                 |
+| Assault                         | assault  |                                 |
+| Assault (Japan)                 | assaultj | Assault                         |
+| Assault Plus (Japan)            | assaultp | Assault                         |
+| Asteroids (bootleg on Lunar Land| asteroib | Asteroids (rev 2)               |
+| Asteroids (rev 1)               | asteroi1 | Asteroids (rev 2)               |
+| Asteroids (rev 2)               | asteroid |                                 |
+| Asteroids Deluxe (rev 1)        | astdelu1 | Asteroids Deluxe (rev 2)        |
+| Asteroids Deluxe (rev 2)        | astdelux |                                 |
+| Astro Blaster (version 1)       | astrob1* | Astro Blaster (version 2)       |
+| Astro Blaster (version 2)       | astrob   |                                 |
+| Astro Fighter (set 1)           | astrof   |                                 |
+| Astro Fighter (set 2)           | astrof2  | Astro Fighter (set 1)           |
+| Astro Fighter (set 3)           | astrof3  | Astro Fighter (set 1)           |
+| Astro Invader                   | astinvad |                                 |
+| Atari Baseball (set 1)          | abaseb   |                                 |
+| Atari Baseball (set 2)          | abaseb2  | Atari Baseball (set 1)          |
+| Atari Football (4 players)      | atarifb4 | Atari Football (revision 2)     |
+| Atari Football (revision 1)     | atarifb1 | Atari Football (revision 2)     |
+| Atari Football (revision 2)     | atarifb  |                                 |
+| Atari Soccer                    | soccer   |                                 |
+| Athena                          | athena   |                                 |
+| Atomic Point                    | atomicp  |                                 |
+| Aurail (set 1)                  | aurail   |                                 |
+| Aurail (set 2)                  | auraila  | Aurail (set 1)                  |
+| Avalanche                       | avalnche |                                 |
+| Avengers (set 1)                | avengers*|                                 |
+| Avengers (set 2)                | avenger2*| Avengers (set 1)                |
+| Avenging Spirit                 | avspirit |                                 |
+| Aztarac                         | aztarac  |                                 |
+| Azurian Attack                  | azurian  |                                 |
+| Bad Dudes vs. Dragonninja (US)  | baddudes |                                 |
+| Bad Lands                       | badlands |                                 |
+| Bagman                          | bagman   |                                 |
+| Bagman (Stern set 1)            | bagmans  | Bagman                          |
+| Bagman (Stern set 2)            | bagmans2 | Bagman                          |
+| Bakatonosama Mahjong Manyuki    | bakatono |                                 |
+| Balloon Bomber                  | ballbomb |                                 |
+| Baluba-louk no Densetsu         | baluba   |                                 |
+| Bandido                         | bandido  |                                 |
+| Bank Panic                      | bankp    |                                 |
+| Baraduke                        | baraduke |                                 |
+| Barrier                         | barrier  |                                 |
+| Baseball Stars 2                | bstars2  |                                 |
+| Baseball Stars Professional     | bstars   |                                 |
+| Basketball                      | bsktball |                                 |
+| Batman                          | batman   |                                 |
+| Batsugun                        | batsugun |                                 |
+| Battlantis                      | battlnts |                                 |
+| Battlantis (Japan)              | battlntj | Battlantis                      |
+| Battle Chopper                  | bchopper |                                 |
+| Battle Flip Shot                | flipshot |                                 |
+| Battle Lane Vol. 5 (set 1)      | battlane+|                                 |
+| Battle Lane Vol. 5 (set 2)      | battlan2+| Battle Lane Vol. 5 (set 1)      |
+| Battle Lane Vol. 5 (set 3)      | battlan3+| Battle Lane Vol. 5 (set 1)      |
+| Battle of Atlantis (set 1)      | atlantis |                                 |
+| Battle of Atlantis (set 2)      | atlants2 | Battle of Atlantis (set 1)      |
+| Battle Zone (set 1)             | bzone    |                                 |
+| Battle Zone (set 2)             | bzone2   | Battle Zone (set 1)             |
+| Battlefield (Japan)             | btlfield*| Time Soldiers (Rev 3)           |
+| Bay Route (bootleg set 1)       | bayrtbl1*| Bay Route (set 1)               |
+| Bay Route (bootleg set 2)       | bayrtbl2*| Bay Route (set 1)               |
+| Bay Route (set 1)               | bayroute |                                 |
+| Bay Route (set 2)               | bayrouta*| Bay Route (set 1)               |
+| Beastie Feastie                 | beastf   | The Glob                        |
+| Bells & Whistles                | blswhstl |                                 |
+| Beraboh Man (Japan)             | berabohm |                                 |
+| Bermuda Triangle (Japan)        | bermudaj | Bermuda Triangle (US)           |
+| Bermuda Triangle (US early versi| bermudaa | Bermuda Triangle (US)           |
+| Bermuda Triangle (US)           | bermudat |                                 |
+| Berzerk (set 1)                 | berzerk  |                                 |
+| Berzerk (set 2)                 | berzerk1 | Berzerk (set 1)                 |
+| Big Striker                     | bigstrik |                                 |
+| Bio Attack                      | bioatack |                                 |
+| Bionic Commando (US set 1)      | bionicc  |                                 |
+| Bionic Commando (US set 2)      | bionicc2 | Bionic Commando (US set 1)      |
+| Birdie King 2                   | bking2   |                                 |
+| Black Dragon                    | blkdrgon | Black Tiger                     |
+| Black Dragon (bootleg)          | blkdrgnb | Black Tiger                     |
+| Black Hole                      | blkhole  |                                 |
+| Black Tiger                     | blktiger |                                 |
+| Black Tiger (bootleg)           | bktigerb | Black Tiger                     |
+| Black Widow                     | bwidow   |                                 |
+| Blade Master (World)            | bmaster  |                                 |
+| Blades of Steel (version E)     | bladstle | Blades of Steel (version T)     |
+| Blades of Steel (version T)     | bladestl |                                 |
+| Blast Off (Japan)               | blastoff |                                 |
+| Blasted                         | blasted  |                                 |
+| Blaster                         | blaster  |                                 |
+| Blasteroids (version 2)         | blstroi2 | Blasteroids (version 4)         |
+| Blasteroids (version 4)         | blstroid |                                 |
+| Blasto                          | blasto   |                                 |
+| Blazer (Japan)                  | blazer   |                                 |
+| Blazing Star                    | blazstar |                                 |
+| Block (Game Corporation bootleg)| arkbloc2 | Arkanoid (World)                |
+| Block Block (bootleg)           | blockbl  | Block Block (World)             |
+| Block Block (Japan)             | blockj   | Block Block (World)             |
+| Block Block (World)             | block    |                                 |
+| Block Gal                       | blockgal*|                                 |
+| Block Gal (bootleg)             | blckgalb*| Block Gal                       |
+| Block Hole                      | blockhl  |                                 |
+| Block Out (set 1)               | blockout |                                 |
+| Block Out (set 2)               | blckout2 | Block Out (set 1)               |
+| Blockade                        | blockade |                                 |
+| Blood Bros.                     | bloodbro |                                 |
+| Blue Print (Jaleco)             | blueprnj | Blue Print (Midway)             |
+| Blue Print (Midway)             | blueprnt |                                 |
+| Blue Shark                      | blueshrk |                                 |
+| Blue's Journey / Raguy          | bjourney |                                 |
+| Bobble Bobble                   | boblbobl | Bubble Bobble                   |
+| Body Slam                       | bodyslam |                                 |
+| Bogey Manor                     | bogeyman |                                 |
+| Bomb Bee                        | bombbee  |                                 |
+| Bomb Jack (set 1)               | bombjack |                                 |
+| Bomb Jack (set 2)               | bombjac2 | Bomb Jack (set 1)               |
+| Bombjack Twin                   | bjtwin   |                                 |
+| Boot Camp                       | bootcamp | Combat School (joystick)        |
+| Boot Hill                       | boothill |                                 |
+| Bosconian (Midway, new version) | boscomd  | Bosconian (new version)         |
+| Bosconian (Midway, old version) | boscomdo | Bosconian (new version)         |
+| Bosconian (new version)         | bosco    |                                 |
+| Bosconian (old version)         | boscoo   | Bosconian (new version)         |
+| Bottom of the Ninth (version N) | bottom9n | Bottom of the Ninth (version T) |
+| Bottom of the Ninth (version T) | bottom9  |                                 |
+| Boulder Dash / Boulder Dash Part| bouldash |                                 |
+| Bowl-O-Rama                     | bowlrama |                                 |
+| Boxing Bugs                     | boxingb  |                                 |
+| Brain                           | brain    |                                 |
+| Break Thru (US)                 | brkthru  |                                 |
+| Breakers                        | breakers |                                 |
+| Breakers Revenge                | breakrev | Breakers                        |
+| Breywood (Japan revision 2)     | breywood | Shackled (US)                   |
+| Brix                            | brix     | Zzyzzyxx (set 1)                |
+| Bubble Bobble                   | bublbobl |                                 |
+| Bubble Bobble (US set 1)        | bublbobr | Bubble Bobble                   |
+| Bubble Bobble (US set 2)        | bubbobr1 | Bubble Bobble                   |
+| Bubbles                         | bubbles  |                                 |
+| Bubbles (Solid Red label)       | bubblesr | Bubbles                         |
+| Bump 'n' Jump                   | bnj      | Burnin' Rubber                  |
+| Burger Time (Data East set 1)   | btime    |                                 |
+| Burger Time (Data East set 2)   | btime2   | Burger Time (Data East set 1)   |
+| Burger Time (Midway)            | btimem   | Burger Time (Data East set 1)   |
+| Burnin' Rubber                  | brubber  |                                 |
+| Burning Fight (set 1)           | burningf |                                 |
+| Burning Fight (set 2)           | burningh | Burning Fight (set 1)           |
+| Burning Force (Japan)           | burnforc |                                 |
+| Buster Bros (US)                | bbros    | Pang (World)                    |
+| Cabal (bootleg)                 | cabalbl  | Cabal (US set 1)                |
+| Cabal (US set 1)                | cabal*   |                                 |
+| Cabal (US set 2)                | cabal2*  | Cabal (US set 1)                |
+| Cachat (Japan)                  | cachat   |                                 |
+| Cadillacs and Dinosaurs (World) | dino     |                                 |
+| Cadillacs Kyouryuu-Shinseiki (Ja| dinoj    | Cadillacs and Dinosaurs (World) |
+| Calipso                         | calipso  |                                 |
+| Canyon Bomber                   | canyon   |                                 |
+| Canyon Bomber (prototype)       | canbprot | Canyon Bomber                   |
+| Capcom Baseball (Japan)         | cbasebal |                                 |
+| Capcom Bowling (set 1)          | capbowl  |                                 |
+| Capcom Bowling (set 2)          | capbowl2 | Capcom Bowling (set 1)          |
+| Capcom World (Japan)            | cworld   |                                 |
+| Capcom World 2 (Japan)          | cworld2j |                                 |
+| Captain Commando (Japan)        | captcomj | Captain Commando (World)        |
+| Captain Commando (US)           | captcomu | Captain Commando (World)        |
+| Captain Commando (World)        | captcomm |                                 |
+| Captain Silver (Japan)          | csilver  |                                 |
+| Car Action                      | caractn  | Burnin' Rubber                  |
+| Carnival (Cocktail)             | carnvckt | Carnival (Upright)              |
+| Carnival (Upright)              | carnival |                                 |
+| Carrier Air Wing (World)        | cawing   |                                 |
+| Caveman Ninja (US)              | cninjau  | Caveman Ninja (World revision 3)|
+| Caveman Ninja (World revision 0)| cninja0  | Caveman Ninja (World revision 3)|
+| Caveman Ninja (World revision 3)| cninja   |                                 |
+| Centipede (bootleg set 1)       | centipdb | Centipede (revision 3)          |
+| Centipede (bootleg set 2)       | centipb2 | Centipede (revision 3)          |
+| Centipede (revision 2)          | centipd2 | Centipede (revision 3)          |
+| Centipede (revision 3)          | centiped |                                 |
+| Challenger                      | challeng |                                 |
+| Champion Baseball               | champbas |                                 |
+| Champion Baseball II            | champbb2*|                                 |
+| Champion Wrestler (Japan)       | champwrj | Champion Wrestler (World)       |
+| Champion Wrestler (US)          | champwru | Champion Wrestler (World)       |
+| Champion Wrestler (World)       | champwr  |                                 |
+| Championship Sprint             | csprint  |                                 |
+| Changes                         | changes  |                                 |
+| Checkman                        | checkman |                                 |
+| Checkman (Japan)                | checkmaj | Checkman                        |
+| Checkmate                       | checkmat |                                 |
+| Cheeky Mouse                    | cheekyms+|                                 |
+| Chelnov - Atomic Runner (Japan) | chelnovj | Chelnov - Atomic Runner (US)    |
+| Chelnov - Atomic Runner (US)    | chelnov  |                                 |
+| Cheyenne (version 1.0)          | cheyenne |                                 |
+| Chibi Marukochan Deluxe Quiz    | marukodq |                                 |
+| Chicken Shift                   | cshift   |                                 |
+| Chiki Chiki Boys (Japan)        | chikij   | Mega Twins (World)              |
+| Chiller (version 3.0)           | chiller  |                                 |
+| Chimera Beast                   | chimerab |                                 |
+| Choplifter                      | chplft*  |                                 |
+| Choplifter (alternate)          | chplftb  | Choplifter                      |
+| Choplifter (bootleg)            | chplftbl | Choplifter                      |
+| Chopper I                       | chopper  |                                 |
+| Chuka Taisen (Japan)            | chukatai |                                 |
+| Circus                          | circus   |                                 |
+| Circus Charlie                  | circusc  |                                 |
+| Circus Charlie (Centuri)        | circuscc | Circus Charlie                  |
+| Circus Charlie (Centuri, earlier| circusce | Circus Charlie                  |
+| Circus Charlie (no level select)| circusc2 | Circus Charlie                  |
+| Cisco Heat                      | cischeat |                                 |
+| City Connection (set 1)         | citycon  |                                 |
+| City Connection (set 2)         | citycona | City Connection (set 1)         |
+| Clay Pigeon (version 2.0)       | claypign |                                 |
+| Cloak & Dagger                  | cloak    |                                 |
+| Cloud 9 (prototype)             | cloud9   |                                 |
+| Clowns                          | clowns   |                                 |
+| Cobra-Command (Japan)           | cobracmj | Cobra-Command (World revision 5)|
+| Cobra-Command (World revision 5)| cobracom |                                 |
+| Colony 7 (set 1)                | colony7  |                                 |
+| Colony 7 (set 2)                | colony7a | Colony 7 (set 1)                |
+| Combat (version 3.0)            | combat   |                                 |
+| Combat School (bootleg)         | combascb | Combat School (joystick)        |
+| Combat School (Japan trackball) | combascj | Combat School (joystick)        |
+| Combat School (joystick)        | combasc  |                                 |
+| Combat School (trackball)       | combasct | Combat School (joystick)        |
+| Commando (Sega)                 | commsega |                                 |
+| Commando (US)                   | commandu | Commando (World)                |
+| Commando (World)                | commando |                                 |
+| Comotion                        | comotion |                                 |
+| Congo Bongo                     | congo    |                                 |
+| Contra (Japan bootleg)          | contrajb | Contra (US)                     |
+| Contra (Japan)                  | contraj  | Contra (US)                     |
+| Contra (US bootleg)             | contrab  | Contra (US)                     |
+| Contra (US)                     | contra   |                                 |
+| Cook Race                       | cookrace | Burger Time (Data East set 1)   |
+| Coors Light Bowling             | clbowl   | Capcom Bowling (set 1)          |
+| Cop 01 (set 1)                  | cop01    |                                 |
+| Cop 01 (set 2)                  | cop01a   | Cop 01 (set 1)                  |
+| Cops'n Robbers                  | copsnrob |                                 |
+| Cosmic Alien                    | cosmica  |                                 |
+| Cosmic Alien (older)            | cosmica2 | Cosmic Alien                    |
+| Cosmic Avenger                  | cavenger |                                 |
+| Cosmic Chasm (set 1)            | cchasm   |                                 |
+| Cosmic Chasm (set 2)            | cchasm1  | Cosmic Chasm (set 1)            |
+| Cosmic Guerilla                 | cosmicg  |                                 |
+| Cosmic Monsters                 | cosmicmo | Space Invaders                  |
+| Cosmo Gang the Video (Japan)    | cosmognj | Cosmo Gang the Video (US)       |
+| Cosmo Gang the Video (US)       | cosmogng |                                 |
+| Cotocoto Cottong                | cottong  | Loco-Motion                     |
+| Crackshot (version 2.0)         | cracksht |                                 |
+| Crash                           | crash    |                                 |
+| Crater Raider                   | crater   |                                 |
+| Crazy Balloon (set 1)           | crbaloon |                                 |
+| Crazy Balloon (set 2)           | crbalon2 | Crazy Balloon (set 1)           |
+| Crazy Climber (bootleg set 1)   | ccboot   | Crazy Climber (US)              |
+| Crazy Climber (bootleg set 2)   | ccboot2  | Crazy Climber (US)              |
+| Crazy Climber (Japan)           | cclimbrj | Crazy Climber (US)              |
+| Crazy Climber (US)              | cclimber |                                 |
+| Crazy Climber 2 (Japan)         | cclimbr2 |                                 |
+| Crazy Cop (Japan)               | crazycop | Gang Busters                    |
+| Crazy Kong (Alca bootleg)       | ckongalc | Crazy Kong (set 1)              |
+| Crazy Kong (Jeutel bootleg)     | ckongjeu | Crazy Kong (set 1)              |
+| Crazy Kong (Orca bootleg)       | ckongo   | Crazy Kong (set 1)              |
+| Crazy Kong (Scramble hardware)  | ckongs   | Crazy Kong (set 1)              |
+| Crazy Kong (set 1)              | ckong    |                                 |
+| Crazy Kong (set 2)              | ckonga   | Crazy Kong (set 1)              |
+| Crime Fighters (Japan 2 Players)| crimfgtj | Crime Fighters (US 4 players)   |
+| Crime Fighters (US 4 players)   | crimfght |                                 |
+| Crime Fighters (World 2 Players)| crimfgt2 | Crime Fighters (US 4 players)   |
+| Crime Fighters 2 (Japan)        | vendettj | Vendetta (Asia set 1)           |
+| Crossbow (version 2.0)          | crossbow |                                 |
+| Crossed Swords                  | crsword  |                                 |
+| Crude Buster (Japan)            | cbusterj | Crude Buster (World FX version) |
+| Crude Buster (World FU version) | cbusterw | Crude Buster (World FX version) |
+| Crude Buster (World FX version) | cbuster  |                                 |
+| Cruisin                         | cruisin  | City Connection (set 1)         |
+| Crush Roller (Kural - bootleg?) | crush3   | Crush Roller (Kural Samno)      |
+| Crush Roller (Kural Esco - bootl| crush2   | Crush Roller (Kural Samno)      |
+| Crush Roller (Kural Samno)      | crush    |                                 |
+| Crystal Castles (set 1)         | ccastles |                                 |
+| Crystal Castles (set 2)         | ccastle2 | Crystal Castles (set 1)         |
+| Cuebrick                        | cuebrick |                                 |
+| Curve Ball                      | curvebal |                                 |
+| Cutie Q                         | cutieq   |                                 |
+| Cybattler                       | cybattlr |                                 |
+| Cyberball                       | cyberbal |                                 |
+| Cyberball 2072 (2 player)       | cyberb2p | Cyberball                       |
+| Cyber-Lip                       | cyberlip |                                 |
+| Dai Makai-Mura (Japan)          | ghoulsj  | Ghouls'n Ghosts (World)         |
+| Dai Ressya Goutou (Japan)       | dairesya | Iron Horse                      |
+| Daiku no Gensan (Japan)         | dkgensan | Hammerin' Harry (World)         |
+| DakkoChan Jansoh                | dakkochn*|                                 |
+| Dangar - Ufo Robo (12/1/1986)   | dangar   |                                 |
+| Dangar - Ufo Robo (9/26/1986)   | dangar2  | Dangar - Ufo Robo (12/1/1986)   |
+| Dangar - Ufo Robo (bootleg)     | dangarb  | Dangar - Ufo Robo (12/1/1986)   |
+| Dangerous Seed (Japan)          | dangseed |                                 |
+| Dark Adventure                  | darkadv  | Devil World                     |
+| Dark Planet                     | darkplnt*|                                 |
+| Dark Seal (Japan)               | darkseaj | Dark Seal (World revision 3)    |
+| Dark Seal (World revision 1)    | darksea1 | Dark Seal (World revision 3)    |
+| Dark Seal (World revision 3)    | darkseal |                                 |
+| Darwin 4078 (Japan)             | darwin   |                                 |
+| Datsugoku - Prisoners of War (Ja| powj     | P.O.W. - Prisoners of War (US)  |
+| Datsun 280 Zzzap                | 280zzzap |                                 |
+| D-Con                           | dcon     |                                 |
+| D-Day                           | dday     |                                 |
+| D-Day (Centuri)                 | ddayc    | D-Day                           |
+| Dead Eye                        | deadeye  |                                 |
+| Defence Command                 | defence  | Defender (Red label)            |
+| Defend the Terra Attack on the R| redufo   |                                 |
+| Defender (Green label)          | defendg  | Defender (Red label)            |
+| Defender (Red label)            | defender |                                 |
+| Defender (White label)          | defendw  | Defender (Red label)            |
+| Defense Command (set 1)         | defcmnd  | Defender (Red label)            |
+| Demolition Derby                | destderb |                                 |
+| Demolition Derby (2-Player Mono | destderm | Demolition Derby                |
+| Demon                           | demon    |                                 |
+| Demon's World / Horror Story    | demonwld |                                 |
+| Depthcharge                     | depthch  |                                 |
+| Desert Gun                      | desertgu |                                 |
+| Destination Earth               | desterth | Lunar Rescue                    |
+| Detana!! Twin Bee (Japan)       | detatwin | Bells & Whistles                |
+| Devastators (version V)         | devstor3 | Devastators (version Z)         |
+| Devastators (version X)         | devstor2 | Devastators (version Z)         |
+| Devastators (version Z)         | devstors |                                 |
+| Devil Fish                      | devilfsh |                                 |
+| Devil Fish (Galaxian hardware, b| devilfsg | Devil Fish                      |
+| Devil World                     | devilw   |                                 |
+| Devil Zone                      | devzone  |                                 |
+| Diamond Run                     | diamond  |                                 |
+| Dig Dug (Atari)                 | digdugat | Dig Dug (set 1)                 |
+| Dig Dug (set 1)                 | digdug   |                                 |
+| Dig Dug (set 2)                 | digdugb  | Dig Dug (set 1)                 |
+| Dig Dug II (set 1)              | digdug2  |                                 |
+| Dig Dug II (set 2)              | digdug2a | Dig Dug II (set 1)              |
+| Digger                          | digger   |                                 |
+| Disco No.1                      | disco    |                                 |
+| Discs of Tron (Environmental)   | dotrone  | Discs of Tron (Upright)         |
+| Discs of Tron (Upright)         | dotron   |                                 |
+| Do! Run Run (Do's Castle hardwar| dorunruc | Do! Run Run (set 1)             |
+| Do! Run Run (set 1)             | dorunrun |                                 |
+| Do! Run Run (set 2)             | dorunru2 | Do! Run Run (set 1)             |
+| Dog Fight                       | dogfight |                                 |
+| Dog Patch                       | dogpatch |                                 |
+| Dogou Souken                    | dogosoke | Victory Road                    |
+| Dogyuun                         | dogyuun  |                                 |
+| Dokaben (Japan)                 | dokaben  |                                 |
+| Domino Man                      | domino   |                                 |
+| Dominos                         | dominos  |                                 |
+| Donkey Kong (Japan set 1)       | dkongjp  | Donkey Kong (US)                |
+| Donkey Kong (Japan set 2)       | dkongjpo | Donkey Kong (US)                |
+| Donkey Kong (US)                | dkong    |                                 |
+| Donkey Kong 3 (Japan)           | dkong3j  | Donkey Kong 3 (US)              |
+| Donkey Kong 3 (US)              | dkong3   |                                 |
+| Donkey Kong Jr. (Original Japane| dkngjrjp | Donkey Kong Junior (US)         |
+| Donkey Kong Junior (bootleg?)   | dkjrbl   | Donkey Kong Junior (US)         |
+| Donkey Kong Junior (Japan)      | dkjrjp   | Donkey Kong Junior (US)         |
+| Donkey Kong Junior (US)         | dkongjr  |                                 |
+| Dottori Kun (new version)       | dotrikun |                                 |
+| Dottori Kun (old version)       | dotriku2 | Dottori Kun (new version)       |
+| Double Dragon                   | ddragon* |                                 |
+| Double Dragon (bootleg)         | ddragonb | Double Dragon                   |
+| Double Dragon (Neo Geo)         | doubledr |                                 |
+| Double Dragon 3 - The Rosetta St| ddragon3 |                                 |
+| Double Dragon 3 - The Rosetta St| ddrago3b | Double Dragon 3 - The Rosetta St|
+| Double Dragon II - The Revenge  | ddragon2 |                                 |
+| Double Dribble                  | ddribble |                                 |
+| Double Play                     | dplay    | Extra Innings                   |
+| Dr. Toppel's Tankentai (Japan)  | drtoppel |                                 |
+| Dragon Breed                    | dbreed   |                                 |
+| Dragon Buster                   | drgnbstr |                                 |
+| Dragon Saber                    | dsaber   |                                 |
+| Dragon Saber (Japan)            | dsaberj  | Dragon Saber                    |
+| Dragon Spirit (new version)     | dspirit  |                                 |
+| Dragon Spirit (old version)     | dspirito | Dragon Spirit (new version)     |
+| Dragonninja (Japan)             | drgninja | Bad Dudes vs. Dragonninja (US)  |
+| Dream Shopper                   | dremshpr |                                 |
+| Dream Soccer '94                | dsoccr94 |                                 |
+| Dump Matsumoto (Japan)          | dumpmtmt | Body Slam                       |
+| Dyger                           | dyger    |                                 |
+| Dynamite Duke                   | dynduke  |                                 |
+| Dynamite Dux (bootleg)          | dduxbl   |                                 |
+| Eagle (set 1)                   | eagle    | Moon Cresta (Nichibutsu)        |
+| Eagle (set 2)                   | eagle2   | Moon Cresta (Nichibutsu)        |
+| Earth Defense Force             | edf      |                                 |
+| Eggs                            | eggs     | Scrambled Egg                   |
+| Eight Man                       | eightman |                                 |
+| Elevator Action                 | elevator |                                 |
+| Elevator Action (bootleg)       | elevatob | Elevator Action                 |
+| Eliminator (2 Players, set 1)   | elim2    |                                 |
+| Eliminator (2 Players, set 2)   | elim2a   | Eliminator (2 Players, set 1)   |
+| Eliminator (4 Players)          | elim4    | Eliminator (2 Players, set 1)   |
+| Empire City: 1931 (bootleg?)    | empcity  |                                 |
+| Empire City: 1931 (Japan)       | empcityj | Empire City: 1931 (bootleg?)    |
+| Enduro Racer                    | enduror* |                                 |
+| Enduro Racer (bootleg set 1)    | endurobl | Enduro Racer                    |
+| Enduro Racer (bootleg set 2)    | endurob2 | Enduro Racer                    |
+| Escape from the Planet of the Ro| eprom    |                                 |
+| Escape from the Planet of the Ro| eprom2   | Escape from the Planet of the Ro|
+| Espial (Europe)                 | espiale  | Espial (US?)                    |
+| Espial (US?)                    | espial   |                                 |
+| E-Swat                          | eswat*   |                                 |
+| E-Swat (bootleg)                | eswatbl  | E-Swat                          |
+| Euro League                     | wc90b    | World Cup 90                    |
+| Exciting Hour                   | excthour | Mat Mania                       |
+| Exciting Soccer                 | exctsccr |                                 |
+| Exciting Soccer (alternate music| exctscca | Exciting Soccer                 |
+| Exciting Soccer (bootleg)       | exctsccb | Exciting Soccer                 |
+| Exciting Soccer II              | exctscc2*| Exciting Soccer                 |
+| Exed Exes                       | exedexes |                                 |
+| Exerion                         | exerion+ |                                 |
+| Exerion (bootleg)               | exerionb+| Exerion                         |
+| Exerion (Taito)                 | exeriont+| Exerion                         |
+| Express Raider (US)             | exprraid |                                 |
+| Extermination (US)              | extrmatn |                                 |
+| Exterminator                    | exterm   |                                 |
+| Extra Bases                     | ebases+  |                                 |
+| Extra Innings                   | einnings |                                 |
+| Eyes (Digitrex Techstar)        | eyes     |                                 |
+| Eyes (Techstar Inc.)            | eyes2    | Eyes (Digitrex Techstar)        |
+| F-1 Dream                       | f1dream  |                                 |
+| F-1 Dream (bootleg)             | f1dreamb | F-1 Dream                       |
+| F1 Grand Prix Star              | f1gpstar |                                 |
+| Face Off (Japan)                | faceoff  |                                 |
+| Fantasy (Japan)                 | fantasyj | Fantasy (US)                    |
+| Fantasy (US)                    | fantasy  |                                 |
+| Fantasy Zone (Japan New Ver.)   | fantzone |                                 |
+| Fantasy Zone (Old Ver.)         | fantzono | Fantasy Zone (Japan New Ver.)   |
+| Fantazia                        | fantazia | Moon Cresta (Nichibutsu)        |
+| Far West                        | farwest* | Iron Horse                      |
+| Fast Freddie                    | fastfred | Fly-Boy                         |
+| Fast Lane                       | fastlane*|                                 |
+| Faster, Harder, More Challenging| sqbert   |                                 |
+| Fatal Fury - King of Fighters / | fatfury1 |                                 |
+| Fatal Fury 2 / Garou Densetsu 2 | fatfury2 |                                 |
+| Fatal Fury 3 - Road to the Final| fatfury3 |                                 |
+| Fatal Fury Special / Garou Dense| fatfursp |                                 |
+| Fax                             | fax      |                                 |
+| Fight Fever / Crystal Legacy    | fightfev |                                 |
+| Fighting Fantasy (Japan)        | ffantasy | Hippodrome (US)                 |
+| Fighting Golf                   | fitegolf |                                 |
+| Fighting Hawk (Japan)           | fhawk    |                                 |
+| Fighting Soccer                 | ftsoccer |                                 |
+| Final Fight (Japan)             | ffightj  | Final Fight (World)             |
+| Final Fight (US)                | ffightu  | Final Fight (World)             |
+| Final Fight (World)             | ffight   |                                 |
+| Final Round                     | fround   |                                 |
+| Finalizer - Super Transformation| finalizr |                                 |
+| Finalizer - Super Transformation| finalizb | Finalizer - Super Transformation|
+| Finest Hour (Japan)             | finehour |                                 |
+| Fire One                        | fireone* |                                 |
+| Fire Shark                      | fireshrk |                                 |
+| Fire Trap                       | firetrap*|                                 |
+| Fire Trap (Japan bootleg)       | firetpbl | Fire Trap                       |
+| Fitter                          | fitter   | Round-Up                        |
+| Flak Attack (Japan)             | flkatck  | MX5000                          |
+| Flash Gal                       | flashgal |                                 |
+| Flash Point                     | fpoint*  |                                 |
+| Flash Point (bootleg)           | fpointbl | Flash Point                     |
+| Flicky (set 1)                  | flicky   |                                 |
+| Flicky (set 2)                  | flicky2  | Flicky (set 1)                  |
+| Fly-Boy                         | flyboy*  |                                 |
+| Fly-Boy (bootleg)               | flyboyb  | Fly-Boy                         |
+| Flying Shark (bootleg)          | fsharkbt | Flying Shark (World)            |
+| Flying Shark (World)            | fshark   |                                 |
+| Food Fight                      | foodf    |                                 |
+| Football Frenzy                 | fbfrenzy |                                 |
+| Forgotten Worlds (US)           | forgottn |                                 |
+| Formation Z                     | formatz* |                                 |
+| Freeze                          | freeze   |                                 |
+| Frenzy                          | frenzy   |                                 |
+| Frisky Tom                      | friskyt  |                                 |
+| Frog                            | froggers | Frogger                         |
+| Frogger                         | frogger  |                                 |
+| Frogger (modified Moon Cresta ha| froggrmc | Frogger                         |
+| Frogger (Sega set 1)            | frogseg1 | Frogger                         |
+| Frogger (Sega set 2)            | frogseg2 | Frogger                         |
+| Frogs                           | frogs    |                                 |
+| Front Line                      | frontlin |                                 |
+| Funky Bee                       | funkybee |                                 |
+| Funny Mouse (bootleg?)          | suprmou2+| Super Mouse                     |
+| Future Spy                      | futspy   |                                 |
+| Galactic Warriors               | gwarrior |                                 |
+| Galaga (bootleg)                | galagab2 | Galaga (Namco)                  |
+| Galaga (fast shoot)             | galagads | Galaga (Namco)                  |
+| Galaga (Midway)                 | galagamw | Galaga (Namco)                  |
+| Galaga (Namco)                  | galaga   |                                 |
+| Galaga 3 (set 1)                | galaga3  | Gaplus (set 1)                  |
+| Galaga 3 (set 2)                | galaga3a | Gaplus (set 1)                  |
+| Galaga '84                      | galaga84 | Galaga (Namco)                  |
+| Galaga '88 (Japan)              | galag88j | Galaga '88 (set 1)              |
+| Galaga '88 (set 1)              | galaga88 |                                 |
+| Galaga '88 (set 2)              | galag88b | Galaga '88 (set 1)              |
+| Galaxian (bootleg)              | galaxb   | Galaxian (Namco)                |
+| Galaxian (Midway)               | galmidw  | Galaxian (Namco)                |
+| Galaxian (Namco)                | galaxian |                                 |
+| Galaxian Part 4                 | galap4   | Galaxian (Namco)                |
+| Galaxian Part X                 | galapx   | Galaxian (Namco)                |
+| Galaxian Turbo                  | galturbo | Galaxian (Namco)                |
+| Galaxy Fight - Universal Warrior| galaxyfg |                                 |
+| Galaxy Rescue                   | grescue  | Lunar Rescue                    |
+| Galaxy Wars                     | galxwars |                                 |
+| Galivan - Cosmo Police (12/11/19| galivan2 | Galivan - Cosmo Police (12/16/19|
+| Galivan - Cosmo Police (12/16/19| galivan  |                                 |
+| Gallag                          | gallag   | Galaga (Namco)                  |
+| Gallop - Armed police Unit (Japa| gallop   |                                 |
+| Gals Panic                      | galpanic |                                 |
+| Gang Busters                    | gbusters |                                 |
+| Gang Wars                       | gangwars*|                                 |
+| Gang Wars (bootleg)             | gangwarb | Gang Wars                       |
+| Gaplus (set 1)                  | gaplus   |                                 |
+| Gaplus (set 2)                  | gaplusa  | Gaplus (set 1)                  |
+| Gardia                          | gardia*  |                                 |
+| Gardia (bootleg)                | gardiab* | Gardia                          |
+| Garuka (Japan)                  | garuka   | Devastators (version Z)         |
+| Garyo Retsuden (Japan)          | garyoret |                                 |
+| Gate of Doom (US revision 1)    | gatedom1 | Dark Seal (World revision 3)    |
+| Gate of Doom (US revision 4)    | gatedoom | Dark Seal (World revision 3)    |
+| Gauntlet                        | gauntlet |                                 |
+| Gauntlet (2 Players)            | gaunt2p  | Gauntlet                        |
+| Gauntlet (Intermediate Release 1| gauntir1 | Gauntlet                        |
+| Gauntlet (Intermediate Release 2| gauntir2 | Gauntlet                        |
+| Gauntlet II                     | gaunt2   |                                 |
+| Gee Bee                         | geebee   |                                 |
+| Gee Bee (Gremlin)               | geebeeg  | Gee Bee                         |
+| Gemini Wing                     | gemini   |                                 |
+| Genpei ToumaDen                 | genpeitd |                                 |
+| Genshi-Tou 1930's               | gensitou | Prehistoric Isle in 1930 (World)|
+| Get Star (bootleg)              | getstarb | Guardian                        |
+| Get Star (Japan)                | getstarj*| Guardian                        |
+| Ghost Pilots                    | gpilots  |                                 |
+| Ghosts'n Goblins (US)           | gngt     | Ghosts'n Goblins (World? set 1) |
+| Ghosts'n Goblins (World? set 1) | gng      |                                 |
+| Ghosts'n Goblins (World? set 2) | gnga     | Ghosts'n Goblins (World? set 1) |
+| Ghouls'n Ghosts (US)            | ghoulsu  | Ghouls'n Ghosts (World)         |
+| Ghouls'n Ghosts (World)         | ghouls   |                                 |
+| Ghox                            | ghox     |                                 |
+| Gimme A Break                   | gimeabrk |                                 |
+| Ginga NinkyouDen                | ginganin |                                 |
+| Gingateikoku No Gyakushu        | gteikoku | UniWar S                        |
+| Gladiator (US)                  | gladiatr |                                 |
+| Go Go Mr. Yamaguchi / Yuke Yuke | yamagchi |                                 |
+| Goal! Goal! Goal!               | goalx3   |                                 |
+| Goalie Ghost                    | gghost   |                                 |
+| Goindol                         | goindol  |                                 |
+| Gold Medalist                   | goldmedl*|                                 |
+| Golden Axe (bootleg)            | goldnabl*| Golden Axe (Version 1)          |
+| Golden Axe (Version 1)          | goldnaxe |                                 |
+| Golden Axe (Version 1, Japan)   | goldnaxj*| Golden Axe (Version 1)          |
+| Golden Axe (Version 2 317-0110) | goldnaxb*| Golden Axe (Version 1)          |
+| Golden Axe (Version 2 317-0122) | goldnaxc*| Golden Axe (Version 1)          |
+| Golden Axe (Version 2)          | goldnaxa | Golden Axe (Version 1)          |
+| Gondomania (US)                 | gondo    |                                 |
+| Gorf                            | gorf     |                                 |
+| Gorf (Program 1)                | gorfpgm1 | Gorf                            |
+| Got-Ya (12/24/1981, prototype?) | gotya    |                                 |
+| Gradius                         | gradius  | Nemesis (hacked?)               |
+| Gradius II - Gofer no Yabou (Jap| gradius2 | Vulcan Venture                  |
+| Gradius II - Gofer no Yabou (Jap| grdius2a | Vulcan Venture                  |
+| Gradius II - Gofer no Yabou (Jap| grdius2b | Vulcan Venture                  |
+| Gradius III (Asia)              | grdius3a | Gradius III (Japan)             |
+| Gradius III (Japan)             | gradius3 |                                 |
+| Gravitar (version 2)            | gravitr2 | Gravitar (version 3)            |
+| Gravitar (version 3)            | gravitar |                                 |
+| Great 1000 Miles Rally          | gtmr     |                                 |
+| Great 1000 Miles Rally (Evolutio| gtmre    | Great 1000 Miles Rally          |
+| Great Swordsman                 | gsword   |                                 |
+| Green Beret                     | gberet   |                                 |
+| Green Beret (bootleg)           | gberetb  | Green Beret                     |
+| Gridiron Fight                  | gridiron |                                 |
+| Grobda (set 1)                  | grobda   |                                 |
+| Grobda (set 2)                  | grobda2  | Grobda (set 1)                  |
+| Grobda (set 3)                  | grobda3  | Grobda (set 1)                  |
+| Growl (US)                      | growlu   | Growl (World)                   |
+| Growl (World)                   | growl    |                                 |
+| Gryzor                          | gryzor   | Contra (US)                     |
+| Guardian                        | getstar* |                                 |
+| Guerrilla War (bootleg)         | gwarb    | Guerrilla War (US)              |
+| Guerrilla War (US)              | gwar     |                                 |
+| Guerrilla War (Version 1)       | gwara*   | Guerrilla War (US)              |
+| Guevara (Japan)                 | gwarj    | Guerrilla War (US)              |
+| Guided Missile                  | gmissile |                                 |
+| Gun Dealer (set 1)              | gundealr |                                 |
+| Gun Dealer (set 2)              | gundeala | Gun Dealer (set 1)              |
+| Gun Fight                       | gunfight |                                 |
+| Gun Hohki (Japan)               | gunhohki | Mystic Riders (World)           |
+| Gun.Smoke (Japan)               | gunsmokj | Gun.Smoke (World)               |
+| Gun.Smoke (US set 1)            | gunsmrom | Gun.Smoke (World)               |
+| Gun.Smoke (US set 2)            | gunsmoka | Gun.Smoke (World)               |
+| Gun.Smoke (World)               | gunsmoke |                                 |
+| Gunforce - Battle Fire Engulfed | gunforcu | Gunforce - Battle Fire Engulfed |
+| Gunforce - Battle Fire Engulfed | gunforce |                                 |
+| Gururin                         | gururin  |                                 |
+| Guttang Gottong                 | gutangtn | Loco-Motion                     |
+| Guzzler                         | guzzler  |                                 |
+| Gypsy Juggler                   | gypsyjug |                                 |
+| Gyrodine                        | gyrodine |                                 |
+| Gyruss (Centuri)                | gyrussce | Gyruss (Konami)                 |
+| Gyruss (Konami)                 | gyruss   |                                 |
+| Hachoo!                         | hachoo   |                                 |
+| HAL21                           | hal21+   |                                 |
+| HAL21 (Japan)                   | hal21j+  | HAL21                           |
+| Hammerin' Harry (US)            | hharryu  | Hammerin' Harry (World)         |
+| Hammerin' Harry (World)         | hharry   |                                 |
+| Hangly-Man (set 1)              | hangly   | PuckMan (Japan set 1)           |
+| Hangly-Man (set 2)              | hangly2  | PuckMan (Japan set 1)           |
+| Hang-On                         | hangon   |                                 |
+| Hard Hat                        | hardhat  |                                 |
+| Hard Puncher (Japan)            | hpuncher | Final Round                     |
+| Hat Trick                       | hattrick |                                 |
+| Haunted Castle (set 1)          | hcastle  |                                 |
+| Haunted Castle (set 2)          | hcastlea | Haunted Castle (set 1)          |
+| Head On (1 player)              | headonb  | Head On (2 players)             |
+| Head On (2 players)             | headon   |                                 |
+| Head On 2                       | headon2  |                                 |
+| Heavy Barrel (US)               | hbarrel  |                                 |
+| Heavy Barrel (World)            | hbarrelw | Heavy Barrel (US)               |
+| Heavy Metal                     | hvymetal |                                 |
+| Heavyweight Champ               | hwchamp  |                                 |
+| Heiankyo Alien                  | heiankyo |                                 |
+| HeliFire (revision A)           | helifira | HeliFire (revision B)           |
+| HeliFire (revision B)           | helifire |                                 |
+| Hellfire                        | hellfire |                                 |
+| Herbie at the Olympics (DK conve| herbiedk+|                                 |
+| Hexa                            | hexa     |                                 |
+| High Impact Football (rev LA3 12| hiimpact |                                 |
+| High Way Race                   | hwrace   |                                 |
+| Hippodrome (US)                 | hippodrm |                                 |
+| Hishou Zame (Japan)             | hishouza | Flying Shark (World)            |
+| Hit 'n Miss (version 2.0)       | hitnmis2 | Hit 'n Miss (version 3.0)       |
+| Hit 'n Miss (version 3.0)       | hitnmiss |                                 |
+| Hoccer (set 1)                  | hoccer   |                                 |
+| Hoccer (set 2)                  | hoccer2  | Hoccer (set 1)                  |
+| Homo                            | homo     | Goindol                         |
+| Hook (US)                       | hooku    | Hook (World)                    |
+| Hook (World)                    | hook     |                                 |
+| Hopper Robo                     | hopprobo |                                 |
+| Hopping Mappy                   | hopmappy |                                 |
+| Hot Chase                       | hotchase |                                 |
+| Hot Shocker                     | hotshock |                                 |
+| Hunchback (Donkey Kong conversio| hunchbkd+|                                 |
+| Hunchback (Scramble conversion) | hunchbks | Hunchback (Donkey Kong conversio|
+| Hustle                          | hustle   |                                 |
+| Hydra                           | hydra    |                                 |
+| Hydra (prototype)               | hydrap   | Hydra                           |
+| Hyper Olympic                   | hyprolym | Track & Field                   |
+| Hyper Olympic (bootleg)         | hyprolyb | Track & Field                   |
+| Hyper Olympics '84              | hpolym84 | Hyper Sports                    |
+| Hyper Sports                    | hyperspt |                                 |
+| Hyper Sports Special (Japan)    | hypsptsp | '88 Games                       |
+| I, Robot                        | irobot   |                                 |
+| Iga Ninjyutsuden (Japan)        | iganinju |                                 |
+| Ikari III - The Rescue          | ikari3   |                                 |
+| Ikari Warriors (Japan bootleg)  | ikarijpb | Ikari Warriors (US)             |
+| Ikari Warriors (Japan)          | ikarijp  | Ikari Warriors (US)             |
+| Ikari Warriors (US)             | ikari    |                                 |
+| I'm Sorry (Japan)               | imsorryj | I'm Sorry (US)                  |
+| I'm Sorry (US)                  | imsorry  |                                 |
+| Image Fight (Japan)             | imgfight |                                 |
+| In The Hunt (World)             | inthunt  |                                 |
+| Indiana Jones and the Temple of | indytemp |                                 |
+| Indiana Jones and the Temple of | indytem2 | Indiana Jones and the Temple of |
+| Indiana Jones and the Temple of | indytem3 | Indiana Jones and the Temple of |
+| Indiana Jones and the Temple of | indytem4 | Indiana Jones and the Temple of |
+| Inferno                         | inferno  |                                 |
+| Insector X (World)              | insectx  |                                 |
+| Intrepid (set 1)                | intrepid |                                 |
+| Intrepid (set 2)                | intrepi2 | Intrepid (set 1)                |
+| Invader's Revenge               | invrvnge |                                 |
+| Invader's Revenge (Dutchford)   | invrvnga | Invader's Revenge               |
+| Invinco                         | invinco  |                                 |
+| Invinco / Deep Scan             | invds    |                                 |
+| Invinco / Head On 2             | invho2   |                                 |
+| Iron Horse                      | ironhors |                                 |
+| Jack Rabbit (set 1)             | jackrabt |                                 |
+| Jack Rabbit (set 2)             | jackrab2 | Jack Rabbit (set 1)             |
+| Jack Rabbit (special)           | jackrabs | Jack Rabbit (set 1)             |
+| Jack the Giantkiller (set 1)    | jack     |                                 |
+| Jack the Giantkiller (set 2)    | jack2    | Jack the Giantkiller (set 1)    |
+| Jack the Giantkiller (set 3)    | jack3    | Jack the Giantkiller (set 1)    |
+| Jackal (World)                  | jackal   |                                 |
+| Jackson                         | zaxxonb  | Zaxxon (set 1)                  |
+| Jail Break                      | jailbrek |                                 |
+| Jatre Specter                   | jspecter | Space Invaders                  |
+| Joe & Mac (Japan)               | joemac   | Caveman Ninja (World revision 3)|
+| Journey                         | journey  |                                 |
+| Joust (Solid Red label)         | joustr   | Joust (White/Green label)       |
+| Joust (White/Green label)       | joust    |                                 |
+| Joust (White/Red label)         | joustwr  | Joust (White/Green label)       |
+| Joust 2 - Survival of the Fittes| joust2   |                                 |
+| Joyful Road (US)                | joyfulr+ |                                 |
+| Jr. Pac-Man                     | jrpacman |                                 |
+| Jump Bug                        | jumpbug  |                                 |
+| Jump Bug (bootleg)              | jumpbugb | Jump Bug                        |
+| Jump Coaster                    | jumpcoas |                                 |
+| Jump Shot                       | jumpshot*|                                 |
+| Jumping                         | jumping  | Rainbow Islands                 |
+| Jumping Jack                    | jjack    |                                 |
+| Jungle Hunt (US)                | jungleh  | Jungle King (Japan)             |
+| Jungle King (Japan)             | junglek  |                                 |
+| Jungle King (Japan, earlier)    | junglkj2 | Jungle King (Japan)             |
+| Jungler                         | jungler  |                                 |
+| Jungler (Stern)                 | junglers | Jungler                         |
+| Juno First                      | junofrst |                                 |
+| Jyanshin Densetsu - Quest of Jon| janshin  |                                 |
+| Jyuohki (Japan)                 | jyuohki* | Altered Beast (Version 1)       |
+| Kabuki Klash - Far East of Eden | kabukikl |                                 |
+| Kageki (Japan)                  | kagekij  | Kageki (US)                     |
+| Kageki (US)                     | kageki   |                                 |
+| Kaiketsu Yanchamaru (Japan)     | yanchamr | Kid Niki - Radical Ninja (US)   |
+| Kaitei Daisensou (Japan)        | kaiteids | In The Hunt (World)             |
+| Kaitei Takara Sagashi           | kaitei   |                                 |
+| Kaitei Takara Sagashi (Namco)   | kaitein  | Kaitei Takara Sagashi           |
+| Kamikaze                        | kamikaze | Astro Invader                   |
+| Kangaroo                        | kangaroo |                                 |
+| Kangaroo (Atari)                | kangaroa | Kangaroo                        |
+| Kangaroo (bootleg)              | kangarob | Kangaroo                        |
+| Kaos                            | kaos     |                                 |
+| Karate Champ (US VS version)    | kchampvs | Karate Champ (US)               |
+| Karate Champ (US)               | kchamp   |                                 |
+| Karate Dou (Japan)              | karatedo | Karate Champ (US)               |
+| Karnov (Japan)                  | karnovj  | Karnov (US)                     |
+| Karnov (US)                     | karnov   |                                 |
+| Karnov's Revenge / Fighter's His| karnovr  |                                 |
+| Kick (mirror version)           | kick     |                                 |
+| Kick (upright version)          | kicka    | Kick (mirror version)           |
+| Kick and Run                    | kicknrun |                                 |
+| Kick Off (Japan)                | kickoff  |                                 |
+| Kick Rider                      | kickridr |                                 |
+| Kick Start Wheelie King         | kikstart*|                                 |
+| Kicker                          | kicker   |                                 |
+| Kid Niki - Radical Ninja (US)   | kidniki  |                                 |
+| KiKi KaiKai                     | kikikai* |                                 |
+| Killer Comet                    | killcom  |                                 |
+| King & Balloon (Japan)          | kingbalj | King & Balloon (US)             |
+| King & Balloon (US)             | kingball |                                 |
+| King of Boxer (English)         | kingofb  |                                 |
+| King of the Monsters            | kotm     |                                 |
+| King of the Monsters 2 - The Nex| kotm2    |                                 |
+| Kizuna Encounter - Super Tag Bat| kizuna   |                                 |
+| Klax (Japan)                    | klaxj    | Klax (set 1)                    |
+| Klax (set 1)                    | klax     |                                 |
+| Klax (set 2)                    | klax2    | Klax (set 1)                    |
+| Klax (set 3)                    | klax3    | Klax (set 1)                    |
+| Knights of the Round (Japan)    | knightsj | Knights of the Round (World)    |
+| Knights of the Round (World)    | knights  |                                 |
+| Knock Out !!                    | knockout | Triple Punch                    |
+| Knuckle Bash                    | kbash    |                                 |
+| Kodure Ookami (Japan)           | kodure   |                                 |
+| Koi no Hotrock (Japan)          | rockragj | Rock 'n Rage (World?)           |
+| Konami '88                      | konami88 | '88 Games                       |
+| Konami GT                       | konamigt |                                 |
+| Konami RF2 - Red Fighter        | rf2      | Konami GT                       |
+| Koukuu Kihei Monogatari - The Le| legofair | Chopper I                       |
+| Kozmik Kroozr                   | kroozr   |                                 |
+| Kram (set 1)                    | kram     |                                 |
+| Kram (set 2)                    | kram2    | Kram (set 1)                    |
+| Krull                           | krull    |                                 |
+| Kuhga - Operation Code 'Vapor Tr| kuhga    | Vapor Trail - Hyper Offence Form|
+| Kung Fu Master                  | kungfum  |                                 |
+| Kung Fu Master (bootleg set 1)  | kungfub  | Kung Fu Master                  |
+| Kung Fu Master (bootleg set 2)  | kungfub2 | Kung Fu Master                  |
+| Kung Fu Master (Data East)      | kungfud  | Kung Fu Master                  |
+| Kyohkoh-Toppa (Japan)           | brkthruj | Break Thru (US)                 |
+| Kyukyoku Tiger (Japan)          | ktiger   | Twin Cobra (World)              |
+| Kyuukai Douchuuki (Japan new ver| kyukaidk |                                 |
+| Kyuukai Douchuuki (Japan old ver| kyukaido | Kyuukai Douchuuki (Japan new ver|
+| Labyrinth Runner (Japan)        | labyrunr*|                                 |
+| Lady Bug                        | ladybug  |                                 |
+| Lady Bug (bootleg)              | ladybugb | Lady Bug                        |
+| Laguna Racer                    | lagunar  |                                 |
+| Laser                           | laser    | Space Laser                     |
+| Lasso                           | lasso    |                                 |
+| Last Duel (bootleg)             | lstduelb | Last Duel (US set 1)            |
+| Last Duel (US set 1)            | lastduel |                                 |
+| Last Duel (US set 2)            | lstduela | Last Duel (US set 1)            |
+| Last Mission (US revision 5)    | lastmss2 | Last Mission (US revision 6)    |
+| Last Mission (US revision 6)    | lastmiss |                                 |
+| Last Resort                     | lresort  |                                 |
+| Lazer Command                   | lazercmd |                                 |
+| Le Bagnard                      | bagnard  | Bagman                          |
+| League Bowling                  | lbowling |                                 |
+| Led Storm (US)                  | ledstorm | Mad Gear (US)                   |
+| Legend of Hero Tonma            | loht     |                                 |
+| Legend of Makai (World)         | lomakai  |                                 |
+| Legend of Success Joe / Ashitano| legendos |                                 |
+| Legend of the Valkyrie (Japan)  | valkyrie |                                 |
+| Legendary Wings (US set 1)      | lwings   |                                 |
+| Legendary Wings (US set 2)      | lwings2  | Legendary Wings (US set 1)      |
+| Leprechaun                      | leprechn |                                 |
+| Lethal Thunder (World)          | lethalth |                                 |
+| Levers                          | levers   |                                 |
+| Liberator (set 1)               | liberatr |                                 |
+| Lifeforce (Japan)               | lifefrcj | Salamander                      |
+| Lifeforce (US)                  | lifefrce | Salamander                      |
+| Lightning Fighters (US)         | lgtnfght |                                 |
+| Liquid Kids (US)                | liquidku | Liquid Kids (World)             |
+| Liquid Kids (World)             | liquidk  |                                 |
+| Lizard Wizard                   | lizwiz   |                                 |
+| Lock'n'Chase                    | lnc      |                                 |
+| Loco-Motion                     | locomotn |                                 |
+| Lode Runner (set 1)             | ldrun    |                                 |
+| Lode Runner (set 2)             | ldruna   | Lode Runner (set 1)             |
+| Lode Runner II - The Bungeling S| ldrun2   |                                 |
+| Lode Runner III - Majin No Fukka| ldrun3   |                                 |
+| Lode Runner IV - Teikoku Karano | ldrun4   |                                 |
+| Looper                          | looper   | Changes                         |
+| Lost Tomb (easy)                | losttomb |                                 |
+| Lost Tomb (hard)                | losttmbh | Lost Tomb (easy)                |
+| Lost Worlds (Japan)             | lostwrld | Forgotten Worlds (US)           |
+| Lot Lot                         | lotlot   |                                 |
+| Lunar Lander (rev 1)            | llander1 | Lunar Lander (rev 2)            |
+| Lunar Lander (rev 2)            | llander  |                                 |
+| Lunar Rescue                    | lrescue  |                                 |
+| Lupin III                       | lupin3   |                                 |
+| M.A.C.H. 3                      | mach3*   |                                 |
+| M-4                             | m4       |                                 |
+| M79 Ambush                      | m79amb   |                                 |
+| Macho Mouse                     | machomou+|                                 |
+| Mad Crasher                     | madcrash |                                 |
+| Mad Gear (Japan)                | madgearj | Mad Gear (US)                   |
+| Mad Gear (US)                   | madgear  |                                 |
+| Mad Motor                       | madmotor |                                 |
+| Mad Planets                     | mplanets |                                 |
+| Magic Brush                     | mbrush   | Crush Roller (Kural Samno)      |
+| Magic Sword - Heroic Fantasy (US| mswordu  | Magic Sword - Heroic Fantasy (Wo|
+| Magic Sword - Heroic Fantasy (Wo| msword   |                                 |
+| Magic Sword (Japan)             | mswordj  | Magic Sword - Heroic Fantasy (Wo|
+| Magical Drop II                 | magdrop2 |                                 |
+| Magical Drop III                | magdrop3 |                                 |
+| Magical Spot II                 | magspot2 |                                 |
+| Magician Lord (set 1)           | maglord  |                                 |
+| Magician Lord (set 2)           | maglordh | Magician Lord (set 1)           |
+| Mahjong Gakuen                  | mgakuen  |                                 |
+| Mahjong Gakuen 2 Gakuen-chou no | mgakuen2 |                                 |
+| Mahjong Kyoretsuden             | mahretsu |                                 |
+| Majestic Twelve - The Space Inva| majest12 | Super Space Invaders '91 (World)|
+| Major Havoc (prototype)         | mhavocp  | Major Havoc (rev 3)             |
+| Major Havoc (Return to Vax)     | mhavocrv | Major Havoc (rev 3)             |
+| Major Havoc (rev 2)             | mhavoc2  | Major Havoc (rev 3)             |
+| Major Havoc (rev 3)             | mhavoc   |                                 |
+| Major League                    | mjleague |                                 |
+| Major Title (Japan)             | majtitle*|                                 |
+| Major Title 2 (World)           | majtitl2 |                                 |
+| Majuu no Ohkoku                 | majuu    | Devil World                     |
+| Makai Densetsu (Japan)          | makaiden | Legend of Makai (World)         |
+| Makai-Mura                      | makaimur | Ghosts'n Goblins (World? set 1) |
+| Makai-Mura (Revision C)         | makaimuc | Ghosts'n Goblins (World? set 1) |
+| Makai-Mura (Revision G)         | makaimug | Ghosts'n Goblins (World? set 1) |
+| Make Trax                       | maketrax | Crush Roller (Kural Samno)      |
+| Makyou Senshi (Japan)           | makyosen | Gondomania (US)                 |
+| Mania Challenge (set 1)         | maniach  |                                 |
+| Mania Challenge (set 2)         | maniach2 | Mania Challenge (set 1)         |
+| Mappy (Japan)                   | mappyjp  | Mappy (US)                      |
+| Mappy (US)                      | mappy    |                                 |
+| Marble Madness (set 1)          | marble   |                                 |
+| Marble Madness (set 2)          | marble2  | Marble Madness (set 1)          |
+| Marble Madness (set 3)          | marblea  | Marble Madness (set 1)          |
+| Marchen Maze (Japan)            | mmaze    |                                 |
+| Marine Boy                      | marineb  |                                 |
+| Mariner                         | mariner  |                                 |
+| Mario Bros. (Japan)             | mariojp  | Mario Bros. (US)                |
+| Mario Bros. (US)                | mario    |                                 |
+| Mars                            | mars     |                                 |
+| Marvel Land (Japan)             | marvlanj | Marvel Land (US)                |
+| Marvel Land (US)                | marvland |                                 |
+| Marvin's Maze                   | marvins  |                                 |
+| Masao                           | masao    | Mario Bros. (US)                |
+| Mat Mania                       | matmania |                                 |
+| Max RPM                         | maxrpm   |                                 |
+| Mayday (set 1)                  | mayday   |                                 |
+| Mayday (set 2)                  | maydaya  | Mayday (set 1)                  |
+| Meadows Lanes                   | medlanes |                                 |
+| Mega Force                      | megaforc | Star Force                      |
+| Mega Man - The Power Battle (Asi| megaman  |                                 |
+| Mega Twins (World)              | mtwins   |                                 |
+| Mega Zone                       | megazone |                                 |
+| Mega Zone (Kosuka)              | megaznik | Mega Zone                       |
+| MegaTack                        | megatack |                                 |
+| Meikyu Jima (Japan)             | kikcubic |                                 |
+| Meikyuu Hunter G (Japan)        | meikyuh  | The Real Ghostbusters (US 2 Play|
+| Mercs (US)                      | mercsu   | Mercs (World)                   |
+| Mercs (World)                   | mercs    |                                 |
+| Metal Slug - Super Vehicle-001  | mslug    |                                 |
+| Metal Slug 2 - Super Vehicle-001| mslug2   |                                 |
+| Meteoroids                      | meteor   |                                 |
+| Metro-Cross                     | metrocrs |                                 |
+| Mexico 86                       | mexico86 | Kick and Run                    |
+| Midnight Resistance (Japan)     | midresj  | Midnight Resistance (World)     |
+| Midnight Resistance (US)        | midresu  | Midnight Resistance (World)     |
+| Midnight Resistance (World)     | midres   |                                 |
+| Mikie                           | mikie    |                                 |
+| Mikie (High School Graffiti)    | mikiehs  | Mikie                           |
+| Millipede                       | milliped |                                 |
+| Minefield                       | minefld  |                                 |
+| Mini Golf (set 1)               | minigolf |                                 |
+| Mini Golf (set 2)               | minigol2 | Mini Golf (set 1)               |
+| Minivader                       | minivadr |                                 |
+| Minky Monkey                    | mmonkey  |                                 |
+| Minnasanno Okagesamadesu        | minasan  |                                 |
+| Mirai Ninja (Japan)             | mirninja |                                 |
+| Missile Command (set 1)         | missile  |                                 |
+| Missile Command (set 2)         | missile2 | Missile Command (set 1)         |
+| Missing in Action (Japan)       | miaj     | Missing in Action (version T)   |
+| Missing in Action (version S)   | mia2     | Missing in Action (version T)   |
+| Missing in Action (version T)   | mia      |                                 |
+| Mister Viking                   | mrviking |                                 |
+| Mister Viking (Japan)           | mrvikinj | Mister Viking                   |
+| Mizubaku Daibouken (Japan)      | mizubaku | Liquid Kids (World)             |
+| Moguchan                        | moguchan+|                                 |
+| Mole Attack                     | mole     |                                 |
+| Money Money                     | monymony |                                 |
+| Money Puzzle Exchanger / Money I| miexchng |                                 |
+| Monkey Donkey                   | monkeyd  | Crazy Kong (set 1)              |
+| Monster Bash                    | monsterb |                                 |
+| Moon Alien Part 2               | moonal2  |                                 |
+| Moon Alien Part 2 (older version| moonal2b | Moon Alien Part 2               |
+| Moon Cresta (bootleg on Galaxian| mooncrgx | Moon Cresta (Nichibutsu)        |
+| Moon Cresta (bootleg set 1)     | mooncrsb | Moon Cresta (Nichibutsu)        |
+| Moon Cresta (bootleg set 2)     | mooncrs2 | Moon Cresta (Nichibutsu)        |
+| Moon Cresta (Gremlin)           | mooncrsg | Moon Cresta (Nichibutsu)        |
+| Moon Cresta (Nichibutsu)        | mooncrst |                                 |
+| Moon Patrol                     | mpatrol  |                                 |
+| Moon Patrol (Williams)          | mpatrolw | Moon Patrol                     |
+| Moon Quasar                     | moonqsr  |                                 |
+| Moon Ranger                     | mranger  | Moon Patrol                     |
+| Moon Walker (bootleg)           | moonwlkb | Moon Walker (Set 1)             |
+| Moon Walker (Set 1)             | moonwalk*|                                 |
+| Moon Walker (Set 2)             | moonwlka*| Moon Walker (Set 1)             |
+| Moon War II (set 1)             | moonwar2 |                                 |
+| Moon War II (set 2)             | monwar2a | Moon War II (set 1)             |
+| Mortal Kombat (rev 1.0 08/08/92)| mkla1    | Mortal Kombat (rev 5.0 T-Unit 03|
+| Mortal Kombat (rev 2.0 08/18/92)| mkla2    | Mortal Kombat (rev 5.0 T-Unit 03|
+| Mortal Kombat (rev 3.0 08/31/92)| mkla3    | Mortal Kombat (rev 5.0 T-Unit 03|
+| Mortal Kombat (rev 4.0 09/28/92)| mkla4    | Mortal Kombat (rev 5.0 T-Unit 03|
+| Mortal Kombat (rev 5.0 T-Unit 03| mk*      |                                 |
+| Mortal Kombat II (rev L1.4)     | mk2r14*  | Mortal Kombat II (rev L3.1)     |
+| Mortal Kombat II (rev L3.1)     | mk2*     |                                 |
+| Mortal Kombat II (rev L3.2 (Euro| mk2r32*  | Mortal Kombat II (rev L3.1)     |
+| MotoRace USA                    | motorace | Traverse USA / Zippy Race       |
+| Motos                           | motos    |                                 |
+| Mouse Trap (version 3)          | mtrap3   | Mouse Trap (version 5)          |
+| Mouse Trap (version 4)          | mtrap4   | Mouse Trap (version 5)          |
+| Mouse Trap (version 5)          | mtrap    |                                 |
+| Mr. Do vs. Unicorns             | douni    | Mr. Do's Castle (set 1)         |
+| Mr. Do! (bugfixed)              | mrdofix  | Mr. Do! (Universal)             |
+| Mr. Do! (Taito)                 | mrdot    | Mr. Do! (Universal)             |
+| Mr. Do! (Universal)             | mrdo     |                                 |
+| Mr. Do! (Yukidaruma)            | mrdoy    | Mr. Do! (Universal)             |
+| Mr. Do's Castle (set 1)         | docastle |                                 |
+| Mr. Do's Castle (set 2)         | docastl2 | Mr. Do's Castle (set 1)         |
+| Mr. Do's Wild Ride              | dowild   |                                 |
+| Mr. Du!                         | mrdu     | Mr. Do! (Universal)             |
+| Mr. Goemon (Japan)              | mrgoemon |                                 |
+| Mr. HELI no Dai-Bouken          | mrheli   | Battle Chopper                  |
+| Mr. Lo!                         | mrlo     | Mr. Do! (Universal)             |
+| Mr. TNT                         | mrtnt    |                                 |
+| Ms. Pac-Man                     | mspacman |                                 |
+| Ms. Pac-Man Plus                | mspacatk | Ms. Pac-Man                     |
+| Munch Mobile (Japan)            | mnchmobl+| Joyful Road (US)                |
+| Muscle Bomber - The Body Explosi| mbomberj | Saturday Night Slam Masters (Wor|
+| Muscle Bomber Duo - Heat Up Warr| mbombrdj | Saturday Night Slam Masters (Wor|
+| Muscle Bomber Duo - Ultimate Tea| mbombrd  | Saturday Night Slam Masters (Wor|
+| Mutant Night                    | mnight   |                                 |
+| Mutation Nation                 | mutnat   |                                 |
+| MX5000                          | mx5000   |                                 |
+| My Hero (Korea)                 | myherok  | My Hero (US)                    |
+| My Hero (US)                    | myhero   |                                 |
+| Mysterious Stones               | mystston |                                 |
+| Mystic Marathon                 | mysticm  |                                 |
+| Mystic Riders (World)           | mysticri |                                 |
+| NAM-1975                        | nam1975  |                                 |
+| Name That Tune                  | nametune |                                 |
+| Narc (rev 7.00)                 | narc     |                                 |
+| Naughty Boy                     | naughtyb |                                 |
+| Naughty Boy (bootleg)           | naughtya | Naughty Boy                     |
+| Naughty Boy (Cinematronics)     | naughtyc | Naughty Boy                     |
+| Navalone                        | navalone |                                 |
+| NBA Jam (rev 2.00 02/10/93)     | nbajamr2*| NBA Jam (rev 3.01 04/07/93)     |
+| NBA Jam (rev 3.01 04/07/93)     | nbajam*  |                                 |
+| NBA Jam TE (rev 4.0 03/23/94)   | nbajamte*| NBA Jam (rev 3.01 04/07/93)     |
+| Nebulous Bee                    | nebulbee | Galaga (Namco)                  |
+| Nekketsu Kouha Kunio-kun (Japan | kuniokub | Renegade (US)                   |
+| Nekketsu Kouha Kunio-kun (Japan)| kuniokun | Renegade (US)                   |
+| Nemesis (hacked?)               | nemesis  |                                 |
+| Nemesis (World?)                | nemesuk  | Nemesis (hacked?)               |
+| Nemo (Japan)                    | nemoj    | Nemo (World)                    |
+| Nemo (World)                    | nemo     |                                 |
+| Neo Bomberman                   | neobombe |                                 |
+| Neo Drift Out - New Technology  | neodrift |                                 |
+| Neo Mr. Do!                     | neomrdo  |                                 |
+| Neo Turf Masters / Big Tournamen| turfmast |                                 |
+| Neo-Geo Cup '98 - The Road to th| neocup98 |                                 |
+| New Puck-X                      | puckman  | PuckMan (Japan set 1)           |
+| New Rally X                     | nrallyx  |                                 |
+| New Sinbad 7                    | newsin7  |                                 |
+| Nibbler (set 1)                 | nibbler  |                                 |
+| Nibbler (set 2)                 | nibblera | Nibbler (set 1)                 |
+| Night Driver                    | nitedrvr |                                 |
+| Night Stocker                   | nstocker |                                 |
+| Ninja Combat                    | ncombat  |                                 |
+| Ninja Commando                  | ncommand |                                 |
+| Ninja Emaki (US)                | ninjemak |                                 |
+| Ninja Gaiden                    | gaiden   |                                 |
+| Ninja Kid II (set 1)            | ninjakd2 |                                 |
+| Ninja Kid II (set 2)            | ninjak2a | Ninja Kid II (set 1)            |
+| Ninja Kid II (set 3)            | ninjak2b | Ninja Kid II (set 1)            |
+| Ninja Master's - haoh-ninpo-cho | ninjamas |                                 |
+| Ninja Princess                  | nprinces | Sega Ninja                      |
+| Ninja Princess (bootleg?)       | nprincsb | Sega Ninja                      |
+| Ninja Princess (not encrypted)  | nprincsu | Sega Ninja                      |
+| Ninja Spirit                    | nspirit  |                                 |
+| No Man's Land                   | nomnlnd+ |                                 |
+| No Man's Land (Gottlieb)        | nomnlndg+| No Man's Land                   |
+| Nova 2001 (Japan)               | nova2001 |                                 |
+| Nova 2001 (US)                  | nov2001u | Nova 2001 (Japan)               |
+| Nunchackun                      | nunchaku+|                                 |
+| Off the Wall (2/3-player upright| offtwall |                                 |
+| Off the Wall (2-player cocktail)| offtwalc | Off the Wall (2/3-player upright|
+| Off the Wall (Sente)            | otwalls  |                                 |
+| Ohgon no Siro (Japan)           | ogonsiro | Gladiator (US)                  |
+| Omega Race                      | omegrace |                                 |
+| Operation Ragnagard / Shin-Oh-Ke| ragnagrd |                                 |
+| Orbitron                        | orbitron |                                 |
+| Ordyne (Japan)                  | ordyne   |                                 |
+| Out Run (set 1)                 | outrun   |                                 |
+| Out Run (set 2)                 | outruna  | Out Run (set 1)                 |
+| Out Run (set 3)                 | outrunb  | Out Run (set 1)                 |
+| Out Zone                        | outzone  |                                 |
+| Out Zone (bootleg)              | outzonep | Out Zone                        |
+| Over Top                        | overtop  |                                 |
+| Ozma Wars                       | ozmawars |                                 |
+| P.O.W. - Prisoners of War (US)  | pow      |                                 |
+| P-47 - The Freedom Fighter (Japa| p47j     | P-47 - The Phantom Fighter (Worl|
+| P-47 - The Phantom Fighter (Worl| p47      |                                 |
+| Pac & Pal                       | pacnpal  |                                 |
+| Pac-Gal                         | pacgal   | Ms. Pac-Man                     |
+| Pac-Land (Midway)               | paclandm | Pac-Land (set 1)                |
+| Pac-Land (set 1)                | pacland  |                                 |
+| Pac-Land (set 2)                | pacland2 | Pac-Land (set 1)                |
+| Pac-Land (set 3)                | pacland3 | Pac-Land (set 1)                |
+| Pac-Man & Chomp Chomp           | pacnchmp | Pac & Pal                       |
+| Pac-Man (bootleg on Galaxian har| pacmanbl | PuckMan (Japan set 1)           |
+| Pac-Man (Hearts)                | pacheart | PuckMan (Japan set 1)           |
+| Pac-Man (Midway)                | pacmanm  | PuckMan (Japan set 1)           |
+| Pac-Man (Midway, harder)        | pacmod   | PuckMan (Japan set 1)           |
+| Pac-Man Plus                    | pacplus  |                                 |
+| Pac-Mania                       | pacmania |                                 |
+| Pac-Mania (Japan)               | pacmanij | Pac-Mania                       |
+| Paint Roller                    | paintrlr | Crush Roller (Kural Samno)      |
+| Palamedes (Japan)               | palamed  |                                 |
+| Pandora's Palace                | pandoras |                                 |
+| Pang (bootleg)                  | pangb    | Pang (World)                    |
+| Pang (World)                    | pang     |                                 |
+| Pang! 3 (Japan)                 | pang3    |                                 |
+| Panic Bomber                    | panicbom |                                 |
+| Paperboy                        | paperboy |                                 |
+| Parodius DA! (Japan)            | parodius |                                 |
+| Passing Shot (2 Players)        | passsht* |                                 |
+| Passing Shot (2 Players) (bootle| passshtb | Passing Shot (2 Players)        |
+| Passing Shot (4 Players) (bootle| passht4b | Passing Shot (2 Players)        |
+| Peek-a-Boo!                     | peekaboo |                                 |
+| Pengo (set 1)                   | pengo    |                                 |
+| Pengo (set 2 not encrypted)     | pengo2u  | Pengo (set 1)                   |
+| Pengo (set 2)                   | pengo2   | Pengo (set 1)                   |
+| Penguin-Kun Wars (Japan)        | pkunwarj | Penguin-Kun Wars (US)           |
+| Penguin-Kun Wars (US)           | pkunwar  |                                 |
+| Penta                           | penta    | Pengo (set 1)                   |
+| Pepper II                       | pepper2  |                                 |
+| Perfect Soldiers (Japan)        | psoldier |                                 |
+| Peter Pack-Rat                  | peterpak |                                 |
+| Phantasm (Japan)                | phantasm | Avenging Spirit                 |
+| Phantom II                      | phantom2 |                                 |
+| Phelios (Japan)                 | phelios  |                                 |
+| Phoenix (Amstar)                | phoenix  |                                 |
+| Phoenix (Centuri)               | phoenixa | Phoenix (Amstar)                |
+| Phoenix (IRECSA, G.G.I Corp)    | phoenixc | Phoenix (Amstar)                |
+| Phoenix (T.P.N.)                | phoenix3 | Phoenix (Amstar)                |
+| Phoenix (Taito)                 | phoenixt | Phoenix (Amstar)                |
+| Phozon                          | phozon   |                                 |
+| Pickin'                         | pickin   |                                 |
+| Pig Newton (Revision A)         | pignewta | Pig Newton (Revision C)         |
+| Pig Newton (Revision C)         | pignewt  |                                 |
+| Pigskin 621AD                   | pigskin  |                                 |
+| Pinball Action (set 1)          | pbaction |                                 |
+| Pinball Action (set 2)          | pbactio2 | Pinball Action (set 1)          |
+| Pinbo                           | pinbo    |                                 |
+| Pinbo (Strike)                  | pinbos   | Pinbo                           |
+| Ping Pong                       | pingpong |                                 |
+| Pioneer Balloon                 | pballoon |                                 |
+| Pipi & Bibis / Whoopee (Japan)  | pipibibs |                                 |
+| Piranha                         | piranha  | PuckMan (Japan set 1)           |
+| Pirate Ship HigeMaru            | higemaru |                                 |
+| Pisces                          | pisces   |                                 |
+| Pistol Daimyo no Bouken (Japan) | pistoldm |                                 |
+| Pit Fighter (version 3)         | pitfigh3 | Pit Fighter (version 4)         |
+| Pit Fighter (version 4)         | pitfight |                                 |
+| Pitfall II                      | pitfall2 |                                 |
+| Pitfall II (not encrypted)      | pitfallu | Pitfall II                      |
+| Pleasure Goal / Futsal - 5 on 5 | pgoal    |                                 |
+| Pleiads (bootleg)               | pleiadbl | Pleiads (Tehkan)                |
+| Pleiads (Centuri)               | pleiadce | Pleiads (Tehkan)                |
+| Pleiads (Tehkan)                | pleiads  |                                 |
+| Plotting (World)                | plotting |                                 |
+| Plump Pop (Japan)               | plumppop |                                 |
+| Plus Alpha                      | plusalph |                                 |
+| Pnickies (Japan)                | pnickj   |                                 |
+| Pocket Gal (bootleg)            | pcktgalb | Pocket Gal (Japan)              |
+| Pocket Gal (Japan)              | pcktgal  |                                 |
+| Pocket Gal 2 (World?)           | pcktgal2 | Pocket Gal (Japan)              |
+| Poker Ladies                    | pkladies |                                 |
+| Polaris (set 1)                 | polaris  |                                 |
+| Polaris (set 2)                 | polarisa | Polaris (set 1)                 |
+| Pole Position                   | polepos  |                                 |
+| Pole Position (Atari version 1) | polepos1 | Pole Position                   |
+| Pole Position (Atari version 2) | poleposa | Pole Position                   |
+| Pole Position II                | polepos2 |                                 |
+| Pole Position II (Atari bootleg | poleps2b | Pole Position II                |
+| Pole Position II (Atari bootleg | poleps2c | Pole Position II                |
+| Pole Position II (Atari)        | poleps2a | Pole Position II                |
+| Pomping World (Japan)           | pompingw | Pang (World)                    |
+| Ponpoko                         | ponpoko  |                                 |
+| Ponpoko (Venture Line)          | ponpokov | Ponpoko                         |
+| Pootan                          | pootan   | Pooyan                          |
+| Pooyan                          | pooyan   |                                 |
+| Pooyan (Stern)                  | pooyans  | Pooyan                          |
+| Pop Flamer (set 1)              | popflame |                                 |
+| Pop Flamer (set 2)              | popflama | Pop Flamer (set 1)              |
+| Pop 'n Bounce / Gapporin        | popbounc |                                 |
+| Popeye (bootleg)                | popeyebl | Popeye (set 1)                  |
+| Popeye (set 1)                  | popeye*  |                                 |
+| Popeye (set 2)                  | popeye2* | Popeye (set 1)                  |
+| Port Man                        | portman  |                                 |
+| Pot of Gold                     | potogold | Leprechaun                      |
+| Power Drive                     | powerdrv |                                 |
+| Power Spikes (Korea)            | pspikes  |                                 |
+| Power Spikes II                 | pspikes2 |                                 |
+| Power Surge                     | psurge   |                                 |
+| Prehistoric Isle in 1930 (US)   | prehislu | Prehistoric Isle in 1930 (World)|
+| Prehistoric Isle in 1930 (World)| prehisle |                                 |
+| Psychic 5                       | psychic5 |                                 |
+| Psycho Soldier (Japan)          | psychosj | Psycho Soldier (US)             |
+| Psycho Soldier (US)             | psychos  |                                 |
+| Psycho-Nics Oscar (Japan)       | oscarj   | Psycho-Nics Oscar (US)          |
+| Psycho-Nics Oscar (US)          | oscar    |                                 |
+| PuckMan (harder?)               | npacmod  | PuckMan (Japan set 1)           |
+| PuckMan (Japan set 1)           | pacman   |                                 |
+| PuckMan (Japan set 2)           | pacmanjp | PuckMan (Japan set 1)           |
+| Pulsar                          | pulsar   |                                 |
+| Pulstar                         | pulstar  |                                 |
+| Punch-Out!!                     | punchout |                                 |
+| Punk Shot (2 Players)           | punksht2 | Punk Shot (4 Players)           |
+| Punk Shot (4 Players)           | punkshot |                                 |
+| Puzzle Bobble / Bust-A-Move     | pbobble  |                                 |
+| Puzzle Club (Japan prototype)   | puzlclub |                                 |
+| Puzzle De Pon                   | puzzledp |                                 |
+| Puzzle De Pon R                 | puzzldpr | Puzzle De Pon                   |
+| Puzzled / Joy Joy Kid           | joyjoy   |                                 |
+| Puzznic (Japan)                 | puzznic  |                                 |
+| Pyros (US)                      | pyros    | Wardner (World)                 |
+| Q*bert (Japan)                  | qbertjp  | Q*bert (US)                     |
+| Q*bert (US)                     | qbert    |                                 |
+| Q*bert's Qubes                  | qbertqub |                                 |
+| Qix (set 1)                     | qix      |                                 |
+| Qix (set 2)                     | qixa     | Qix (set 1)                     |
+| Qix (set 3)                     | qixb     | Qix (set 1)                     |
+| Qix II (Tournament)             | qix2     | Qix (set 1)                     |
+| Quantum (prototype)             | quantump+| Quantum (rev 2)                 |
+| Quantum (rev 1)                 | quantum1+| Quantum (rev 2)                 |
+| Quantum (rev 2)                 | quantum+ |                                 |
+| Quartet                         | quartet  |                                 |
+| Quartet (Japan)                 | quartetj | Quartet                         |
+| Quartet II                      | quartet2 | Quartet                         |
+| Quarth (Japan)                  | quarth   | Block Hole                      |
+| Quester (Japan)                 | quester  |                                 |
+| Quiz & Dragons (Japan)          | qadj     | Quiz & Dragons (US)             |
+| Quiz & Dragons (US)             | qad      |                                 |
+| Quiz Daisousa Sen - The Last Cou| quizdais |                                 |
+| Quiz King of Fighters           | quizkof  |                                 |
+| Quiz Meintantei Neo Geo - Quiz D| quizdai2 |                                 |
+| Quiz Sangokushi (Japan)         | qsangoku |                                 |
+| Quiz Tonosama no Yabou (Japan)  | qtono1   |                                 |
+| Quiz Tonosama no Yabou 2 Zenkoku| qtono2   |                                 |
+| Qwak (prototype)                | qwakprot |                                 |
+| Rad Action                      | rdaction | Ninja Kid II (set 1)            |
+| Radar Scope                     | radarscp |                                 |
+| Radical Radial                  | radrad   |                                 |
+| Raiden                          | raiden   |                                 |
+| Raiden (Alternate Hardware)     | raidena  | Raiden                          |
+| Raiden (Korea)                  | raidenk  | Raiden                          |
+| Raimais (Japan)                 | raimais* |                                 |
+| Rainbow Islands                 | rainbow  |                                 |
+| Rainbow Islands (Extra)         | rainbowe*| Rainbow Islands                 |
+| Rally Bike / Dash Yarou         | rallybik |                                 |
+| Rally X                         | rallyx   |                                 |
+| Rally X (Midway)                | rallyxm  | Rally X                         |
+| Rampage (revision 2)            | rampage2 | Rampage (revision 3)            |
+| Rampage (revision 3)            | rampage  |                                 |
+| Rampart (2-player Joystick)     | ramprt2p | Rampart (3-player Trackball)    |
+| Rampart (3-player Trackball)    | rampart  |                                 |
+| Rampart (Japan, 2-player Joystic| rampartj | Rampart (3-player Trackball)    |
+| Rastan (US set 1)               | rastanu  | Rastan (World)                  |
+| Rastan (US set 2)               | rastanu2 | Rastan (World)                  |
+| Rastan (World)                  | rastan   |                                 |
+| Rastan Saga (Japan)             | rastsaga | Rastan (World)                  |
+| Razzmatazz                      | razmataz |                                 |
+| Reactor                         | reactor  |                                 |
+| Real Bout Fatal Fury / Real Bout| rbff1    |                                 |
+| Real Bout Fatal Fury 2 - The New| rbff2    |                                 |
+| Real Bout Fatal Fury Special / R| rbffspec |                                 |
+| Red Alert                       | redalert+|                                 |
+| Red Baron                       | redbaron |                                 |
+| Regulus                         | regulus  |                                 |
+| Regulus (not encrypted)         | regulusu | Regulus                         |
+| Relief Pitcher (set 1)          | relief   |                                 |
+| Relief Pitcher (set 2)          | relief2  | Relief Pitcher (set 1)          |
+| Renegade (US)                   | renegade |                                 |
+| Repulse                         | repulse  | Son of Phoenix                  |
+| Rescue                          | rescue   |                                 |
+| Rescue Raider                   | rescraid |                                 |
+| Return of the Invaders          | retofinv |                                 |
+| Return of the Invaders (bootleg | retofin1 | Return of the Invaders          |
+| Return of the Invaders (bootleg | retofin2 | Return of the Invaders          |
+| Return of the Jedi              | jedi     |                                 |
+| Riding Hero                     | ridhero  |                                 |
+| Ring King (set 1)               | ringking | King of Boxer (English)         |
+| Ring King (set 2)               | ringkin2*| King of Boxer (English)         |
+| Ring King (set 3)               | ringkin3 | King of Boxer (English)         |
+| Ring no Ohja (Japan)            | ringohja | The Main Event (version Y)      |
+| Riot City                       | riotcity |                                 |
+| Rip Cord                        | ripcord* |                                 |
+| Rip Off                         | ripoff   |                                 |
+| River Patrol (bootleg)          | rpatrolb |                                 |
+| Road Blasters                   | roadblst |                                 |
+| Road Fighter (set 1)            | roadf    |                                 |
+| Road Fighter (set 2)            | roadf2   | Road Fighter (set 1)            |
+| Road Runner                     | roadrunn |                                 |
+| Robby Roto                      | robby    |                                 |
+| Robo Army                       | roboarmy |                                 |
+| Robocop (US revision 0)         | robocpu0*| Robocop (World revision 3)      |
+| Robocop (US revision 1)         | robocopu*| Robocop (World revision 3)      |
+| Robocop (World bootleg)         | robocopb | Robocop (World revision 3)      |
+| Robocop (World revision 3)      | robocop* |                                 |
+| Robot Bowl                      | robotbwl |                                 |
+| Robotron (Solid Blue label)     | robotron |                                 |
+| Robotron (Yellow/Orange label)  | robotryo | Robotron (Solid Blue label)     |
+| Rock 'n Rage (World?)           | rockrage |                                 |
+| Rockman - The Power Battle (Japa| rockmanj | Mega Man - The Power Battle (Asi|
+| Roc'n Rope                      | rocnrope |                                 |
+| Roc'n Rope (Kosuka)             | rocnropk | Roc'n Rope                      |
+| RodLand (Japan)                 | rodlandj | RodLand (World)                 |
+| RodLand (World)                 | rodland  |                                 |
+| Rollergames (Japan)             | rollergj | Rollergames (US)                |
+| Rollergames (US)                | rollerg  |                                 |
+| Rolling Crash / Moon Base       | rollingc |                                 |
+| Rolling Thunder (new version)   | rthunder |                                 |
+| Rolling Thunder (old version)   | rthundro | Rolling Thunder (new version)   |
+| Rolling Thunder 2               | rthun2   |                                 |
+| Rolling Thunder 2 (Japan)       | rthun2j  | Rolling Thunder 2               |
+| Rompers (Japan old version)     | romperso | Rompers (Japan)                 |
+| Rompers (Japan)                 | rompers  |                                 |
+| Round-Up                        | roundup  |                                 |
+| Route 16                        | route16  |                                 |
+| Route 16 (bootleg)              | route16b | Route 16                        |
+| R-Type (bootleg)                | rtypeb   | R-Type (Japan)                  |
+| R-Type (Japan)                  | rtype    |                                 |
+| R-Type (US)                     | rtypeu   | R-Type (Japan)                  |
+| R-Type II                       | rtype2   |                                 |
+| R-Type II (Japan)               | rtype2j  | R-Type II                       |
+| R-Type Leo (Japan)              | rtypeleo |                                 |
+| Rug Rats                        | rugrats  | Wiping                          |
+| Runark (Japan)                  | runark   | Growl (World)                   |
+| Rush & Crash (Japan)            | rushcrsh | The Speed Rumbler (set 1)       |
+| Rush'n Attack                   | rushatck | Green Beret                     |
+| Rygar (US set 1)                | rygar    |                                 |
+| Rygar (US set 2)                | rygar2   | Rygar (US set 1)                |
+| S.P.Y. - Special Project Y (US) | spy*     |                                 |
+| S.R.D. Mission                  | srdmissn |                                 |
+| Safari                          | safari   |                                 |
+| Saigo no Nindou (Japan)         | nspiritj | Ninja Spirit                    |
+| Saint Dragon                    | stdragon |                                 |
+| Salamander                      | salamand |                                 |
+| Same! Same! Same!               | samesame | Fire Shark                      |
+| Samurai (Sega)                  | samurai  |                                 |
+| Samurai Nihon-ichi (set 1)      | tsamurai |                                 |
+| Samurai Nihon-ichi (set 2)      | tsamura2 | Samurai Nihon-ichi (set 1)      |
+| Samurai Shodown / Samurai Spirit| samsho   |                                 |
+| Samurai Shodown II / Shin Samura| samsho2  |                                 |
+| Samurai Shodown III / Samurai Sp| samsho3  |                                 |
+| Samurai Shodown IV - Amakusa's R| samsho4  |                                 |
+| SAR - Search And Rescue (US)    | sercharu | SAR - Search And Rescue (World) |
+| SAR - Search And Rescue (World) | searchar |                                 |
+| Sarge                           | sarge    |                                 |
+| Sasuke vs. Commander            | sasuke   |                                 |
+| Satan of Saturn                 | satansat |                                 |
+| Satan's Hollow (set 1)          | shollow  |                                 |
+| Satan's Hollow (set 2)          | shollow2 | Satan's Hollow (set 1)          |
+| Saturday Night Slam Masters (Wor| slammast |                                 |
+| Saturn                          | saturn   |                                 |
+| Sauro                           | sauro    |                                 |
+| Savage Bees                     | savgbees | Exed Exes                       |
+| Savage Reign / Fu'un Mokushiroku| savagere |                                 |
+| Scion                           | scion    |                                 |
+| Scion (Cinematronics)           | scionc   | Scion                           |
+| Scramble                        | scramble |                                 |
+| Scramble (bootleg on Galaxian ha| scramblb | Scramble                        |
+| Scramble (Stern)                | scrambls | Scramble                        |
+| Scrambled Egg                   | scregg   |                                 |
+| SDI - Strategic Defense Initiati| sdi      |                                 |
+| SDI - Strategic Defense Initiati| sdioj*   | SDI - Strategic Defense Initiati|
+| Sea Fighter Poseidon            | sfposeid |                                 |
+| Sea Wolf                        | seawolf  |                                 |
+| Sea Wolf II                     | seawolf2 |                                 |
+| Secret Agent (World)            | secretag | Sly Spy (US revision 3)         |
+| Section Z (set 1)               | sectionz |                                 |
+| Section Z (set 2)               | sctionza | Section Z (set 1)               |
+| Sector Zone                     | sectrzon | Seicross                        |
+| Sega Ninja                      | seganinj |                                 |
+| Sega Ninja (not encrypted)      | seganinu | Sega Ninja                      |
+| Seicross                        | seicross |                                 |
+| Seishun Scandal (Japan)         | myheroj  | My Hero (US)                    |
+| Sengoku / Sengoku Denshou (set 1| sengoku  |                                 |
+| Sengoku / Sengoku Denshou (set 2| sengokh  | Sengoku / Sengoku Denshou (set 1|
+| Sengoku 2 / Sengoku Denshou 2   | sengoku2 |                                 |
+| Senjo no Ookami                 | commandj | Commando (World)                |
+| Senjo no Ookami II (Japan)      | mercsj   | Mercs (World)                   |
+| Senjyo                          | senjyo   |                                 |
+| Sente Diagnostic Cartridge      | sentetst |                                 |
+| Shackled (US)                   | shackled |                                 |
+| Shadow Dancer (bootleg)         | shdancbl*| Shadow Dancer (US)              |
+| Shadow Dancer (Japan)           | shdancrj | Shadow Dancer (US)              |
+| Shadow Dancer (US)              | shdancer |                                 |
+| Shadow Land                     | shadowld |                                 |
+| Shadow Warriors                 | shadoww  | Ninja Gaiden                    |
+| Shanghai                        | shanghai*|                                 |
+| Shao-Lin's Road                 | shaolins | Kicker                          |
+| Shark Attack                    | sharkatt |                                 |
+| Shinnyuushain Tooru-kun         | mikiej   | Mikie                           |
+| Shinobi (bootleg)               | shinobl  | Shinobi (set 1)                 |
+| Shinobi (set 1)                 | shinobi  |                                 |
+| Shinobi (set 2)                 | shinobia*| Shinobi (set 1)                 |
+| Shinobi (set 3)                 | shinobib*| Shinobi (set 1)                 |
+| Shisensho - Joshiryo-Hen (Japan)| shisen   | Sichuan II (hack?) (set 1)      |
+| Shock Troopers                  | shocktro |                                 |
+| Shock Troopers - 2nd Squad      | shocktr2 |                                 |
+| Shoot Out (Japan)               | shootouj | Shoot Out (US)                  |
+| Shoot Out (Korean Bootleg)      | shootoub | Shoot Out (US)                  |
+| Shoot Out (US)                  | shootout |                                 |
+| Shooting Master                 | shtngmst*|                                 |
+| Showdown (version 5.0)          | showdown |                                 |
+| Shuffleboard                    | shuffle  |                                 |
+| Shuuz (version 7.1)             | shuuz2   | Shuuz (version 8.0)             |
+| Shuuz (version 8.0)             | shuuz    |                                 |
+| Sichuan II (hack ?) (set 2)     | sichuana | Sichuan II (hack?) (set 1)      |
+| Sichuan II (hack?) (set 1)      | sichuan2 |                                 |
+| Side Arms - Hyper Dyne (Japan)  | sidearjp | Side Arms - Hyper Dyne (World)  |
+| Side Arms - Hyper Dyne (US)     | sidearmr | Side Arms - Hyper Dyne (World)  |
+| Side Arms - Hyper Dyne (World)  | sidearms |                                 |
+| Side Pocket (bootleg)           | sidepctb | Side Pocket (World)             |
+| Side Pocket (Japan)             | sidepctj | Side Pocket (World)             |
+| Side Pocket (World)             | sidepckt |                                 |
+| Side Track                      | sidetrac |                                 |
+| Silkworm (set 1)                | silkworm |                                 |
+| Silkworm (set 2)                | silkwrm2 | Silkworm (set 1)                |
+| Silver Land                     | silvland | River Patrol (bootleg)          |
+| Sindbad Mystery                 | sindbadm |                                 |
+| Sinistar (prototype version)    | sinista1 | Sinistar (revision 3)           |
+| Sinistar (revision 2)           | sinista2 | Sinistar (revision 3)           |
+| Sinistar (revision 3)           | sinistar |                                 |
+| Skull & Crossbones (set 1)      | skullxbo |                                 |
+| Skull & Crossbones (set 2)      | skullxb2 | Skull & Crossbones (set 1)      |
+| Sky Adventure                   | skyadvnt |                                 |
+| Sky Chuter                      | skychut+ |                                 |
+| Sky Diver                       | skydiver |                                 |
+| Sky Kid                         | skykid   |                                 |
+| Sky Kid Deluxe (set 1)          | skykiddx |                                 |
+| Sky Kid Deluxe (set 2)          | skykiddo | Sky Kid Deluxe (set 1)          |
+| Sky Lancer                      | skylancr |                                 |
+| Sky Shark (US)                  | skyshark | Flying Shark (World)            |
+| Sky Soldiers                    | skysoldr |                                 |
+| Sky Wolf (set 1)                | skywolf  | Air Wolf                        |
+| Sky Wolf (set 2)                | skywolf2 | Air Wolf                        |
+| Slap Fight                      | slapfigh*|                                 |
+| Slap Fight (English bootleg)    | slapbtuk | Slap Fight                      |
+| Slap Fight (Japan bootleg)      | slapbtjp | Slap Fight                      |
+| Sly Spy (US revision 2)         | slyspy2  | Sly Spy (US revision 3)         |
+| Sly Spy (US revision 3)         | slyspy   |                                 |
+| Smash T.V. (rev 4.00)           | smashtv4 | Smash T.V. (rev 8.00)           |
+| Smash T.V. (rev 5.00)           | smashtv5 | Smash T.V. (rev 8.00)           |
+| Smash T.V. (rev 6.00)           | smashtv6 | Smash T.V. (rev 8.00)           |
+| Smash T.V. (rev 8.00)           | smashtv  |                                 |
+| Snacks'n Jaxson                 | snakjack |                                 |
+| Snake Pit                       | snakepit |                                 |
+| Snap Jack                       | snapjack |                                 |
+| Snow Bros. - Nick & Tom (Japan) | snowbroj | Snow Bros. - Nick & Tom (set 1) |
+| Snow Bros. - Nick & Tom (set 1) | snowbros |                                 |
+| Snow Bros. - Nick & Tom (set 2) | snowbroa | Snow Bros. - Nick & Tom (set 1) |
+| Snow Bros. - Nick & Tom (set 3) | snowbrob | Snow Bros. - Nick & Tom (set 1) |
+| Snow Bros. 2 - With New Elves   | snowbro2 |                                 |
+| Soccer Brawl                    | socbrawl |                                 |
+| Solar Fight                     | solfight | Ozma Wars                       |
+| Solar Fox                       | solarfox |                                 |
+| Solar Quest                     | solarq   |                                 |
+| Solar Warrior                   | solarwar | Xain'd Sleena                   |
+| Soldam (Japan)                  | soldamj  |                                 |
+| Solomon's Key (Japan)           | solomon  |                                 |
+| Son of Phoenix                  | sonofphx |                                 |
+| Son Son                         | sonson   |                                 |
+| SOS                             | sos      |                                 |
+| Souko Ban Deluxe (Japan)        | soukobdx |                                 |
+| Space Attack (Cocktail)         | sspacatc | Space Attack (Upright)          |
+| Space Attack (Upright)          | sspaceat |                                 |
+| Space Attack II                 | spaceatt | Space Invaders                  |
+| Space Battle                    | spacbatt | UniWar S                        |
+| Space Bird (bootleg)            | spacebrd | Space Firebird (Nintendo)       |
+| Space Chaser                    | schaser  |                                 |
+| Space Demon                     | spacedem | Space Firebird (Nintendo)       |
+| Space Duel                      | spacduel |                                 |
+| Space Dungeon                   | sdungeon |                                 |
+| Space Encounters                | spcenctr |                                 |
+| Space Fever (black and white)   | sfeverbw |                                 |
+| Space Fever (color)             | spacefev |                                 |
+| Space Firebird (bootleg)        | spacefbb | Space Firebird (Nintendo)       |
+| Space Firebird (Gremlin)        | spacefbg | Space Firebird (Nintendo)       |
+| Space Firebird (Nintendo)       | spacefb  |                                 |
+| Space Fury (revision A)         | spacfura | Space Fury (revision C)         |
+| Space Fury (revision C)         | spacfury |                                 |
+| Space Harrier                   | sharrier |                                 |
+| Space Intruder                  | spaceint+|                                 |
+| Space Invaders                  | invaders |                                 |
+| Space Invaders (CV Version)     | sicv     | Space Invaders                  |
+| Space Invaders (Logitec)        | invaderl | Space Invaders                  |
+| Space Invaders (SV Version 2)   | sisv2    | Space Invaders                  |
+| Space Invaders (SV Version)     | sisv     | Space Invaders                  |
+| Space Invaders (TV Version)     | sitv     | Space Invaders                  |
+| Space Invaders Galactica        | galap1   | Galaxian (Namco)                |
+| Space Invaders II (Midway, cockt| invad2ct |                                 |
+| Space Invaders Part II (Midway) | invdpt2m | Space Invaders Part II (Taito)  |
+| Space Invaders Part II (Taito)  | invadpt2 |                                 |
+| Space Invasion                  | spaceinv | Commando (World)                |
+| Space King                      | spceking | Space Invaders                  |
+| Space Laser                     | spclaser |                                 |
+| Space Odyssey                   | spaceod  |                                 |
+| Space Panic (German)            | panicger | Space Panic (set 1)             |
+| Space Panic (set 1)             | panic    |                                 |
+| Space Panic (set 2)             | panica   | Space Panic (set 1)             |
+| Space Phantoms                  | spaceph  | Ozma Wars                       |
+| Space Pilot                     | spaceplt | Time Pilot                      |
+| Space Seeker                    | spaceskr |                                 |
+| Space Tactics                   | stactics |                                 |
+| Space Trek (Cocktail)           | sptrekct | Space Trek (Upright)            |
+| Space Trek (Upright)            | spacetrk |                                 |
+| Space War (Leijac)              | spcewarl | Space Laser                     |
+| Space War (Sanritsu)            | spcewars | Space Invaders                  |
+| Space War Part 3                | spacewr3 | Space Invaders                  |
+| Space Wars                      | spacewar |                                 |
+| Space Zap                       | spacezap |                                 |
+| Sparkz (prototype)              | sparkz   |                                 |
+| Spartan X (Japan)               | spartanx | Kung Fu Master                  |
+| Speak & Rescue                  | speakres | Stratovox                       |
+| Spectar (revision 1?)           | spectar1 | Spectar (revision 3)            |
+| Spectar (revision 3)            | spectar  |                                 |
+| Speed Ball                      | speedbal |                                 |
+| Speed Coin (prototype)          | spdcoin  |                                 |
+| Speed Freak                     | speedfrk |                                 |
+| Spelunker                       | spelunkr |                                 |
+| Spelunker II                    | spelunk2 |                                 |
+| Spiders (set 1)                 | spiders  |                                 |
+| Spiders (set 2)                 | spiders2 | Spiders (set 1)                 |
+| Spiker                          | spiker   |                                 |
+| Spinmaster / Miracle Adventure  | spinmast |                                 |
+| Splash                          | splash   |                                 |
+| Splat!                          | splat    |                                 |
+| Splatter House (Japan)          | splatter |                                 |
+| Springer                        | springer |                                 |
+| Sprint 1                        | sprint1  |                                 |
+| Sprint 2                        | sprint2  | Sprint 1                        |
+| Spy Hunter                      | spyhunt  |                                 |
+| Spy Hunter 2                    | spyhunt2 |                                 |
+| Stadium Hero (Japan)            | stadhero |                                 |
+| Stakes Winner / Stakes Winner - | stakwin  |                                 |
+| Stakes Winner 2                 | stakwin2 |                                 |
+| Star Castle (older)             | starcas1 | Star Castle (version 3)         |
+| Star Castle (version 3)         | starcas  |                                 |
+| Star Cruiser                    | starcrus |                                 |
+| Star Fire                       | starfire*|                                 |
+| Star Force                      | starforc |                                 |
+| Star Force (encrypted)          | starfore | Star Force                      |
+| Star Hawk                       | starhawk |                                 |
+| Star Jacker (Sega)              | starjack |                                 |
+| Star Jacker (Stern)             | starjacs | Star Jacker (Sega)              |
+| Star Trek                       | startrek |                                 |
+| Star Wars                       | starw    | Galaxy Wars                     |
+| Star Wars (rev 1)               | starwar1 | Star Wars (rev 2)               |
+| Star Wars (rev 2)               | starwars |                                 |
+| Stargate                        | stargate |                                 |
+| Stinger                         | stinger  |                                 |
+| Stocker                         | stocker  |                                 |
+| Stoneage                        | stoneage | Caveman Ninja (World revision 3)|
+| Strategy X                      | stratgyx |                                 |
+| Strategy X (Stern)              | stratgys | Strategy X                      |
+| Stratovox                       | stratvox |                                 |
+| Stratovox (bootleg)             | stratvxb | Stratovox                       |
+| Streaking                       | streakng |                                 |
+| Street Fight (Germany)          | stfight  | Empire City: 1931 (bootleg?)    |
+| Street Fighter (Japan)          | sf1jp    | Street Fighter (World)          |
+| Street Fighter (US)             | sf1us    | Street Fighter (World)          |
+| Street Fighter (World)          | sf1      |                                 |
+| Street Fighter II' - Champion Ed| sf2accp2 | Street Fighter II' - Champion Ed|
+| Street Fighter II' - Champion Ed| sf2cej   | Street Fighter II' - Champion Ed|
+| Street Fighter II' - Champion Ed| sf2rb    | Street Fighter II' - Champion Ed|
+| Street Fighter II' - Champion Ed| sf2red   | Street Fighter II' - Champion Ed|
+| Street Fighter II' - Champion Ed| sf2cea   | Street Fighter II' - Champion Ed|
+| Street Fighter II' - Champion Ed| sf2ceb   | Street Fighter II' - Champion Ed|
+| Street Fighter II' - Champion Ed| sf2ce    |                                 |
+| Street Fighter II' - Hyper Fight| sf2t     | Street Fighter II' - Champion Ed|
+| Street Fighter II - The World Wa| sf2jb    | Street Fighter II - The World Wa|
+| Street Fighter II - The World Wa| sf2j     | Street Fighter II - The World Wa|
+| Street Fighter II - The World Wa| sf2a     | Street Fighter II - The World Wa|
+| Street Fighter II - The World Wa| sf2b     | Street Fighter II - The World Wa|
+| Street Fighter II - The World Wa| sf2e     | Street Fighter II - The World Wa|
+| Street Fighter II - The World Wa| sf2      |                                 |
+| Street Fighter II' Turbo - Hyper| sf2tj    | Street Fighter II' - Champion Ed|
+| Street Football                 | sfootbal |                                 |
+| Street Hoop / Street Slam / Dunk| strhoop  |                                 |
+| Street Smart (Japan version 1)  | streetsj | Street Smart (US version 2)     |
+| Street Smart (US version 1)     | streets1 | Street Smart (US version 2)     |
+| Street Smart (US version 2)     | streetsm |                                 |
+| Strider (US)                    | strider  |                                 |
+| Strider Hiryu (Japan set 1)     | striderj | Strider (US)                    |
+| Strider Hiryu (Japan set 2)     | stridrja | Strider (US)                    |
+| Strike Force (rev 1 02/25/91)   | strkforc |                                 |
+| Subs                            | subs     |                                 |
+| Sundance                        | sundance*|                                 |
+| Sunset Riders (Asia 2 Players ve| ssrdrabd | Sunset Riders (World 4 Players v|
+| Sunset Riders (Japan 2 Players v| ssrdrjbd | Sunset Riders (World 4 Players v|
+| Sunset Riders (US 2 Players ver.| ssrdrubc | Sunset Riders (World 4 Players v|
+| Sunset Riders (US 4 Players ver.| ssrdruac | Sunset Riders (World 4 Players v|
+| Sunset Riders (US 4 Players ver.| ssrdruda | Sunset Riders (World 4 Players v|
+| Sunset Riders (World 2 Players v| ssrdrebc | Sunset Riders (World 4 Players v|
+| Sunset Riders (World 2 Players v| ssrdrebd | Sunset Riders (World 4 Players v|
+| Sunset Riders (World 4 Players v| ssriders |                                 |
+| Super Bagman                    | sbagman  |                                 |
+| Super Bagman (Stern)            | sbagmans | Super Bagman                    |
+| Super Basketball                | sbasketb |                                 |
+| Super Bobble Bobble             | sboblbob | Bubble Bobble                   |
+| Super Bond                      | superbon |                                 |
+| Super Breakout                  | sbrkout  |                                 |
+| Super Burger Time (Japan)       | supbtime |                                 |
+| Super Buster Bros (US)          | sbbros   | Super Pang (World)              |
+| Super Casino                    | sucasino |                                 |
+| Super Champion Baseball         | sbasebal*|                                 |
+| Super Cobra                     | scobra   |                                 |
+| Super Cobra (bootleg)           | scobrab  | Super Cobra                     |
+| Super Cobra (Stern)             | scobras  | Super Cobra                     |
+| Super Contra                    | scontra  |                                 |
+| Super Contra (Japan)            | scontraj | Super Contra                    |
+| Super Dodge Ball / Kunio no Nekk| sdodgeb  |                                 |
+| Super Earth Invasion            | earthinv | Space Invaders                  |
+| Super Galaxians                 | superg   | Galaxian (Namco)                |
+| Super Hang-On                   | shangon* |                                 |
+| Super Hang-On (bootleg)         | shangonb | Super Hang-On                   |
+| Super High Impact (rev LA1 09/30| shimpact*|                                 |
+| Super Invaders                  | sinvemag | Space Invaders                  |
+| Super Locomotive                | suprloco |                                 |
+| Super Marukin-Ban               | marukin  |                                 |
+| Super Missile Attack            | suprmatk | Missile Command (set 1)         |
+| Super Moon Cresta               | smooncrs | Moon Cresta (Nichibutsu)        |
+| Super Mouse                     | suprmous+|                                 |
+| Super Pac-Man                   | superpac |                                 |
+| Super Pac-Man (Midway)          | superpcm | Super Pac-Man                   |
+| Super Pang (World)              | spang    |                                 |
+| Super Pierrot (Japan)           | spiero   | Do! Run Run (set 1)             |
+| Super Pool III (I-Vics)         | spool3i  | Pocket Gal (Japan)              |
+| Super Pool III (World?)         | spool3   | Pocket Gal (Japan)              |
+| Super Punch-Out!!               | spnchout |                                 |
+| Super Punch-Out!! (Japan)       | spnchotj | Super Punch-Out!!               |
+| Super Qix                       | superqix*|                                 |
+| Super Qix (bootleg)             | sqixbl   | Super Qix                       |
+| Super Real Darwin (Japan)       | srdarwin |                                 |
+| Super Sidekicks / Tokuten Ou    | ssideki  |                                 |
+| Super Sidekicks 2 - The World Ch| ssideki2 |                                 |
+| Super Sidekicks 3 - The Next Glo| ssideki3 |                                 |
+| Super Space Invaders '91 (World)| ssi      |                                 |
+| Super Sprint                    | ssprint  |                                 |
+| Super Volley '91 (Japan)        | svolly91 | Power Spikes (Korea)            |
+| Super World Stadium '92 (Japan) | sws92    |                                 |
+| Super World Stadium '93 (Japan) | sws93    | Super World Stadium '92 (Japan) |
+| Super Xevious                   | sxevious | Xevious (Namco)                 |
+| Super Zaxxon                    | szaxxon  |                                 |
+| Superman                        | superman |                                 |
+| Surprise Attack (Japan)         | surpratk |                                 |
+| Swarm                           | swarm    | Galaxian (Namco)                |
+| SWAT                            | swat     |                                 |
+| Swimmer (set 1)                 | swimmer  |                                 |
+| Swimmer (set 2)                 | swimmera | Swimmer (set 1)                 |
+| Syougi No Tatsujin - Master of S| mosyougi |                                 |
+| Syusse Oozumou (Japan)          | ssozumo  |                                 |
+| Tac/Scan                        | tacscan  |                                 |
+| Tag Team Wrestling              | tagteam  | The Big Pro Wrestling!          |
+| Tailgunner                      | tailg    |                                 |
+| Taisen Karate Dou (Japan VS vers| karatevs | Karate Champ (US)               |
+| Takeda Shingen (Japan)          | tshingen |                                 |
+| Tank (Japan)                    | tnk3j    | TNK III (US?)                   |
+| Tank Battalion                  | tankbatt |                                 |
+| Tank Force (Japan)              | tankfrcj | Tank Force (US)                 |
+| Tank Force (US)                 | tankfrce |                                 |
+| Tapper (alternate)              | tappera  | Tapper (Budweiser)              |
+| Tapper (Budweiser)              | tapper   |                                 |
+| Tapper (Root Beer)              | rbtapper | Tapper (Budweiser)              |
+| Tapper (Suntory)                | sutapper | Tapper (Budweiser)              |
+| Targ                            | targ     |                                 |
+| Tatakai no Banka (Japan)        | trojanj  | Trojan (US)                     |
+| Tazz-Mania (Scramble hardware)  | tazmania |                                 |
+| Tazz-Mania (Strategy X hardware)| tazmani2 | Tazz-Mania (Scramble hardware)  |
+| Tecmo Knight                    | tknight  |                                 |
+| Tecmo World Soccer '96          | tws96    |                                 |
+| TeddyBoy Blues                  | teddybb  |                                 |
+| Tee'd Off                       | teedoff* |                                 |
+| Teenage Mutant Hero Turtles (2 P| tmht2p   | Teenage Mutant Ninja Turtles (4 |
+| Teenage Mutant Hero Turtles (4 P| tmht     | Teenage Mutant Ninja Turtles (4 |
+| Teenage Mutant Ninja Turtles - T| tmnt22p  | Teenage Mutant Ninja Turtles - T|
+| Teenage Mutant Ninja Turtles - T| tmnt2a   | Teenage Mutant Ninja Turtles - T|
+| Teenage Mutant Ninja Turtles - T| tmnt2    |                                 |
+| Teenage Mutant Ninja Turtles (2 | tmnt2pj  | Teenage Mutant Ninja Turtles (4 |
+| Teenage Mutant Ninja Turtles (4 | tmntj    | Teenage Mutant Ninja Turtles (4 |
+| Teenage Mutant Ninja Turtles (4 | tmnt     |                                 |
+| Tehkan World Cup                | tehkanwc |                                 |
+| Teki Paki                       | tekipaki |                                 |
+| Tempest (rev 1)                 | tempest1 | Tempest (rev 3)                 |
+| Tempest (rev 2)                 | tempest2 | Tempest (rev 3)                 |
+| Tempest (rev 3)                 | tempest  |                                 |
+| Tempest Tubes                   | temptube | Tempest (rev 3)                 |
+| Tenchi wo Kurau (Japan)         | dwj      |                                 |
+| Tenchi wo Kurau II - Sekiheki no| wofj     | Warriors of Fate (World)        |
+| Terminator 2 - Judgment Day (rev| term2*   |                                 |
+| Terra Cresta (YM2203)           | terracra | Terra Cresta (YM3526 set 1)     |
+| Terra Cresta (YM3526 set 1)     | terracre |                                 |
+| Terra Cresta (YM3526 set 2)     | terracrb | Terra Cresta (YM3526 set 1)     |
+| Terra Force                     | terraf   |                                 |
+| Terra Force (US)                | terrafu  | Terra Force                     |
+| Tetris (bootleg)                | atetrisb | Tetris (set 1)                  |
+| Tetris (Cocktail set 1)         | atetcktl | Tetris (set 1)                  |
+| Tetris (Cocktail set 2)         | atetckt2 | Tetris (set 1)                  |
+| Tetris (Sega bootleg)           | tetrisbl | Tetris (Sega Set 1)             |
+| Tetris (Sega Set 1)             | tetris*  |                                 |
+| Tetris (Sega Set 2)             | tetrisa* | Tetris (Sega Set 1)             |
+| Tetris (set 1)                  | atetris  |                                 |
+| Tetris (set 2)                  | atetrisa | Tetris (set 1)                  |
+| The Astyanax                    | astyanax |                                 |
+| The Battle-Road                 | battroad |                                 |
+| The Berlin Wall (set 1)         | berlwall+|                                 |
+| The Berlin Wall (set 2)         | berlwalt+| The Berlin Wall (set 1)         |
+| The Big Pro Wrestling!          | bigprowr |                                 |
+| The Billiards                   | billiard | Video Hustler                   |
+| The Combatribes (bootleg)       | ctribeb  | The Combatribes (US)            |
+| The Combatribes (US)            | ctribe   |                                 |
+| The Double Dynamites            | dbldyn   | Dynamite Duke                   |
+| The Electric Yo-Yo (set 1)      | elecyoyo |                                 |
+| The Electric Yo-Yo (set 2)      | elecyoy2 | The Electric Yo-Yo (set 1)      |
+| The Empire Strikes Back         | esb      |                                 |
+| The End                         | theend   |                                 |
+| The End (Stern)                 | theends  | The End                         |
+| The Glob                        | theglob  |                                 |
+| The Hustler (Japan version J)   | thehustj | The Hustler (Japan version M)   |
+| The Hustler (Japan version M)   | thehustl |                                 |
+| The Irem Skins Game (US set 1)  | skingame | Major Title 2 (World)           |
+| The Irem Skins Game (US set 2)  | skingam2 | Major Title 2 (World)           |
+| The Irritating Maze / Ultra Denr| irrmaze  |                                 |
+| The King of Dragons (bootleg)   | kodb*    | The King of Dragons (World)     |
+| The King of Dragons (Japan)     | kodj     | The King of Dragons (World)     |
+| The King of Dragons (World)     | kod      |                                 |
+| The King of Fighters '94        | kof94    |                                 |
+| The King of Fighters '95        | kof95    |                                 |
+| The King of Fighters '96        | kof96    |                                 |
+| The King of Fighters '97        | kof97    |                                 |
+| The King of Fighters '98 - The S| kof98    |                                 |
+| The Last Blade / Bakumatsu Roman| lastblad |                                 |
+| The Last Blade 2 / Bakumatsu Rom| lastbld2 |                                 |
+| The Legend of Kage              | lkage    |                                 |
+| The Legend of Kage (bootleg)    | lkageb   | The Legend of Kage              |
+| The Lord of King (Japan)        | lordofk  | The Astyanax                    |
+| The Main Event (version F)      | mainevt2 | The Main Event (version Y)      |
+| The Main Event (version Y)      | mainevt  |                                 |
+| The NewZealand Story (Japan)    | tnzs     |                                 |
+| The NewZealand Story (World, boo| tnzsb    | The NewZealand Story (Japan)    |
+| The NewZealand Story 2 (World)  | tnzs2    | The NewZealand Story (Japan)    |
+| The Percussor                   | percuss  |                                 |
+| The Pit                         | thepit   |                                 |
+| The Punisher (Japan)            | punishrj | The Punisher (World)            |
+| The Punisher (US)               | punishru | The Punisher (World)            |
+| The Punisher (World)            | punisher |                                 |
+| The Real Ghostbusters (US 2 Play| ghostb   |                                 |
+| The Real Ghostbusters (US 3 Play| ghostb3  | The Real Ghostbusters (US 2 Play|
+| The Return of Ishtar            | roishtar |                                 |
+| The Simpsons (2 Players Japan)  | simps2pj | The Simpsons (4 Players)        |
+| The Simpsons (2 Players)        | simpsn2p | The Simpsons (4 Players)        |
+| The Simpsons (4 Players)        | simpsons |                                 |
+| The Speed Rumbler (set 1)       | srumbler |                                 |
+| The Speed Rumbler (set 2)       | srumblr2 | The Speed Rumbler (set 1)       |
+| The Super Spy                   | superspy |                                 |
+| The Tin Star                    | tinstar  |                                 |
+| The Tougyuu (Japan)             | bullfgtj |                                 |
+| The Ultimate 11 / Tokuten Ou - H| ssideki4 |                                 |
+| Thrash Rally                    | trally   |                                 |
+| Three Stooges                   | 3stooges |                                 |
+| Three Wonders (US)              | 3wonders |                                 |
+| Thunder Blaster (Japan)         | thndblst | Lethal Thunder (World)          |
+| Thunder Cross                   | thunderx*|                                 |
+| Thunder Cross (Japan)           | thnderxj*| Thunder Cross                   |
+| Thunder Cross II (Japan)        | thndrx2  |                                 |
+| ThunderJaws                     | thunderj |                                 |
+| Tiger Heli (bootleg 1)          | tigerhb1 | Tiger Heli (set 1)              |
+| Tiger Heli (bootleg 2)          | tigerhb2 | Tiger Heli (set 1)              |
+| Tiger Heli (Japan)              | tigerhj* | Tiger Heli (set 1)              |
+| Tiger Heli (set 1)              | tigerh*  |                                 |
+| Tiger Heli (set 2)              | tigerh2* | Tiger Heli (set 1)              |
+| Tiger Road (US)                 | tigeroad |                                 |
+| Timber                          | timber   |                                 |
+| Time Pilot                      | timeplt  |                                 |
+| Time Pilot (Centuri)            | timepltc | Time Pilot                      |
+| Time Pilot '84 (set 1)          | tp84     |                                 |
+| Time Pilot '84 (set 2)          | tp84a    | Time Pilot '84 (set 1)          |
+| Time Scanner                    | timscanr |                                 |
+| Time Soldiers (Rev 1)           | timesol1*| Time Soldiers (Rev 3)           |
+| Time Soldiers (Rev 3)           | timesold |                                 |
+| Time Tunnel                     | timetunl |                                 |
+| Tip Top                         | tiptop   | Congo Bongo                     |
+| TNK III (US?)                   | tnk3     |                                 |
+| Toggle                          | toggle   |                                 |
+| Toki (bootleg)                  | tokib    | Toki (set 1)                    |
+| Toki (set 1)                    | toki*    |                                 |
+| Toki (set 2)                    | toki2*   | Toki (set 1)                    |
+| Toki (set 3)                    | toki3*   | Toki (set 1)                    |
+| Toki (US)                       | tokiu*   | Toki (set 1)                    |
+| Toki no Senshi - Chrono Soldier | tokisens |                                 |
+| Tokio / Scramble Formation      | tokio*   |                                 |
+| Tokio / Scramble Formation (boot| tokiob   | Tokio / Scramble Formation      |
+| Tokushu Butai Jackal (Japan)    | jackalj  | Jackal (World)                  |
+| Tomahawk 777 (Revision 1)       | tomahawk |                                 |
+| Tomahawk 777 (Revision 5)       | tomahaw5 | Tomahawk 777 (Revision 1)       |
+| Toobin' (Prototype)             | toobinp  | Toobin' (version 3)             |
+| Toobin' (version 2)             | toobin2  | Toobin' (version 3)             |
+| Toobin' (version 3)             | toobin   |                                 |
+| Top Gunner (bootleg)            | topgunbl | Jackal (World)                  |
+| Top Gunner (US)                 | topgunr  | Jackal (World)                  |
+| Top Hunter - Roddy & Cathy      | tophuntr |                                 |
+| Top Player's Golf               | tpgolf   |                                 |
+| Top Racer                       | topracer | Pole Position                   |
+| Top Secret (Exidy) (version 1.0)| topsecex |                                 |
+| Top Secret (Japan)              | topsecrt | Bionic Commando (US set 1)      |
+| Tora eno Michi (Japan)          | toramich | Tiger Road (US)                 |
+| Tornado Baseball                | tornbase |                                 |
+| Toryumon                        | toryumon |                                 |
+| Total Carnage (prototype, rev 1.| totcarnp | Total Carnage (rev LA1 03/10/92)|
+| Total Carnage (rev LA1 03/10/92)| totcarn  |                                 |
+| TouchDown Fever                 | tdfever  |                                 |
+| TouchDown Fever (Japan)         | tdfeverj | TouchDown Fever                 |
+| Tough Turf (bootleg)            | tturfbl  | Tough Turf (Japan)              |
+| Tough Turf (Japan)              | tturf    |                                 |
+| Tough Turf (US)                 | tturfu   | Tough Turf (Japan)              |
+| Tournament Cyberball 2072       | cyberbt  | Cyberball                       |
+| Tower of Druaga (set 1)         | todruaga |                                 |
+| Tower of Druaga (set 2)         | todruagb | Tower of Druaga (set 1)         |
+| Track & Field                   | trackfld |                                 |
+| Track & Field (Centuri)         | trackflc | Track & Field                   |
+| Tranquilizer Gun                | tranqgun |                                 |
+| Traverse USA / Zippy Race       | travrusa |                                 |
+| Treasure Hunt (Japan?)          | treahunt | Jack the Giantkiller (set 1)    |
+| Trigon (Japan)                  | trigon   | Lightning Fighters (US)         |
+| Trio The Punch - Never Forget Me| triothep |                                 |
+| Triple Punch                    | triplep  |                                 |
+| Tri-Sports                      | trisport |                                 |
+| Trivial Pursuit (All Star Sports| triviasp |                                 |
+| Trivial Pursuit (Baby Boomer Edi| triviabb |                                 |
+| Trivial Pursuit (Genus I)       | triviag1 |                                 |
+| Trivial Pursuit (Genus II)      | triviag2 |                                 |
+| Trivial Pursuit (Young Players E| triviayp |                                 |
+| Trog (prototype, rev 4.00 07/27/| trogp    | Trog (rev LA4 03/11/91)         |
+| Trog (rev LA3 02/14/91)         | trog3    | Trog (rev LA4 03/11/91)         |
+| Trog (rev LA4 03/11/91)         | trog     |                                 |
+| Trojan (Romstar)                | trojanr  | Trojan (US)                     |
+| Trojan (US)                     | trojan   |                                 |
+| Tron (set 1)                    | tron     |                                 |
+| Tron (set 2)                    | tron2    | Tron (set 1)                    |
+| Tropical Angel                  | troangel |                                 |
+| Truxton / Tatsujin              | truxton  |                                 |
+| Tumble Pop (bootleg set 1)      | tumblepb | Tumble Pop (World)              |
+| Tumble Pop (bootleg set 2)      | tumblep2 | Tumble Pop (World)              |
+| Tumble Pop (Japan)              | tumblepj | Tumble Pop (World)              |
+| Tumble Pop (World)              | tumblep  |                                 |
+| Turbo                           | turbo    |                                 |
+| Turbo (encrypted set 1)         | turboa   | Turbo                           |
+| Turbo (encrypted set 2)         | turbob   | Turbo                           |
+| Turbo Force                     | turbofrc |                                 |
+| Turbo Tag (Prototype)           | turbotag |                                 |
+| Turkey Shoot                    | tshoot   |                                 |
+| Turpin                          | turpin   | Turtles                         |
+| Turtle Ship                     | turtship |                                 |
+| Turtles                         | turtles  |                                 |
+| Tutankham                       | tutankhm |                                 |
+| Tutankham (Stern)               | tutankst | Tutankham                       |
+| Twin Cobra (US)                 | twincobu | Twin Cobra (World)              |
+| Twin Cobra (World)              | twincobr |                                 |
+| TwinBee                         | twinbee  |                                 |
+| Twinkle Star Sprites            | twinspri |                                 |
+| Two Crude (US)                  | twocrude | Crude Buster (World FX version) |
+| Two Tigers                      | twotiger |                                 |
+| U.N. Squadron (US)              | unsquad  |                                 |
+| U.S. Navy (Japan)               | cawingj  | Carrier Air Wing (World)        |
+| Ufo Senshi Yohko Chan           | ufosensi*|                                 |
+| Ultraman (Japan)                | ultraman |                                 |
+| Undercover Cops (Japan)         | uccopsj  | Undercover Cops (World)         |
+| Undercover Cops (World)         | uccops   |                                 |
+| UniWar S                        | uniwars  |                                 |
+| Up'n Down                       | upndown  |                                 |
+| Us vs. Them                     | usvsthem*|                                 |
+| Van Van Car                     | vanvan   |                                 |
+| Van Van Car (Sanritsu)          | vanvans  | Van Van Car                     |
+| Vanguard (Centuri)              | vangrdce | Vanguard (SNK)                  |
+| Vanguard (SNK)                  | vanguard |                                 |
+| Vanguard II                     | vangrd2  |                                 |
+| Vapor Trail - Hyper Offence Form| vaportra |                                 |
+| Varth - Operation Thunderstorm (| varthj   | Varth - Operation Thunderstorm (|
+| Varth - Operation Thunderstorm (| varthu   | Varth - Operation Thunderstorm (|
+| Varth - Operation Thunderstorm (| varth    |                                 |
+| Vastar (set 1)                  | vastar   |                                 |
+| Vastar (set 2)                  | vastar2  | Vastar (set 1)                  |
+| Vendetta (Asia set 1)           | vendetta |                                 |
+| Vendetta (Asia set 2)           | vendett2 | Vendetta (Asia set 1)           |
+| Venture (version 4)             | venture4 | Venture (version 5 set 1)       |
+| Venture (version 5 set 1)       | venture  |                                 |
+| Venture (version 5 set 2)       | venture2 | Venture (version 5 set 1)       |
+| Venus                           | venus    | Gyruss (Konami)                 |
+| V-Five                          | vfive    |                                 |
+| Victory Road                    | victroad |                                 |
+| Video Hustler                   | hustler  |                                 |
+| Video Hustler (bootleg)         | hustlerb | Video Hustler                   |
+| Viewpoint                       | viewpoin |                                 |
+| Vigilante (Japan)               | vigilntj | Vigilante (World)               |
+| Vigilante (US)                  | vigilntu | Vigilante (World)               |
+| Vigilante (World)               | vigilant |                                 |
+| Vimana (Nova Apparate GMBH & Co)| vimanan  | Vimana (set 1)                  |
+| Vimana (set 1)                  | vimana   |                                 |
+| Vimana (set 2)                  | vimana2  | Vimana (set 1)                  |
+| Vindicators                     | vindictr |                                 |
+| Vindicators Part II             | vindctr2 |                                 |
+| Voltage Fighter - Gowcaizer / Ch| gowcaizr |                                 |
+| Vulcan Venture                  | vulcan   |                                 |
+| Vulgus (Japan?)                 | vulgusj  | Vulgus (set 1)                  |
+| Vulgus (set 1)                  | vulgus   |                                 |
+| Vulgus (set 2)                  | vulgus2  | Vulgus (set 1)                  |
+| Wacko                           | wacko    |                                 |
+| Waku Waku 7                     | wakuwak7 |                                 |
+| Wanted                          | wanted   |                                 |
+| War of the Bugs                 | warofbug |                                 |
+| War of the Worlds               | wotw     |                                 |
+| Wardna no Mori (Japan)          | wardnerj | Wardner (World)                 |
+| Wardner (World)                 | wardner  |                                 |
+| Warlords                        | warlord  |                                 |
+| Warp & Warp                     | warpwarp |                                 |
+| Warp Warp (Rock-ola set 1)      | warpwarr | Warp & Warp                     |
+| Warp Warp (Rock-ola set 2)      | warpwar2 | Warp & Warp                     |
+| Warrior                         | warrior  |                                 |
+| Warriors of Fate (World)        | wof      |                                 |
+| Water Ski                       | waterski |                                 |
+| WEC Le Mans 24                  | wecleman+|                                 |
+| West Story                      | weststry | Blood Bros.                     |
+| Western Express (bootleg)       | wexpresb | Express Raider (US)             |
+| Western Express (World?)        | wexpress | Express Raider (US)             |
+| Who Dunit (version 8.0)         | whodunit |                                 |
+| Whoopee (Japan) / Pipi & Bibis (| whoopee  | Pipi & Bibis / Whoopee (Japan)  |
+| Wild Fang                       | wildfang | Tecmo Knight                    |
+| Wild Western (set 1)            | wwestern |                                 |
+| Wild Western (set 2)            | wwester1 | Wild Western (set 1)            |
+| Willow (Japan, English)         | willow   |                                 |
+| Willow (Japan, Japanese)        | willowj  | Willow (Japan, English)         |
+| Windjammers / Flying Power Disc | wjammers |                                 |
+| Wiping                          | wiping   |                                 |
+| Wise Guy                        | wiseguy  | Yam! Yam!?                      |
+| Wiz                             | wiz      |                                 |
+| Wiz (Taito)                     | wizt     | Wiz                             |
+| Wizard of Wor                   | wow      |                                 |
+| Wonder 3 (Japan)                | wonder3  | Three Wonders (US)              |
+| Wonder Boy (not encrypted)      | wboyu    | Wonder Boy (set 1)              |
+| Wonder Boy (set 1)              | wboy     |                                 |
+| Wonder Boy (set 2)              | wboy2    | Wonder Boy (set 1)              |
+| Wonder Boy (set 3)              | wboy3*   | Wonder Boy (set 1)              |
+| Wonder Boy (set 4 not encrypted)| wboy4u   | Wonder Boy (set 1)              |
+| Wonder Boy (set 4)              | wboy4    | Wonder Boy (set 1)              |
+| Wonder Boy Deluxe               | wbdeluxe | Wonder Boy (set 1)              |
+| Wonder Boy III - Monster Lair (b| wb3bl    | Wonder Boy III - Monster Lair (s|
+| Wonder Boy III - Monster Lair (s| wb3      |                                 |
+| Wonder Boy III - Monster Lair (s| wb3a*    | Wonder Boy III - Monster Lair (s|
+| Wonder Boy in Monster Land      | wbml     |                                 |
+| Wonder Boy in Monster Land (Japa| wbmlju   | Wonder Boy in Monster Land      |
+| Wonder Boy in Monster Land (Japa| wbmlj*   | Wonder Boy in Monster Land      |
+| Wonder Boy in Monster Land (Japa| wbmlj2*  | Wonder Boy in Monster Land      |
+| Wonder Momo                     | wndrmomo |                                 |
+| World Court (Japan)             | wldcourt |                                 |
+| World Cup 90                    | wc90     |                                 |
+| World Heroes                    | wh1      |                                 |
+| World Heroes 2                  | wh2      |                                 |
+| World Heroes 2 Jet              | wh2j     |                                 |
+| World Heroes Perfect            | whp      |                                 |
+| World Stadium (Japan)           | ws       |                                 |
+| World Stadium '89 (Japan)       | ws89     | World Stadium (Japan)           |
+| World Stadium '90 (Japan)       | ws90     | World Stadium (Japan)           |
+| World Tennis                    | wtennis  |                                 |
+| World Wars (Japan)              | worldwar | Bermuda Triangle (US)           |
+| Wrestle War                     | wrestwar |                                 |
+| X Multiply (Japan)              | xmultipl |                                 |
+| Xain'd Sleena                   | xsleena  |                                 |
+| Xain'd Sleena (bootleg)         | xsleenab | Xain'd Sleena                   |
+| Xenophobe                       | xenophob |                                 |
+| Xevios                          | xevios   | Xevious (Namco)                 |
+| Xevious (Atari)                 | xeviousa | Xevious (Namco)                 |
+| Xevious (Namco)                 | xevious  |                                 |
+| X-Men (2 Players Japan)         | xmen2pj  | X-Men (4 Players)               |
+| X-Men (4 Players)               | xmen     |                                 |
+| X-Men (6 Players)               | xmen6p*  | X-Men (4 Players)               |
+| Xybots                          | xybots   |                                 |
+| Yam! Yam!?                      | yamyam   |                                 |
+| Yamato (set 1)                  | yamato   |                                 |
+| Yamato (set 2)                  | yamato2  | Yamato (set 1)                  |
+| Yankee DO!                      | yankeedo | Mr. Do! (Universal)             |
+| Yie Ar Kung-Fu (set 1)          | yiear    |                                 |
+| Yie Ar Kung-Fu (set 2)          | yiear2   | Yie Ar Kung-Fu (set 1)          |
+| Yokai Douchuuki (Japan new versi| youkaidk | Shadow Land                     |
+| Yokai Douchuuki (Japan old versi| yokaidko | Shadow Land                     |
+| Yosaku To Donbee (bootleg)      | yosakdon |                                 |
+| Youma Ninpou Chou (Japan)       | youma    | Ninja Emaki (US)                |
+| Zarzon                          | zarzon   | Satan of Saturn                 |
+| Zaxxon (set 1)                  | zaxxon   |                                 |
+| Zaxxon (set 2)                  | zaxxon2  | Zaxxon (set 1)                  |
+| Zed Blade / Operation Ragnarok  | zedblade |                                 |
+| Zektor                          | zektor   |                                 |
+| Zero Wing                       | zerowing |                                 |
+| Zero Zone                       | zerozone |                                 |
+| Zig Zag (Dig Dug hardware)      | dzigzag  | Dig Dug (set 1)                 |
+| Zig Zag (Galaxian hardware, set | zigzag   |                                 |
+| Zig Zag (Galaxian hardware, set | zigzag2  | Zig Zag (Galaxian hardware, set |
+| Zoar                            | zoar     |                                 |
+| Zodiack                         | zodiack  |                                 |
+| Zoo Keeper (set 1)              | zookeep  |                                 |
+| Zoo Keeper (set 2)              | zookeep2 | Zoo Keeper (set 1)              |
+| Zoo Keeper (set 3)              | zookeep3 | Zoo Keeper (set 1)              |
+| Zwackery                        | zwackery |                                 |
+| Zzyzzyxx (set 1)                | zzyzzyxx |                                 |
+| Zzyzzyxx (set 2)                | zzyzzyx2 | Zzyzzyxx (set 1)                |
++---------------------------------+----------+---------------------------------+
+* : not playable
++ : bad colors
+Total of 2048 games and clones listed
